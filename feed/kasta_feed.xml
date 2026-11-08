@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 09:34">
+<yml_catalog date="2026-11-08 09:36">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
 </currencies>
 <categories>
 <category id="1">Жіночі боді</category>
+<category id="2">Жіночі сукні</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -180,6 +181,130 @@
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
 <param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS711BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1200</price>
+<old_price>1700</old_price>
+<price_promo>1100</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>711</article>
+<name_ua>Сукня-гольф з ангори в рубчик зі шнурівкою</name_ua>
+<name_ru>Платье-гольф из ангоры в рубчик со шнуровкой</name_ru>
+<description_ua>Тепла облягаюча сукня-гольф з ангори в рубчик. Акцентний виріз на грудях зі шнурівкою, глибину вирізу можна регулювати, тому модель підходить для будь-якого об'єму грудей. Високий комір-гольф, довгі рукави, довжина міні. Тканина приємна до тіла, м'яка та добре тягнеться.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Тёплое облегающее платье-гольф из ангоры в рубчик. Акцентный вырез на груди со шнуровкой, глубину выреза можно регулировать, поэтому модель подходит для любого объёма груди. Высокий воротник-гольф, длинные рукава, длина мини. Ткань приятная к телу, мягкая и хорошо тянется.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Гольф</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Вага в упаковці, кг">0.35</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS711BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1200</price>
+<old_price>1700</old_price>
+<price_promo>1100</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>711</article>
+<name_ua>Сукня-гольф з ангори в рубчик зі шнурівкою</name_ua>
+<name_ru>Платье-гольф из ангоры в рубчик со шнуровкой</name_ru>
+<description_ua>Тепла облягаюча сукня-гольф з ангори в рубчик. Акцентний виріз на грудях зі шнурівкою, глибину вирізу можна регулювати, тому модель підходить для будь-якого об'єму грудей. Високий комір-гольф, довгі рукави, довжина міні. Тканина приємна до тіла, м'яка та добре тягнеться.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Тёплое облегающее платье-гольф из ангоры в рубчик. Акцентный вырез на груди со шнуровкой, глубину выреза можно регулировать, поэтому модель подходит для любого объёма груди. Высокий воротник-гольф, длинные рукава, длина мини. Ткань приятная к телу, мягкая и хорошо тянется.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Гольф</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Вага в упаковці, кг">0.35</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS711CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1200</price>
+<old_price>1700</old_price>
+<price_promo>1100</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>711</article>
+<name_ua>Сукня-гольф з ангори в рубчик зі шнурівкою</name_ua>
+<name_ru>Платье-гольф из ангоры в рубчик со шнуровкой</name_ru>
+<description_ua>Тепла облягаюча сукня-гольф з ангори в рубчик. Акцентний виріз на грудях зі шнурівкою, глибину вирізу можна регулювати, тому модель підходить для будь-якого об'єму грудей. Високий комір-гольф, довгі рукави, довжина міні. Тканина приємна до тіла, м'яка та добре тягнеться.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Тёплое облегающее платье-гольф из ангоры в рубчик. Акцентный вырез на груди со шнуровкой, глубину выреза можно регулировать, поэтому модель подходит для любого объёма груди. Высокий воротник-гольф, длинные рукава, длина мини. Ткань приятная к телу, мягкая и хорошо тянется.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Гольф</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Вага в упаковці, кг">0.35</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS711CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1200</price>
+<old_price>1700</old_price>
+<price_promo>1100</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/711_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>711</article>
+<name_ua>Сукня-гольф з ангори в рубчик зі шнурівкою</name_ua>
+<name_ru>Платье-гольф из ангоры в рубчик со шнуровкой</name_ru>
+<description_ua>Тепла облягаюча сукня-гольф з ангори в рубчик. Акцентний виріз на грудях зі шнурівкою, глибину вирізу можна регулювати, тому модель підходить для будь-якого об'єму грудей. Високий комір-гольф, довгі рукави, довжина міні. Тканина приємна до тіла, м'яка та добре тягнеться.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Тёплое облегающее платье-гольф из ангоры в рубчик. Акцентный вырез на груди со шнуровкой, глубину выреза можно регулировать, поэтому модель подходит для любого объёма груди. Высокий воротник-гольф, длинные рукава, длина мини. Ткань приятная к телу, мягкая и хорошо тянется.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Гольф</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
