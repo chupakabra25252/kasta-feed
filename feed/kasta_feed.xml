@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 10:51">
+<yml_catalog date="2026-11-08 13:42">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -11,6 +11,7 @@
 <category id="4">Жіночі худі</category>
 <category id="5">Жіночі спортивні костюми</category>
 <category id="6">Жіночі світшоти</category>
+<category id="7">Жіночі піжами</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -1213,6 +1214,104 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS389MLKONE" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_milk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>389</article>
+<name_ua>Махрова піжама-комбінезон з шортами та капюшоном з вушками</name_ua>
+<name_ru>Махровая пижама-комбинезон с шортами и капюшоном с ушками</name_ru>
+<description_ua>Тепла махрова піжама-комбінезон з шортами та капюшоном з вушками ведмедика. Блискавка на всю довжину, довгі рукави та шорти з відворотами, талія на резинці. Тканина з рельєфним візерунком «коси», м'яка та приємна до тіла. Вільний крій оверсайз, затишний варіант для прохолодних вечорів.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Тёплая махровая пижама-комбинезон с шортами и капюшоном с ушками мишки. Молния по всей длине, длинные рукава и шорты с отворотами, талия на резинке. Ткань с рельефным узором «косы», мягкая и приятная к телу. Свободный крой оверсайз, уютный вариант для прохладных вечеров.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">універсальний</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS389CHOONE" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_chocolate_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>389</article>
+<name_ua>Махрова піжама-комбінезон з шортами та капюшоном з вушками</name_ua>
+<name_ru>Махровая пижама-комбинезон с шортами и капюшоном с ушками</name_ru>
+<description_ua>Тепла махрова піжама-комбінезон з шортами та капюшоном з вушками ведмедика. Блискавка на всю довжину, довгі рукави та шорти з відворотами, талія на резинці. Тканина з рельєфним візерунком «коси», м'яка та приємна до тіла. Вільний крій оверсайз, затишний варіант для прохолодних вечорів.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Тёплая махровая пижама-комбинезон с шортами и капюшоном с ушками мишки. Молния по всей длине, длинные рукава и шорты с отворотами, талия на резинке. Ткань с рельефным узором «косы», мягкая и приятная к телу. Свободный крой оверсайз, уютный вариант для прохладных вечеров.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">універсальний</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS389PNKONE" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/389_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>389</article>
+<name_ua>Махрова піжама-комбінезон з шортами та капюшоном з вушками</name_ua>
+<name_ru>Махровая пижама-комбинезон с шортами и капюшоном с ушками</name_ru>
+<description_ua>Тепла махрова піжама-комбінезон з шортами та капюшоном з вушками ведмедика. Блискавка на всю довжину, довгі рукави та шорти з відворотами, талія на резинці. Тканина з рельєфним візерунком «коси», м'яка та приємна до тіла. Вільний крій оверсайз, затишний варіант для прохолодних вечорів.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Тёплая махровая пижама-комбинезон с шортами и капюшоном с ушками мишки. Молния по всей длине, длинные рукава и шорты с отворотами, талия на резинке. Ткань с рельефным узором «косы», мягкая и приятная к телу. Свободный крой оверсайз, уютный вариант для прохладных вечеров.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">універсальний</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
