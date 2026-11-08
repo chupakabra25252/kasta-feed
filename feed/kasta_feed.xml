@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 10:31">
+<yml_catalog date="2026-11-08 10:51">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -899,6 +899,320 @@
 <param name="Декор">Вишивка</param>
 <param name="Кишені">Є</param>
 <param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_chocolate_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_chocolate_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160BEG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_beige_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160BEG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_beige_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_grey_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS160MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/160_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>160</article>
+<name_ua>Костюм-двійка з ангори: кофта на блискавці та широкі штани</name_ua>
+<name_ru>Костюм-двойка из ангоры: кофта на молнии и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з м'якої турецької дабл ангори: укорочена кофта на блискавці з коміром-стійкою та широкі штани. Кофта з манжетами та поясом у рубчик, штани з високою посадкою на резинці із зав'язками. Тканина м'яка, тепла та приємна до тіла. Підійде і для дому, і для прогулянок.
+
+Тканина: дабл ангора (Туреччина).</description_ua>
+<description_ru>Костюм-двойка из мягкой турецкой дабл ангоры: укороченная кофта на молнии с воротником-стойкой и широкие брюки. Кофта с манжетами и поясом в рубчик, брюки с высокой посадкой на резинке с завязками. Ткань мягкая, тёплая и приятная к телу. Подойдёт и для дома, и для прогулок.
+
+Ткань: дабл ангора (Турция).</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора</param>
+<param name="Тканина">Дабл ангора</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
