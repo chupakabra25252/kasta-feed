@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 09:53">
+<yml_catalog date="2026-11-08 10:07">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -8,6 +8,7 @@
 <category id="1">Жіночі боді</category>
 <category id="2">Жіночі сукні</category>
 <category id="3">Жіночі комбінезони</category>
+<category id="4">Жіночі худі</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -553,6 +554,113 @@
 <param name="Особливості">Корсетна вставка з сітки, ефект push up, відкрите плече</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS780PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1290</price>
+<old_price>1790</old_price>
+<price_promo>1190</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_pink_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>780</article>
+<name_ua>Худі на блискавці з вушками на капюшоні</name_ua>
+<name_ru>Худи на молнии с ушками на капюшоне</name_ru>
+<description_ua>Укорочене худі на блискавці з капюшоном, прикрашеним довгими вушками. Капюшон і вушка мають підкладку контрастного кольору, кишені з контрастною окантовкою. Вільний крій, об'ємні рукави на манжетах-резинках. Тканина тринитка на флісі, тепла та м'яка.
+
+Тканина: тринитка на флісі.
+Півобхват грудей: 65 см. Довжина: 58 см.</description_ua>
+<description_ru>Укороченное худи на молнии с капюшоном, украшенным длинными ушками. Капюшон и ушки с подкладкой контрастного цвета, карманы с контрастной окантовкой. Свободный крой, объёмные рукава на манжетах-резинках. Ткань трёхнитка на флисе, тёплая и мягкая.
+
+Ткань: трёхнитка на флисе.
+Полуобхват груди: 65 см. Длина: 58 см.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Вільний</param>
+<param name="Напівобхват грудей, см">65</param>
+<param name="Довжина виробу, см">58</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS780RSP4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1290</price>
+<old_price>1790</old_price>
+<price_promo>1190</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_raspberry_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_raspberry_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_raspberry_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_raspberry_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>780</article>
+<name_ua>Худі на блискавці з вушками на капюшоні</name_ua>
+<name_ru>Худи на молнии с ушками на капюшоне</name_ru>
+<description_ua>Укорочене худі на блискавці з капюшоном, прикрашеним довгими вушками. Капюшон і вушка мають підкладку контрастного кольору, кишені з контрастною окантовкою. Вільний крій, об'ємні рукави на манжетах-резинках. Тканина тринитка на флісі, тепла та м'яка.
+
+Тканина: тринитка на флісі.
+Півобхват грудей: 65 см. Довжина: 58 см.</description_ua>
+<description_ru>Укороченное худи на молнии с капюшоном, украшенным длинными ушками. Капюшон и ушки с подкладкой контрастного цвета, карманы с контрастной окантовкой. Свободный крой, объёмные рукава на манжетах-резинках. Ткань трёхнитка на флисе, тёплая и мягкая.
+
+Ткань: трёхнитка на флисе.
+Полуобхват груди: 65 см. Длина: 58 см.</description_ru>
+<param name="Колір">Малиновий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Вільний</param>
+<param name="Напівобхват грудей, см">65</param>
+<param name="Довжина виробу, см">58</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS780BKP4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1290</price>
+<old_price>1790</old_price>
+<price_promo>1190</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_blackpink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_blackpink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/780_blackpink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>780</article>
+<name_ua>Худі на блискавці з вушками на капюшоні</name_ua>
+<name_ru>Худи на молнии с ушками на капюшоне</name_ru>
+<description_ua>Укорочене худі на блискавці з капюшоном, прикрашеним довгими вушками. Капюшон і вушка мають підкладку контрастного кольору, кишені з контрастною окантовкою. Вільний крій, об'ємні рукави на манжетах-резинках. Тканина тринитка на флісі, тепла та м'яка.
+
+Тканина: тринитка на флісі.
+Півобхват грудей: 65 см. Довжина: 58 см.</description_ua>
+<description_ru>Укороченное худи на молнии с капюшоном, украшенным длинными ушками. Капюшон и ушки с подкладкой контрастного цвета, карманы с контрастной окантовкой. Свободный крой, объёмные рукава на манжетах-резинках. Ткань трёхнитка на флисе, тёплая и мягкая.
+
+Ткань: трёхнитка на флисе.
+Полуобхват груди: 65 см. Длина: 58 см.</description_ru>
+<param name="Колір">Чорний з рожевим</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">З вушками</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Вільний</param>
+<param name="Напівобхват грудей, см">65</param>
+<param name="Довжина виробу, см">58</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
