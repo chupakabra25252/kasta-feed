@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 10:24">
+<yml_catalog date="2026-11-08 10:31">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -10,6 +10,7 @@
 <category id="3">Жіночі комбінезони</category>
 <category id="4">Жіночі худі</category>
 <category id="5">Жіночі спортивні костюми</category>
+<category id="6">Жіночі світшоти</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -864,6 +865,41 @@
 <param name="Кишені">Є</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS2616MLKONE" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2616_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2616</article>
+<name_ua>Світшот оверсайз з полар флісу з вишивкою Тедді</name_ua>
+<name_ru>Свитшот оверсайз из полар флиса с вышивкой Тедди</name_ru>
+<description_ua>Теплий світшот оверсайз з м'якого полар флісу. На спині об'ємна вишивка: ведмедик Тедді з бейсбольною битою та напис WINTER CHEER CLUB. Високий комір з контрастною темно-синьою вставкою, планка на кнопках, кишені з темно-синьою окантовкою. Спущена лінія плеча, об'ємні рукави на манжетах, низ на резинці. Легко поєднується з легінсами, джинсами чи спортивними штанами.
+
+Тканина: полар фліс.</description_ua>
+<description_ru>Тёплый свитшот оверсайз из мягкого полар флиса. На спине объёмная вышивка: мишка Тедди с бейсбольной битой и надпись WINTER CHEER CLUB. Высокий воротник с контрастной тёмно-синей вставкой, планка на кнопках, карманы с тёмно-синей окантовкой. Спущенная линия плеча, объёмные рукава на манжетах, низ на резинке. Легко сочетается с леггинсами, джинсами или спортивными брюками.
+
+Ткань: полар флис.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">універсальний</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Полар фліс</param>
+<param name="Застібка">Кнопки</param>
+<param name="Крій">Оверсайз</param>
+<param name="Рукав">Довгий</param>
+<param name="Декор">Вишивка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
