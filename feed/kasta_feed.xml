@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-08 09:20">
+<shop>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Жіночі боді</category>
+</categories>
+<offers>
+<offer id="VS781BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_black_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS781BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_black_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS781MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_milk_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS781MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_milk_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS781CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_chocolate_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS781CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>890</price>
+<old_price>890</old_price>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/781_chocolate_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>781</article>
+<name_ua>Боді з ангори в рубчик з коміром-стійкою на блискавці</name_ua>
+<name_ru>Боди из ангоры в рубчик с воротником-стойкой на молнии</name_ru>
+<description_ua>Облягаючий боді з ангори в рубчик. Комір-стійка застібається на блискавку, довгі рукави мають вирізи для пальців. Модель ніжно облягає фігуру та підкреслює силует.
+
+Тканина: ангора в рубчик.</description_ua>
+<description_ru>Облегающее боди из ангоры в рубчик. Воротник-стойка застёгивается на молнию, длинные рукава с вырезами для пальцев. Модель мягко облегает фигуру и подчёркивает силуэт.
+
+Ткань: ангора в рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Тканина">Ангора в рубчик</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Вирізи для пальців</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
