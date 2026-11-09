@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 18:58">
+<yml_catalog date="2026-11-09 19:26">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -1358,6 +1358,150 @@
 <param name="Крій">Оверсайз</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS825WHT4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>825</article>
+<name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
+<name_ru>Флисовый костюм с кофтой на молнии и брюками с высокой посадкой</name_ru>
+<description_ua>Теплий костюм з турецького двостороннього полар флісу. Укорочена кофта на блискавці з коміром-стійкою, кишенею-кенгуру та об'ємними рукавами на резинці; низ кофти на кулісі зі стоперами, тож довжину можна регулювати. Штани з високою посадкою на резинці, з кишенями та кулісою внизу. Контрастні смужки на рукавах і штанях. Тканина двостороння, не кашлатиться і не витирається.
+
+Тканина: двосторонній полар фліс (Туреччина).</description_ua>
+<description_ru>Тёплый костюм из турецкого двустороннего полар флиса. Укороченная кофта на молнии с воротником-стойкой, карманом-кенгуру и объёмными рукавами на резинке; низ кофты на кулиске со стопперами, поэтому длину можно регулировать. Брюки с высокой посадкой на резинке, с карманами и кулиской внизу. Контрастные полоски на рукавах и брюках. Ткань двусторонняя, не скатывается и не вытирается.
+
+Ткань: двусторонний полар флис (Турция).</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Висока посадка, куліса внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS825WHT4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>825</article>
+<name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
+<name_ru>Флисовый костюм с кофтой на молнии и брюками с высокой посадкой</name_ru>
+<description_ua>Теплий костюм з турецького двостороннього полар флісу. Укорочена кофта на блискавці з коміром-стійкою, кишенею-кенгуру та об'ємними рукавами на резинці; низ кофти на кулісі зі стоперами, тож довжину можна регулювати. Штани з високою посадкою на резинці, з кишенями та кулісою внизу. Контрастні смужки на рукавах і штанях. Тканина двостороння, не кашлатиться і не витирається.
+
+Тканина: двосторонній полар фліс (Туреччина).</description_ua>
+<description_ru>Тёплый костюм из турецкого двустороннего полар флиса. Укороченная кофта на молнии с воротником-стойкой, карманом-кенгуру и объёмными рукавами на резинке; низ кофты на кулиске со стопперами, поэтому длину можно регулировать. Брюки с высокой посадкой на резинке, с карманами и кулиской внизу. Контрастные полоски на рукавах и брюках. Ткань двусторонняя, не скатывается и не вытирается.
+
+Ткань: двусторонний полар флис (Турция).</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Висока посадка, куліса внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS825RED4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>825</article>
+<name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
+<name_ru>Флисовый костюм с кофтой на молнии и брюками с высокой посадкой</name_ru>
+<description_ua>Теплий костюм з турецького двостороннього полар флісу. Укорочена кофта на блискавці з коміром-стійкою, кишенею-кенгуру та об'ємними рукавами на резинці; низ кофти на кулісі зі стоперами, тож довжину можна регулювати. Штани з високою посадкою на резинці, з кишенями та кулісою внизу. Контрастні смужки на рукавах і штанях. Тканина двостороння, не кашлатиться і не витирається.
+
+Тканина: двосторонній полар фліс (Туреччина).</description_ua>
+<description_ru>Тёплый костюм из турецкого двустороннего полар флиса. Укороченная кофта на молнии с воротником-стойкой, карманом-кенгуру и объёмными рукавами на резинке; низ кофты на кулиске со стопперами, поэтому длину можно регулировать. Брюки с высокой посадкой на резинке, с карманами и кулиской внизу. Контрастные полоски на рукавах и брюках. Ткань двусторонняя, не скатывается и не вытирается.
+
+Ткань: двусторонний полар флис (Турция).</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Висока посадка, куліса внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS825RED4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>825</article>
+<name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
+<name_ru>Флисовый костюм с кофтой на молнии и брюками с высокой посадкой</name_ru>
+<description_ua>Теплий костюм з турецького двостороннього полар флісу. Укорочена кофта на блискавці з коміром-стійкою, кишенею-кенгуру та об'ємними рукавами на резинці; низ кофти на кулісі зі стоперами, тож довжину можна регулювати. Штани з високою посадкою на резинці, з кишенями та кулісою внизу. Контрастні смужки на рукавах і штанях. Тканина двостороння, не кашлатиться і не витирається.
+
+Тканина: двосторонній полар фліс (Туреччина).</description_ua>
+<description_ru>Тёплый костюм из турецкого двустороннего полар флиса. Укороченная кофта на молнии с воротником-стойкой, карманом-кенгуру и объёмными рукавами на резинке; низ кофты на кулиске со стопперами, поэтому длину можно регулировать. Брюки с высокой посадкой на резинке, с карманами и кулиской внизу. Контрастные полоски на рукавах и брюках. Ткань двусторонняя, не скатывается и не вытирается.
+
+Ткань: двусторонний полар флис (Турция).</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Висока посадка, куліса внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
