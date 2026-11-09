@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 13:42">
+<yml_catalog date="2026-11-09 18:58">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -12,6 +12,51 @@
 <category id="5">Жіночі спортивні костюми</category>
 <category id="6">Жіночі світшоти</category>
 <category id="7">Жіночі піжами</category>
+<category id="8">Жіночі штани</category>
+<category id="9">Жіночі джинси</category>
+<category id="10">Жіночі спідниці</category>
+<category id="11">Жіночі футболки</category>
+<category id="12">Жіночі топи</category>
+<category id="13">Жіночі майки</category>
+<category id="14">Жіночі лонгсліви</category>
+<category id="15">Жіночі поло</category>
+<category id="16">Жіночі шорти</category>
+<category id="17">Жіночі легінси</category>
+<category id="18">Жіночі светри</category>
+<category id="19">Жіночі кардигани</category>
+<category id="20">Жіночі кофти</category>
+<category id="21">Жіночі реглани</category>
+<category id="22">Жіночі гольфи</category>
+<category id="23">Жіночі толстовки</category>
+<category id="24">Жіночі олімпійки</category>
+<category id="25">Жіночі жилети</category>
+<category id="26">Жіночі блузки</category>
+<category id="27">Жіночі сорочки</category>
+<category id="28">Жіночі туніки</category>
+<category id="29">Жіночі жакети та піджаки</category>
+<category id="30">Жіночі костюми</category>
+<category id="31">Жіночі сарафани</category>
+<category id="32">Жіночі куртки</category>
+<category id="33">Жіночі пуховики</category>
+<category id="34">Жіночі пальто</category>
+<category id="35">Жіночі бомбери</category>
+<category id="36">Жіночі вітровки</category>
+<category id="37">Жіночі парки</category>
+<category id="38">Жіночі шуби</category>
+<category id="39">Жіночі плащі</category>
+<category id="40">Жіночі халати</category>
+<category id="41">Жіночі нічні сорочки</category>
+<category id="42">Жіночі домашні костюми</category>
+<category id="43">Жіночі купальники</category>
+<category id="44">Жіночі комплекти білизни</category>
+<category id="45">Жіночі бюстгальтери</category>
+<category id="46">Жіночі трусики</category>
+<category id="47">Жіночі колготки</category>
+<category id="48">Жіночі шкарпетки</category>
+<category id="49">Жіночі спідниці-шорти</category>
+<category id="50">Жіночі пончо</category>
+<category id="51">Жіночі кігурумі</category>
+<category id="52">Жіночі корсетні топи</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
