@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 19:52">
+<yml_catalog date="2026-11-09 19:57">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -1366,14 +1366,17 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_9.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_10.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_11.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
@@ -1404,14 +1407,17 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_7.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_8.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_9.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_10.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_white_11.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
@@ -1442,10 +1448,15 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_7.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_8.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_9.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
@@ -1476,10 +1487,15 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_7.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_8.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_red_9.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
@@ -1510,10 +1526,13 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_7.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
@@ -1544,10 +1563,13 @@
 <price>1670</price>
 <old_price>2170</old_price>
 <price_promo>1570</price_promo>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_1.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_2.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_3.jpg</picture>
-<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_1.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_2.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_3.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_4.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_5.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_6.v2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/825_black_7.v2.jpg</picture>
 <vendor>queensleep_7km</vendor>
 <article>825</article>
 <name_ua>Флісовий костюм з кофтою на блискавці та штанами з високою посадкою</name_ua>
