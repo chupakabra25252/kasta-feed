@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 09:05">
+<yml_catalog date="2026-11-10 09:14">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -940,11 +940,10 @@
 
 Ткань: полар флис.</description_ru>
 <param name="Колір">Молочний</param>
-<param name="Розмір">універсальний</param>
+<param name="Розмір">42-46</param>
 <param name="Склад">полар фліс</param>
 <param name="Тканина">Полар фліс</param>
 <param name="Застібка">Кнопки</param>
-<param name="Крій">Оверсайз</param>
 <param name="Рукав">Довгий</param>
 <param name="Декор">Вишивка</param>
 <param name="Кишені">Є</param>
@@ -1286,11 +1285,10 @@
 
 Ткань: турецкая махра.</description_ru>
 <param name="Колір">Молочний</param>
-<param name="Розмір">універсальний</param>
+<param name="Розмір">42-46</param>
 <param name="Склад">махра</param>
 <param name="Тканина">Махра</param>
 <param name="Країна виробництва тканини">Туреччина</param>
-<param name="Застібка">Блискавка</param>
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
@@ -1320,11 +1318,10 @@
 
 Ткань: турецкая махра.</description_ru>
 <param name="Колір">Шоколадний</param>
-<param name="Розмір">універсальний</param>
+<param name="Розмір">42-46</param>
 <param name="Склад">махра</param>
 <param name="Тканина">Махра</param>
 <param name="Країна виробництва тканини">Туреччина</param>
-<param name="Застібка">Блискавка</param>
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
@@ -1352,11 +1349,10 @@
 
 Ткань: турецкая махра.</description_ru>
 <param name="Колір">Рожевий</param>
-<param name="Розмір">універсальний</param>
+<param name="Розмір">42-46</param>
 <param name="Склад">махра</param>
 <param name="Тканина">Махра</param>
 <param name="Країна виробництва тканини">Туреччина</param>
-<param name="Застібка">Блискавка</param>
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
