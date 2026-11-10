@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 08:17">
+<yml_catalog date="2026-11-10 08:22">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -1951,6 +1951,336 @@
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
 <param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381CHO4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381NVY4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_navy_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381GRY4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_grey_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS381PNK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/381_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>381</article>
+<name_ua>Теплий костюм з укороченим зіп-худі та широкими штанами</name_ua>
+<name_ru>Тёплый костюм с укороченным зип-худи и широкими брюками</name_ru>
+<description_ua>Теплий костюм з щільної термотканини: укорочене худі на блискавці з капюшоном і широкі штани з високою посадкою. Худі вільного крою зі спущеною лінією плеча, рукави та низ на резинці. Штани на широкому поясі-резинці, з кишенями. Тканина дуже щільна, м'яка та приємна до тіла, добре тримає форму і зберігає тепло, тож костюм підійде на холодну осінь і зиму.
+
+Тканина: термотканина пума.</description_ua>
+<description_ru>Тёплый костюм из плотной термоткани: укороченное худи на молнии с капюшоном и широкие брюки с высокой посадкой. Худи свободного кроя со спущенной линией плеча, рукава и низ на резинке. Брюки на широком поясе-резинке, с карманами. Ткань очень плотная, мягкая и приятная к телу, хорошо держит форму и сохраняет тепло, поэтому костюм подойдёт на холодную осень и зиму.
+
+Ткань: термоткань пума.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">термотканина пума</param>
+<param name="Тканина">Термотканина пума</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Крій">Вільний</param>
+<param name="Штани">Широкі, висока посадка</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
