@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 08:36">
+<yml_catalog date="2026-11-10 08:52">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -2526,6 +2526,105 @@
 <param name="Крій">Вільний</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS380BLU4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_blue_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>380</article>
+<name_ua>Махрова піжама з рельєфними сердечками: світшот і штани</name_ua>
+<name_ru>Махровая пижама с рельефными сердечками: свитшот и брюки</name_ru>
+<description_ua>М'яка пухнаста піжама з турецької махри з фактурним візерунком у клітинку з сердечками. Світшот вільного крою з круглим вирізом, спущеною лінією плеча та манжетами на резинці. Штани прямі й широкі, на поясі-резинці. Тканина тепла та приємна до тіла, піжама підійде для прохолодних вечорів і затишних домашніх ранків.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Мягкая пушистая пижама из турецкой махры с фактурным узором в клетку с сердечками. Свитшот свободного кроя с круглым вырезом, спущенной линией плеча и манжетами на резинке. Брюки прямые и широкие, на поясе-резинке. Ткань тёплая и приятная к телу, пижама подойдёт для прохладных вечеров и уютных домашних утр.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Крій">Вільний</param>
+<param name="Візерунок">Сердечка</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS380MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_milk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>380</article>
+<name_ua>Махрова піжама з рельєфними сердечками: світшот і штани</name_ua>
+<name_ru>Махровая пижама с рельефными сердечками: свитшот и брюки</name_ru>
+<description_ua>М'яка пухнаста піжама з турецької махри з фактурним візерунком у клітинку з сердечками. Світшот вільного крою з круглим вирізом, спущеною лінією плеча та манжетами на резинці. Штани прямі й широкі, на поясі-резинці. Тканина тепла та приємна до тіла, піжама підійде для прохолодних вечорів і затишних домашніх ранків.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Мягкая пушистая пижама из турецкой махры с фактурным узором в клетку с сердечками. Свитшот свободного кроя с круглым вырезом, спущенной линией плеча и манжетами на резинке. Брюки прямые и широкие, на поясе-резинке. Ткань тёплая и приятная к телу, пижама подойдёт для прохладных вечеров и уютных домашних утр.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Крій">Вільний</param>
+<param name="Візерунок">Сердечка</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS380PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/380_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>380</article>
+<name_ua>Махрова піжама з рельєфними сердечками: світшот і штани</name_ua>
+<name_ru>Махровая пижама с рельефными сердечками: свитшот и брюки</name_ru>
+<description_ua>М'яка пухнаста піжама з турецької махри з фактурним візерунком у клітинку з сердечками. Світшот вільного крою з круглим вирізом, спущеною лінією плеча та манжетами на резинці. Штани прямі й широкі, на поясі-резинці. Тканина тепла та приємна до тіла, піжама підійде для прохолодних вечорів і затишних домашніх ранків.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Мягкая пушистая пижама из турецкой махры с фактурным узором в клетку с сердечками. Свитшот свободного кроя с круглым вырезом, спущенной линией плеча и манжетами на резинке. Брюки прямые и широкие, на поясе-резинке. Ткань тёплая и приятная к телу, пижама подойдёт для прохладных вечеров и уютных домашних утр.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Крій">Вільний</param>
+<param name="Візерунок">Сердечка</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
 </offers>
 </shop>
