@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 19:57">
+<yml_catalog date="2026-11-10 08:17">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -1591,6 +1591,366 @@
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
 <param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382CHO4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382NVY4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_navy_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382BRG4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_burgundy_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS382PNK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/382_pink_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>382</article>
+<name_ua>Флісовий костюм оверсайз з капюшоном і штанами-трансформерами</name_ua>
+<name_ru>Флисовый костюм оверсайз с капюшоном и брюками-трансформерами</name_ru>
+<description_ua>Теплий костюм оверсайз з щільного турецького флісу на плюші. Кофта на блискавці з високим коміром, що закриває шию від вітру, та об'ємним капюшоном; низ кофти на кулісі, тож її можна носити вільною або присобрати. Штани-трансформери з кулісами внизу: носіть їх як широкі палаццо або затягніть у джогери. Є кишені, рукави на резинці.
+
+Тканина: щільний фліс на плюші (Туреччина).</description_ua>
+<description_ru>Тёплый костюм оверсайз из плотного турецкого флиса на плюше. Кофта на молнии с высоким воротником, закрывающим шею от ветра, и объёмным капюшоном; низ кофты на кулиске, поэтому её можно носить свободной или присобрать. Брюки-трансформеры с кулисками внизу: носите их как широкие палаццо или затяните в джоггеры. Есть карманы, рукава на резинке.
+
+Ткань: плотный флис на плюше (Турция).</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Щільний фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Комір">Високий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Штани">Трансформери, куліси внизу</param>
+<param name="Кишені">Є</param>
+<param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
