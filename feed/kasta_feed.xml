@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 08:52">
+<yml_catalog date="2026-11-10 08:56">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -2625,6 +2625,140 @@
 <param name="Візерунок">Сердечка</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS504CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>504</article>
+<name_ua>Флісова кофта на блискавці з квітковим принтом</name_ua>
+<name_ru>Флисовая кофта на молнии с цветочным принтом</name_ru>
+<description_ua>Тепла кофта з м'якого двостороннього флісу з квітковим принтом. Вільний крій оверсайз зі спущеною лінією плеча, комір-стійка та блискавка на всю довжину. Рукави на манжетах-резинках, низ регулюється шнурком з фіксаторами. Тканина приємна до тіла і добре зберігає тепло, кофту зручно носити замість легкої куртки в прохолодну погоду.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Тёплая кофта из мягкого двустороннего флиса с цветочным принтом. Свободный крой оверсайз со спущенной линией плеча, воротник-стойка и молния по всей длине. Рукава на манжетах-резинках, низ регулируется шнурком с фиксаторами. Ткань приятная к телу и хорошо сохраняет тепло, кофту удобно носить вместо лёгкой куртки в прохладную погоду.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Візерунок">Квітковий принт</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS504CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>504</article>
+<name_ua>Флісова кофта на блискавці з квітковим принтом</name_ua>
+<name_ru>Флисовая кофта на молнии с цветочным принтом</name_ru>
+<description_ua>Тепла кофта з м'якого двостороннього флісу з квітковим принтом. Вільний крій оверсайз зі спущеною лінією плеча, комір-стійка та блискавка на всю довжину. Рукави на манжетах-резинках, низ регулюється шнурком з фіксаторами. Тканина приємна до тіла і добре зберігає тепло, кофту зручно носити замість легкої куртки в прохолодну погоду.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Тёплая кофта из мягкого двустороннего флиса с цветочным принтом. Свободный крой оверсайз со спущенной линией плеча, воротник-стойка и молния по всей длине. Рукава на манжетах-резинках, низ регулируется шнурком с фиксаторами. Ткань приятная к телу и хорошо сохраняет тепло, кофту удобно носить вместо лёгкой куртки в прохладную погоду.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Візерунок">Квітковий принт</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS504GRF4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>504</article>
+<name_ua>Флісова кофта на блискавці з квітковим принтом</name_ua>
+<name_ru>Флисовая кофта на молнии с цветочным принтом</name_ru>
+<description_ua>Тепла кофта з м'якого двостороннього флісу з квітковим принтом. Вільний крій оверсайз зі спущеною лінією плеча, комір-стійка та блискавка на всю довжину. Рукави на манжетах-резинках, низ регулюється шнурком з фіксаторами. Тканина приємна до тіла і добре зберігає тепло, кофту зручно носити замість легкої куртки в прохолодну погоду.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Тёплая кофта из мягкого двустороннего флиса с цветочным принтом. Свободный крой оверсайз со спущенной линией плеча, воротник-стойка и молния по всей длине. Рукава на манжетах-резинках, низ регулируется шнурком с фиксаторами. Ткань приятная к телу и хорошо сохраняет тепло, кофту удобно носить вместо лёгкой куртки в прохладную погоду.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Візерунок">Квітковий принт</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS504GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/504_graphite_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>504</article>
+<name_ua>Флісова кофта на блискавці з квітковим принтом</name_ua>
+<name_ru>Флисовая кофта на молнии с цветочным принтом</name_ru>
+<description_ua>Тепла кофта з м'якого двостороннього флісу з квітковим принтом. Вільний крій оверсайз зі спущеною лінією плеча, комір-стійка та блискавка на всю довжину. Рукави на манжетах-резинках, низ регулюється шнурком з фіксаторами. Тканина приємна до тіла і добре зберігає тепло, кофту зручно носити замість легкої куртки в прохолодну погоду.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Тёплая кофта из мягкого двустороннего флиса с цветочным принтом. Свободный крой оверсайз со спущенной линией плеча, воротник-стойка и молния по всей длине. Рукава на манжетах-резинках, низ регулируется шнурком с фиксаторами. Ткань приятная к телу и хорошо сохраняет тепло, кофту удобно носить вместо лёгкой куртки в прохладную погоду.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Візерунок">Квітковий принт</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
