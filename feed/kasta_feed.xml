@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 09:14">
+<yml_catalog date="2026-11-11 13:45">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -89,6 +89,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -118,6 +119,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -147,6 +149,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -176,6 +179,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -205,6 +209,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -234,6 +239,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Рукав">Довгий</param>
 <param name="Особливості">Вирізи для пальців</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -264,6 +270,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -294,6 +301,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -326,6 +334,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -358,6 +367,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Шнурівка, регульований виріз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -390,6 +400,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Штанини">Широкі</param>
 <param name="Особливості">Корсетна талія, капюшон, стрази</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
@@ -422,6 +433,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Штанини">Широкі</param>
 <param name="Особливості">Корсетна талія, капюшон, стрази</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
@@ -452,6 +464,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Штанини">Широкі</param>
 <param name="Особливості">Корсетна талія, капюшон, стрази</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
@@ -482,6 +495,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Штанини">Широкі</param>
 <param name="Особливості">Корсетна талія, капюшон, стрази</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
@@ -513,6 +527,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Корсетна вставка з сітки, ефект push up, відкрите плече</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -544,6 +559,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Корсетна вставка з сітки, ефект push up, відкрите плече</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -574,6 +590,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Корсетна вставка з сітки, ефект push up, відкрите плече</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -604,6 +621,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Довжина">Міні</param>
 <param name="Особливості">Корсетна вставка з сітки, ефект push up, відкрите плече</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -640,6 +658,7 @@
 <param name="Крій">Вільний</param>
 <param name="Напівобхват грудей, см">65</param>
 <param name="Довжина виробу, см">58</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -676,6 +695,7 @@
 <param name="Крій">Вільний</param>
 <param name="Напівобхват грудей, см">65</param>
 <param name="Довжина виробу, см">58</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -711,6 +731,7 @@
 <param name="Крій">Вільний</param>
 <param name="Напівобхват грудей, см">65</param>
 <param name="Довжина виробу, см">58</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -744,6 +765,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -777,6 +799,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -810,6 +833,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -843,6 +867,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -878,6 +903,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -913,6 +939,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Палаццо з фіксаторами</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -947,6 +974,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Декор">Вишивка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -978,6 +1006,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1009,6 +1038,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1040,6 +1070,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1071,6 +1102,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1103,6 +1135,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1135,6 +1168,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1167,6 +1201,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1199,6 +1234,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1230,6 +1266,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1261,6 +1298,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, висока посадка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1292,6 +1330,7 @@
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1325,6 +1364,7 @@
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1356,6 +1396,7 @@
 <param name="Капюшон">З вушками</param>
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -1397,6 +1438,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1438,6 +1480,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1477,6 +1520,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1516,6 +1560,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1553,6 +1598,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1590,6 +1636,7 @@
 <param name="Комір">Стійка</param>
 <param name="Штани">Висока посадка, куліса внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1626,6 +1673,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1662,6 +1710,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1698,6 +1747,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1734,6 +1784,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1770,6 +1821,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1806,6 +1858,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1842,6 +1895,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1878,6 +1932,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1914,6 +1969,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1950,6 +2006,7 @@
 <param name="Крій">Оверсайз</param>
 <param name="Штани">Трансформери, куліси внизу</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -1983,6 +2040,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2016,6 +2074,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2049,6 +2108,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2082,6 +2142,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2115,6 +2176,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2148,6 +2210,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2181,6 +2244,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2214,6 +2278,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2247,6 +2312,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2280,6 +2346,7 @@
 <param name="Крій">Вільний</param>
 <param name="Штани">Широкі, висока посадка</param>
 <param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2311,6 +2378,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2342,6 +2410,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2373,6 +2442,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2404,6 +2474,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2434,6 +2505,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2464,6 +2536,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2494,6 +2567,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2524,6 +2598,7 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Крій">Вільний</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
@@ -2557,6 +2632,7 @@
 <param name="Виріз">Круглий</param>
 <param name="Крій">Вільний</param>
 <param name="Візерунок">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
@@ -2590,6 +2666,7 @@
 <param name="Виріз">Круглий</param>
 <param name="Крій">Вільний</param>
 <param name="Візерунок">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
@@ -2623,6 +2700,7 @@
 <param name="Виріз">Круглий</param>
 <param name="Крій">Вільний</param>
 <param name="Візерунок">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
@@ -2656,6 +2734,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
 <param name="Візерунок">Квітковий принт</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -2689,6 +2768,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
 <param name="Візерунок">Квітковий принт</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -2723,6 +2803,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
 <param name="Візерунок">Квітковий принт</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -2757,6 +2838,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Крій">Оверсайз</param>
 <param name="Візерунок">Квітковий принт</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
@@ -2791,6 +2873,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2825,6 +2908,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2858,6 +2942,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2891,6 +2976,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2924,6 +3010,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2957,6 +3044,7 @@
 <param name="Рукав">Довгий</param>
 <param name="Посадка">Висока</param>
 <param name="Силует">Облягаючий</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х6</param>
 </offer>
@@ -2993,6 +3081,7 @@
 <param name="Застібка">Гудзик, блискавка</param>
 <param name="Кишені">Є</param>
 <param name="Деталі">Защипи, шльовки</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -3029,6 +3118,7 @@
 <param name="Застібка">Гудзик, блискавка</param>
 <param name="Кишені">Є</param>
 <param name="Деталі">Защипи, шльовки</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -3064,6 +3154,7 @@
 <param name="Застібка">Гудзик, блискавка</param>
 <param name="Кишені">Є</param>
 <param name="Деталі">Защипи, шльовки</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
@@ -3099,6 +3190,7 @@
 <param name="Застібка">Гудзик, блискавка</param>
 <param name="Кишені">Є</param>
 <param name="Деталі">Защипи, шльовки</param>
+<param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
