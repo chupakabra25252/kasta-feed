@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 13:50">
+<yml_catalog date="2026-11-12 13:56">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -61,6 +61,7 @@
 <category id="54">Жіночі термолонгсліви</category>
 <category id="55">Жіночі термолосини</category>
 <category id="56">Жіночі шорти демісезонні</category>
+<category id="57">Жіночі піжами всесезонні</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -4679,6 +4680,72 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS068BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>57</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>068</article>
+<name_ua>Трикотажна піжама з сорочкою на ґудзиках і широкими штанами</name_ua>
+<name_ru>Трикотажная пижама с рубашкой на пуговицах и широкими брюками</name_ru>
+<description_ua>Комплект для дому з м'якого турецького трикотажу. Сорочка вільного крою з коміром-лацканом, застібкою на ґудзики, нагрудною кишенею та довгими рукавами; комір, планка, кишеня й манжети оздоблені білим кантом. Штани широкі, на резинці, з білим кантом унизу. Гарний варіант для подарунка.
+
+Тканина: трикотаж, Туреччина.</description_ua>
+<description_ru>Комплект для дома из мягкого турецкого трикотажа. Рубашка свободного кроя с воротником-лацканом, застёжкой на пуговицы, нагрудным карманом и длинными рукавами; воротник, планка, карман и манжеты отделаны белым кантом. Брюки широкие, на резинке, с белым кантом внизу. Хороший вариант для подарка.
+
+Ткань: трикотаж, Турция.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Сорочка, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х6</param>
+</offer>
+<offer id="VS068BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>57</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/068_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>068</article>
+<name_ua>Трикотажна піжама з сорочкою на ґудзиках і широкими штанами</name_ua>
+<name_ru>Трикотажная пижама с рубашкой на пуговицах и широкими брюками</name_ru>
+<description_ua>Комплект для дому з м'якого турецького трикотажу. Сорочка вільного крою з коміром-лацканом, застібкою на ґудзики, нагрудною кишенею та довгими рукавами; комір, планка, кишеня й манжети оздоблені білим кантом. Штани широкі, на резинці, з білим кантом унизу. Гарний варіант для подарунка.
+
+Тканина: трикотаж, Туреччина.</description_ua>
+<description_ru>Комплект для дома из мягкого турецкого трикотажа. Рубашка свободного кроя с воротником-лацканом, застёжкой на пуговицы, нагрудным карманом и длинными рукавами; воротник, планка, карман и манжеты отделаны белым кантом. Брюки широкие, на резинке, с белым кантом внизу. Хороший вариант для подарка.
+
+Ткань: трикотаж, Турция.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Сорочка, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х6</param>
 </offer>
 </offers>
 </shop>
