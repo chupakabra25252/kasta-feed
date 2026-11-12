@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 14:04">
+<yml_catalog date="2026-11-12 14:13">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -5079,6 +5079,180 @@
 <param name="Штани">Широкі, куліски внизу</param>
 <param name="Кишені">Є</param>
 <param name="Особливості">Вишивка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS775CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_9.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_10.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_11.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>775</article>
+<name_ua>Теплий флісовий костюм з кофтою на блискавці та широкими штанами на кулісах</name_ua>
+<name_ru>Тёплый флисовый костюм с кофтой на молнии и широкими брюками на кулисках</name_ru>
+<description_ua>Теплий і практичний костюм з двостороннього полар флісу. Кофта вільного крою з коміром-стійкою та блискавкою до середини грудей, блискавка закрита й акуратно оброблена. Низ кофти та штанів на кулісках, тому довжину можна регулювати самостійно. Штани широкі, пояс на резинці, з кишенями.
+
+Заміри: 42-44 — напівобхват грудей 64 см, напівобхват талії до 43 см (тягнеться), напівобхват стегон 58 см, довжина кофти 60 см, штанів 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Тканина: двосторонній полар фліс, Туреччина.</description_ua>
+<description_ru>Тёплый и практичный костюм из двустороннего полар флиса. Кофта свободного кроя с воротником-стойкой и молнией до середины груди, молния закрытая и аккуратно обработана. Низ кофты и брюк на кулисках, поэтому длину можно регулировать самостоятельно. Брюки широкие, пояс на резинке, с карманами.
+
+Замеры: 42-44 — полуобхват груди 64 см, полуобхват талии до 43 см (тянется), полуобхват бёдер 58 см, длина кофты 60 см, брюк 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Ткань: двусторонний полар флис, Турция.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS775CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_9.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_10.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_choc_11.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>775</article>
+<name_ua>Теплий флісовий костюм з кофтою на блискавці та широкими штанами на кулісах</name_ua>
+<name_ru>Тёплый флисовый костюм с кофтой на молнии и широкими брюками на кулисках</name_ru>
+<description_ua>Теплий і практичний костюм з двостороннього полар флісу. Кофта вільного крою з коміром-стійкою та блискавкою до середини грудей, блискавка закрита й акуратно оброблена. Низ кофти та штанів на кулісках, тому довжину можна регулювати самостійно. Штани широкі, пояс на резинці, з кишенями.
+
+Заміри: 42-44 — напівобхват грудей 64 см, напівобхват талії до 43 см (тягнеться), напівобхват стегон 58 см, довжина кофти 60 см, штанів 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Тканина: двосторонній полар фліс, Туреччина.</description_ua>
+<description_ru>Тёплый и практичный костюм из двустороннего полар флиса. Кофта свободного кроя с воротником-стойкой и молнией до середины груди, молния закрытая и аккуратно обработана. Низ кофты и брюк на кулисках, поэтому длину можно регулировать самостоятельно. Брюки широкие, пояс на резинке, с карманами.
+
+Замеры: 42-44 — полуобхват груди 64 см, полуобхват талии до 43 см (тянется), полуобхват бёдер 58 см, длина кофты 60 см, брюк 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Ткань: двусторонний полар флис, Турция.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS775GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>775</article>
+<name_ua>Теплий флісовий костюм з кофтою на блискавці та широкими штанами на кулісах</name_ua>
+<name_ru>Тёплый флисовый костюм с кофтой на молнии и широкими брюками на кулисках</name_ru>
+<description_ua>Теплий і практичний костюм з двостороннього полар флісу. Кофта вільного крою з коміром-стійкою та блискавкою до середини грудей, блискавка закрита й акуратно оброблена. Низ кофти та штанів на кулісках, тому довжину можна регулювати самостійно. Штани широкі, пояс на резинці, з кишенями.
+
+Заміри: 42-44 — напівобхват грудей 64 см, напівобхват талії до 43 см (тягнеться), напівобхват стегон 58 см, довжина кофти 60 см, штанів 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Тканина: двосторонній полар фліс, Туреччина.</description_ua>
+<description_ru>Тёплый и практичный костюм из двустороннего полар флиса. Кофта свободного кроя с воротником-стойкой и молнией до середины груди, молния закрытая и аккуратно обработана. Низ кофты и брюк на кулисках, поэтому длину можно регулировать самостоятельно. Брюки широкие, пояс на резинке, с карманами.
+
+Замеры: 42-44 — полуобхват груди 64 см, полуобхват талии до 43 см (тянется), полуобхват бёдер 58 см, длина кофты 60 см, брюк 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Ткань: двусторонний полар флис, Турция.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS775GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/775_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>775</article>
+<name_ua>Теплий флісовий костюм з кофтою на блискавці та широкими штанами на кулісах</name_ua>
+<name_ru>Тёплый флисовый костюм с кофтой на молнии и широкими брюками на кулисках</name_ru>
+<description_ua>Теплий і практичний костюм з двостороннього полар флісу. Кофта вільного крою з коміром-стійкою та блискавкою до середини грудей, блискавка закрита й акуратно оброблена. Низ кофти та штанів на кулісках, тому довжину можна регулювати самостійно. Штани широкі, пояс на резинці, з кишенями.
+
+Заміри: 42-44 — напівобхват грудей 64 см, напівобхват талії до 43 см (тягнеться), напівобхват стегон 58 см, довжина кофти 60 см, штанів 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Тканина: двосторонній полар фліс, Туреччина.</description_ua>
+<description_ru>Тёплый и практичный костюм из двустороннего полар флиса. Кофта свободного кроя с воротником-стойкой и молнией до середины груди, молния закрытая и аккуратно обработана. Низ кофты и брюк на кулисках, поэтому длину можно регулировать самостоятельно. Брюки широкие, пояс на резинке, с карманами.
+
+Замеры: 42-44 — полуобхват груди 64 см, полуобхват талии до 43 см (тянется), полуобхват бёдер 58 см, длина кофты 60 см, брюк 105 см; 46-48 — 67 / до 46 / 61 / 60 / 106 см.
+
+Ткань: двусторонний полар флис, Турция.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Двосторонній полар фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
