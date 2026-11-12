@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 13:30">
+<yml_catalog date="2026-11-12 13:33">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -3675,6 +3675,134 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS712RED4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>712</article>
+<name_ua>Сукня міні з люрексу з відкритими плечима та корсетом на талії</name_ua>
+<name_ru>Платье мини из люрекса с открытыми плечами и корсетом на талии</name_ru>
+<description_ua>Святкова сукня міні з мерехтливого люрексу. Відкриті плечі з воланом і зав'язками на грудях, довгі об'ємні рукави з рюшею на манжетах. Чорний корсетний пояс підкреслює талію, спідниця пишна, у збірку. Золотий колір має ефект хамелеона і переливається на світлі.
+
+Тканина: люрекс диско.</description_ua>
+<description_ru>Праздничное платье мини из мерцающего люрекса. Открытые плечи с воланом и завязками на груди, длинные объёмные рукава с рюшей на манжетах. Чёрный корсетный пояс подчёркивает талию, юбка пышная, в сборку. Золотой цвет имеет эффект хамелеона и переливается на свету.
+
+Ткань: люрекс диско.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">люрекс</param>
+<param name="Тканина">Люрекс диско</param>
+<param name="Виріз">Відкриті плечі</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Корсет на талії, зав'язки на грудях</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS712RED4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_red_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>712</article>
+<name_ua>Сукня міні з люрексу з відкритими плечима та корсетом на талії</name_ua>
+<name_ru>Платье мини из люрекса с открытыми плечами и корсетом на талии</name_ru>
+<description_ua>Святкова сукня міні з мерехтливого люрексу. Відкриті плечі з воланом і зав'язками на грудях, довгі об'ємні рукави з рюшею на манжетах. Чорний корсетний пояс підкреслює талію, спідниця пишна, у збірку. Золотий колір має ефект хамелеона і переливається на світлі.
+
+Тканина: люрекс диско.</description_ua>
+<description_ru>Праздничное платье мини из мерцающего люрекса. Открытые плечи с воланом и завязками на груди, длинные объёмные рукава с рюшей на манжетах. Чёрный корсетный пояс подчёркивает талию, юбка пышная, в сборку. Золотой цвет имеет эффект хамелеона и переливается на свету.
+
+Ткань: люрекс диско.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">люрекс</param>
+<param name="Тканина">Люрекс диско</param>
+<param name="Виріз">Відкриті плечі</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Корсет на талії, зав'язки на грудях</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS712GLD4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>712</article>
+<name_ua>Сукня міні з люрексу з відкритими плечима та корсетом на талії</name_ua>
+<name_ru>Платье мини из люрекса с открытыми плечами и корсетом на талии</name_ru>
+<description_ua>Святкова сукня міні з мерехтливого люрексу. Відкриті плечі з воланом і зав'язками на грудях, довгі об'ємні рукави з рюшею на манжетах. Чорний корсетний пояс підкреслює талію, спідниця пишна, у збірку. Золотий колір має ефект хамелеона і переливається на світлі.
+
+Тканина: люрекс диско.</description_ua>
+<description_ru>Праздничное платье мини из мерцающего люрекса. Открытые плечи с воланом и завязками на груди, длинные объёмные рукава с рюшей на манжетах. Чёрный корсетный пояс подчёркивает талию, юбка пышная, в сборку. Золотой цвет имеет эффект хамелеона и переливается на свету.
+
+Ткань: люрекс диско.</description_ru>
+<param name="Колір">Золотий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">люрекс</param>
+<param name="Тканина">Люрекс диско</param>
+<param name="Виріз">Відкриті плечі</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Корсет на талії, зав'язки на грудях</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS712GLD4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/712_gold_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>712</article>
+<name_ua>Сукня міні з люрексу з відкритими плечима та корсетом на талії</name_ua>
+<name_ru>Платье мини из люрекса с открытыми плечами и корсетом на талии</name_ru>
+<description_ua>Святкова сукня міні з мерехтливого люрексу. Відкриті плечі з воланом і зав'язками на грудях, довгі об'ємні рукави з рюшею на манжетах. Чорний корсетний пояс підкреслює талію, спідниця пишна, у збірку. Золотий колір має ефект хамелеона і переливається на світлі.
+
+Тканина: люрекс диско.</description_ua>
+<description_ru>Праздничное платье мини из мерцающего люрекса. Открытые плечи с воланом и завязками на груди, длинные объёмные рукава с рюшей на манжетах. Чёрный корсетный пояс подчёркивает талию, юбка пышная, в сборку. Золотой цвет имеет эффект хамелеона и переливается на свету.
+
+Ткань: люрекс диско.</description_ru>
+<param name="Колір">Золотий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">люрекс</param>
+<param name="Тканина">Люрекс диско</param>
+<param name="Виріз">Відкриті плечі</param>
+<param name="Рукав">Довгий</param>
+<param name="Довжина">Міні</param>
+<param name="Особливості">Корсет на талії, зав'язки на грудях</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
