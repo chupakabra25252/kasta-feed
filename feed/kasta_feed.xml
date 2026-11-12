@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 14:00">
+<yml_catalog date="2026-11-12 14:04">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -4992,6 +4992,96 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS146OLV4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1860</price>
+<old_price>2360</old_price>
+<price_promo>1760</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_9.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_10.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_11.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_12.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_13.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>146</article>
+<name_ua>Флісовий костюм з вишивкою: укорочене зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с вышивкой: укороченное зип-худи и широкие брюки</name_ru>
+<description_ua>М'який і приємний до тіла костюм з турецького флісу. Укорочене худі вільного крою на блискавці з капюшоном, манжети на резинці, низ регулюється кулісою. Широкі штани на резинці з кишенями та кулісками внизу. Худі й штани прикрашені вишивкою, фурнітура якісна.
+
+Тканина: фліс, Туреччина.</description_ua>
+<description_ru>Мягкий и приятный к телу костюм из турецкого флиса. Укороченное худи свободного кроя на молнии с капюшоном, манжеты на резинке, низ регулируется кулиской. Широкие брюки на резинке с карманами и кулисками внизу. Худи и брюки украшены вышивкой, фурнитура качественная.
+
+Ткань: флис, Турция.</description_ru>
+<param name="Колір">Оливковий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Вишивка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS146OLV4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1860</price>
+<old_price>2360</old_price>
+<price_promo>1760</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_9.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_10.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_11.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_12.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/146_olive_13.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>146</article>
+<name_ua>Флісовий костюм з вишивкою: укорочене зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с вышивкой: укороченное зип-худи и широкие брюки</name_ru>
+<description_ua>М'який і приємний до тіла костюм з турецького флісу. Укорочене худі вільного крою на блискавці з капюшоном, манжети на резинці, низ регулюється кулісою. Широкі штани на резинці з кишенями та кулісками внизу. Худі й штани прикрашені вишивкою, фурнітура якісна.
+
+Тканина: фліс, Туреччина.</description_ua>
+<description_ru>Мягкий и приятный к телу костюм из турецкого флиса. Укороченное худи свободного кроя на молнии с капюшоном, манжеты на резинке, низ регулируется кулиской. Широкие брюки на резинке с карманами и кулисками внизу. Худи и брюки украшены вышивкой, фурнитура качественная.
+
+Ткань: флис, Турция.</description_ru>
+<param name="Колір">Оливковий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Вишивка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
