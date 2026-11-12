@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 13:23">
+<yml_catalog date="2026-11-12 13:27">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -3476,6 +3476,176 @@
 <param name="Кишені">Є</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1363CHO4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_choc_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1363</article>
+<name_ua>Флісовий костюм на плюші з худі та штанами на кулісках</name_ua>
+<name_ru>Флисовый костюм на плюше с худи и брюками на кулисках</name_ru>
+<description_ua>Теплий костюм із турецького флісу з плюшем усередині: м'який і приємний до тіла. Худі з капюшоном і кишенею-кенгуру, низ на кулісці. Штани широкі, на кулісках, тому посадку легко змінити під свій стиль.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из турецкого флиса с плюшем внутри: мягкий и приятный к телу. Худи с капюшоном и карманом-кенгуру, низ на кулиске. Брюки широкие, на кулисках, поэтому посадку легко изменить под свой стиль.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, на кулісках</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1363BLK4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1363</article>
+<name_ua>Флісовий костюм на плюші з худі та штанами на кулісках</name_ua>
+<name_ru>Флисовый костюм на плюше с худи и брюками на кулисках</name_ru>
+<description_ua>Теплий костюм із турецького флісу з плюшем усередині: м'який і приємний до тіла. Худі з капюшоном і кишенею-кенгуру, низ на кулісці. Штани широкі, на кулісках, тому посадку легко змінити під свій стиль.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из турецкого флиса с плюшем внутри: мягкий и приятный к телу. Худи с капюшоном и карманом-кенгуру, низ на кулиске. Брюки широкие, на кулисках, поэтому посадку легко изменить под свой стиль.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, на кулісках</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1363GRY4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_grey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1363</article>
+<name_ua>Флісовий костюм на плюші з худі та штанами на кулісках</name_ua>
+<name_ru>Флисовый костюм на плюше с худи и брюками на кулисках</name_ru>
+<description_ua>Теплий костюм із турецького флісу з плюшем усередині: м'який і приємний до тіла. Худі з капюшоном і кишенею-кенгуру, низ на кулісці. Штани широкі, на кулісках, тому посадку легко змінити під свій стиль.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из турецкого флиса с плюшем внутри: мягкий и приятный к телу. Худи с капюшоном и карманом-кенгуру, низ на кулиске. Брюки широкие, на кулисках, поэтому посадку легко изменить под свой стиль.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, на кулісках</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1363PNK4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_pink_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1363</article>
+<name_ua>Флісовий костюм на плюші з худі та штанами на кулісках</name_ua>
+<name_ru>Флисовый костюм на плюше с худи и брюками на кулисках</name_ru>
+<description_ua>Теплий костюм із турецького флісу з плюшем усередині: м'який і приємний до тіла. Худі з капюшоном і кишенею-кенгуру, низ на кулісці. Штани широкі, на кулісках, тому посадку легко змінити під свій стиль.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из турецкого флиса с плюшем внутри: мягкий и приятный к телу. Худи с капюшоном и карманом-кенгуру, низ на кулиске. Брюки широкие, на кулисках, поэтому посадку легко изменить под свой стиль.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, на кулісках</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1363BLU4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1363_blue_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1363</article>
+<name_ua>Флісовий костюм на плюші з худі та штанами на кулісках</name_ua>
+<name_ru>Флисовый костюм на плюше с худи и брюками на кулисках</name_ru>
+<description_ua>Теплий костюм із турецького флісу з плюшем усередині: м'який і приємний до тіла. Худі з капюшоном і кишенею-кенгуру, низ на кулісці. Штани широкі, на кулісках, тому посадку легко змінити під свій стиль.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из турецкого флиса с плюшем внутри: мягкий и приятный к телу. Худи с капюшоном и карманом-кенгуру, низ на кулиске. Брюки широкие, на кулисках, поэтому посадку легко изменить под свой стиль.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, на кулісках</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
