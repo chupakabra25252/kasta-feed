@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 14:13">
+<yml_catalog date="2026-11-12 14:22">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -5252,6 +5252,254 @@
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
 <param name="Штани">Широкі, куліски внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751NVY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_navy_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751MOC4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS751MOC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1840</price>
+<old_price>2340</old_price>
+<price_promo>1740</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_mocco_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/751_sizes.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>751</article>
+<name_ua>Флісовий костюм з контрастним кантом: зіп-худі та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: зип-худи и широкие брюки</name_ru>
+<description_ua>Костюм-двійка з двостороннього турецького флісу з контрастним білим кантом. Худі на блискавці з капюшоном і кишенями спереду, низ на затяжках. Широкі штани з кишенями по боках, на талії м'яка резинка та шнурок, низ на затяжках.
+
+Заміри (42-44 / 46-48). Кофта: обхват грудей до 106 / до 120 см, обхват талії до 106 / до 120 см, довжина рукава від шиї 74 см, довжина 55 / 58 см. Штани: обхват талії 64-88 / 74-98 см, обхват стегон до 104 / до 112 см, довжина 106 см, по внутрішньому шву 79 см.
+
+Тканина: двосторонній фліс, Туреччина.</description_ua>
+<description_ru>Костюм-двойка из двустороннего турецкого флиса с контрастным белым кантом. Худи на молнии с капюшоном и карманами спереди, низ на утяжках. Широкие брюки с карманами по бокам, на талии мягкая резинка и шнурок, низ на утяжках.
+
+Замеры (42-44 / 46-48). Кофта: обхват груди до 106 / до 120 см, обхват талии до 106 / до 120 см, длина рукава от шеи 74 см, длина 55 / 58 см. Брюки: обхват талии 64-88 / 74-98 см, обхват бёдер до 104 / до 112 см, длина 106 см, по внутреннему шву 79 см.
+
+Ткань: двусторонний флис, Турция.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі, затяжки внизу</param>
 <param name="Кишені">Є</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
