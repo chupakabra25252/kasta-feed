@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 13:47">
+<yml_catalog date="2026-11-12 13:50">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -4559,6 +4559,117 @@
 
 Ткань: двусторонняя махра, Турция.</description_ru>
 <param name="Колір">Молочний</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Двостороння махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Рукав">Довгий</param>
+<param name="Принт">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS10559CGRF4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10559C</article>
+<name_ua>Тепла махрова піжама з принтом сердечка: кофта та розширені штани</name_ua>
+<name_ru>Тёплая махровая пижама с принтом сердечки: кофта и расширенные брюки</name_ru>
+<description_ua>Тепла м'яка піжама з двосторонньої турецької махри з принтом сердечка. Кофта вільного крою з круглим вирізом і довгими рукавами. Штани розширені, пояс на резинці із зав'язкою. Тканина дуже приємна на дотик.
+
+Заміри: 42-44 (S-M) — обхват грудей 106 см, обхват стегон 106 см, довжина кофти 62 см, рукава 72 см, штанів 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Тканина: двостороння махра, Туреччина.</description_ua>
+<description_ru>Тёплая мягкая пижама из двусторонней турецкой махры с принтом сердечки. Кофта свободного кроя с круглым вырезом и длинными рукавами. Брюки расширенные, пояс на резинке с завязкой. Ткань очень приятная на ощупь.
+
+Замеры: 42-44 (S-M) — обхват груди 106 см, обхват бёдер 106 см, длина кофты 62 см, рукава 72 см, брюк 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Ткань: двусторонняя махра, Турция.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Двостороння махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Рукав">Довгий</param>
+<param name="Принт">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS10559CGRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10559C</article>
+<name_ua>Тепла махрова піжама з принтом сердечка: кофта та розширені штани</name_ua>
+<name_ru>Тёплая махровая пижама с принтом сердечки: кофта и расширенные брюки</name_ru>
+<description_ua>Тепла м'яка піжама з двосторонньої турецької махри з принтом сердечка. Кофта вільного крою з круглим вирізом і довгими рукавами. Штани розширені, пояс на резинці із зав'язкою. Тканина дуже приємна на дотик.
+
+Заміри: 42-44 (S-M) — обхват грудей 106 см, обхват стегон 106 см, довжина кофти 62 см, рукава 72 см, штанів 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Тканина: двостороння махра, Туреччина.</description_ua>
+<description_ru>Тёплая мягкая пижама из двусторонней турецкой махры с принтом сердечки. Кофта свободного кроя с круглым вырезом и длинными рукавами. Брюки расширенные, пояс на резинке с завязкой. Ткань очень приятная на ощупь.
+
+Замеры: 42-44 (S-M) — обхват груди 106 см, обхват бёдер 106 см, длина кофты 62 см, рукава 72 см, брюк 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Ткань: двусторонняя махра, Турция.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Двостороння махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Рукав">Довгий</param>
+<param name="Принт">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS10559CGRF4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10559C_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10559C</article>
+<name_ua>Тепла махрова піжама з принтом сердечка: кофта та розширені штани</name_ua>
+<name_ru>Тёплая махровая пижама с принтом сердечки: кофта и расширенные брюки</name_ru>
+<description_ua>Тепла м'яка піжама з двосторонньої турецької махри з принтом сердечка. Кофта вільного крою з круглим вирізом і довгими рукавами. Штани розширені, пояс на резинці із зав'язкою. Тканина дуже приємна на дотик.
+
+Заміри: 42-44 (S-M) — обхват грудей 106 см, обхват стегон 106 см, довжина кофти 62 см, рукава 72 см, штанів 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Тканина: двостороння махра, Туреччина.</description_ua>
+<description_ru>Тёплая мягкая пижама из двусторонней турецкой махры с принтом сердечки. Кофта свободного кроя с круглым вырезом и длинными рукавами. Брюки расширенные, пояс на резинке с завязкой. Ткань очень приятная на ощупь.
+
+Замеры: 42-44 (S-M) — обхват груди 106 см, обхват бёдер 106 см, длина кофты 62 см, рукава 72 см, брюк 103 см; 46-48 (M-L) — 110 / 112 / 63 / 73 / 104 см; 48-50 (L-XL) — 116 / 118 / 64 / 74 / 105 см.
+
+Ткань: двусторонняя махра, Турция.</description_ru>
+<param name="Колір">Графітовий</param>
 <param name="Розмір">48-50</param>
 <param name="Склад">махра</param>
 <param name="Тканина">Двостороння махра</param>
