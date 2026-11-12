@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 13:56">
+<yml_catalog date="2026-11-12 14:00">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -4746,6 +4746,252 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">35х30х6</param>
+</offer>
+<offer id="VS149BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_bordo_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149BRG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_bordo_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149OLV4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Оливковий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS149OLV4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/149_olive_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>149</article>
+<name_ua>Спідниця міді з матової екошкіри на флісі з розрізом і поясом</name_ua>
+<name_ru>Юбка миди из матовой экокожи на флисе с разрезом и поясом</name_ru>
+<description_ua>Облягаюча спідниця довжини міді з матової екошкіри на флісі. Висока посадка, шлейки та тонкий пояс з металевою пряжкою в комплекті, розріз спереду. Базова модель, яка легко поєднується з футболками, светрами та сорочками.
+
+Тканина: матова екошкіра на флісі.</description_ua>
+<description_ru>Облегающая юбка длины миди из матовой экокожи на флисе. Высокая посадка, шлёвки и тонкий пояс с металлической пряжкой в комплекте, разрез спереди. Базовая модель, которая легко сочетается с футболками, свитерами и рубашками.
+
+Ткань: матовая экокожа на флисе.</description_ru>
+<param name="Колір">Оливковий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">екошкіра на флісі</param>
+<param name="Тканина">Матова екошкіра на флісі</param>
+<param name="Довжина">Міді</param>
+<param name="Посадка">Висока</param>
+<param name="Особливості">Розріз спереду, пояс у комплекті</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
