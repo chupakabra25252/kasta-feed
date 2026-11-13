@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 16:46">
+<yml_catalog date="2026-11-13 16:48">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -5611,6 +5611,232 @@
 <param name="Особливості">Регульоване декольте, отвір для пальця</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416BRG4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_bordo_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416CHO4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS416BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/416_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>416</article>
+<name_ua>Сукня міні з мікродайвінгу з відкритою спиною та плечиками</name_ua>
+<name_ru>Платье мини из микродайвинга с открытой спиной и плечиками</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Спинка відкрита, плечі підкреслені плечиками, драпування по боках робить силует виразним. Тканина щільна та еластична, не просвічує.
+
+Заміри: 42-44 — обхват грудей 80-92 см, талії 60-66 см, стегон 85-88 см, довжина від плеча 80 см, рукав 60 см; 44-46 — обхват грудей 85-98 см, талії 64-75 см, стегон 90-95 см, довжина від плеча 83 см, рукав 63 см.
+
+Тканина: щільний мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Спинка открытая, плечи подчёркнуты плечиками, драпировка по бокам делает силуэт выразительным. Ткань плотная и эластичная, не просвечивает.
+
+Замеры: 42-44 — обхват груди 80-92 см, талии 60-66 см, бёдер 85-88 см, длина от плеча 80 см, рукав 60 см; 44-46 — обхват груди 85-98 см, талии 64-75 см, бёдер 90-95 см, длина от плеча 83 см, рукав 63 см.
+
+Ткань: плотный микродайвинг.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Відкрита спина, плечики, драпування</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
