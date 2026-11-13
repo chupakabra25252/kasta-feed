@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 17:05">
+<yml_catalog date="2026-11-13 17:07">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -7079,6 +7079,70 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS455BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>930</price>
+<old_price>1430</old_price>
+<price_promo>830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>455</article>
+<name_ua>Сукня міні з мікродайвінгу з корсетними вставками з регіліну</name_ua>
+<name_ru>Платье мини из микродайвинга с корсетными вставками из регилина</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Головна деталь — корсетні вставки з регіліну на талії, які підкреслюють силует. Базова чорна сукня для вечірніх і повсякденних образів.
+
+Тканина: мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Главная деталь — корсетные вставки из регилина на талии, которые подчёркивают силуэт. Базовое чёрное платье для вечерних и повседневных образов.
+
+Ткань: микродайвинг.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Корсетні вставки з регіліну</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS455BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>930</price>
+<old_price>1430</old_price>
+<price_promo>830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/455_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>455</article>
+<name_ua>Сукня міні з мікродайвінгу з корсетними вставками з регіліну</name_ua>
+<name_ru>Платье мини из микродайвинга с корсетными вставками из регилина</name_ru>
+<description_ua>Облягаюча сукня довжини міні з довгими рукавами та круглим вирізом. Головна деталь — корсетні вставки з регіліну на талії, які підкреслюють силует. Базова чорна сукня для вечірніх і повсякденних образів.
+
+Тканина: мікродайвінг.</description_ua>
+<description_ru>Облегающее платье длины мини с длинными рукавами и круглым вырезом. Главная деталь — корсетные вставки из регилина на талии, которые подчёркивают силуэт. Базовое чёрное платье для вечерних и повседневных образов.
+
+Ткань: микродайвинг.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">мікродайвінг</param>
+<param name="Тканина">Мікродайвінг</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Виріз">Круглий</param>
+<param name="Особливості">Корсетні вставки з регіліну</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.3</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
