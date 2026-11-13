@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 16:53">
+<yml_catalog date="2026-11-13 16:55">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -6047,6 +6047,42 @@
 
 Ткань: трёхнитка пенье на флисе, Турция.</description_ru>
 <param name="Колір">Графітовий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">трьохнитка п'єньє на флісі</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Крій">Оверсайз</param>
+<param name="Пояс">Резинка зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS397CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/397_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/397_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/397_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>397</article>
+<name_ua>Широкі теплі штани з трьохнитки на флісі оверсайз</name_ua>
+<name_ru>Широкие тёплые брюки из трёхнитки на флисе оверсайз</name_ru>
+<description_ua>Широкі штани вільного крою оверсайз з теплої трьохнитки на флісі. Пояс на широкій резинці зі шнурком, бічні кишені, низ штанин на манжетах. Тканина не береться ковтунцями, штани зручні для прогулянок і на кожен день.
+
+Заміри (42-46, оверсайз): обхват талії 66 см (резинка тягнеться ще на 10 см, є шнурок), обхват стегон до 120 см, довжина 104 см.
+
+Тканина: трьохнитка п'єньє на флісі, Туреччина.</description_ua>
+<description_ru>Широкие брюки свободного кроя оверсайз из тёплой трёхнитки на флисе. Пояс на широкой резинке со шнурком, боковые карманы, низ штанин на манжетах. Ткань не скатывается, брюки удобны для прогулок и на каждый день.
+
+Замеры (42-46, оверсайз): обхват талии 66 см (резинка тянется ещё на 10 см, есть шнурок), обхват бёдер до 120 см, длина 104 см.
+
+Ткань: трёхнитка пенье на флисе, Турция.</description_ru>
+<param name="Колір">Шоколадний</param>
 <param name="Розмір">42-46</param>
 <param name="Склад">трьохнитка п'єньє на флісі</param>
 <param name="Тканина">Трьохнитка на флісі</param>
