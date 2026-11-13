@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 17:04">
+<yml_catalog date="2026-11-13 17:05">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -6955,6 +6955,130 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS456PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>456</article>
+<name_ua>Домашній костюм з махри на мікрофлісі: світшот і штани</name_ua>
+<name_ru>Домашний костюм из махры на микрофлисе: свитшот и брюки</name_ru>
+<description_ua>Теплий домашній костюм з махри дрібної петлі на мікрофлісі. Світшот вільного крою з круглим вирізом і спущеною лінією плеча, рукави та низ на резинці. Штани на резинці з бічними кишенями та манжетами внизу. М'який і затишний комплект для дому.
+
+Тканина: махра мікропетля на мікрофлісі.</description_ua>
+<description_ru>Тёплый домашний костюм из махры мелкой петли на микрофлисе. Свитшот свободного кроя с круглым вырезом и спущенной линией плеча, рукава и низ на резинке. Брюки на резинке с боковыми карманами и манжетами внизу. Мягкий и уютный комплект для дома.
+
+Ткань: махра микропетля на микрофлисе.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">махра на мікрофлісі</param>
+<param name="Тканина">Махра на мікрофлісі</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS456PNK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_pink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>456</article>
+<name_ua>Домашній костюм з махри на мікрофлісі: світшот і штани</name_ua>
+<name_ru>Домашний костюм из махры на микрофлисе: свитшот и брюки</name_ru>
+<description_ua>Теплий домашній костюм з махри дрібної петлі на мікрофлісі. Світшот вільного крою з круглим вирізом і спущеною лінією плеча, рукави та низ на резинці. Штани на резинці з бічними кишенями та манжетами внизу. М'який і затишний комплект для дому.
+
+Тканина: махра мікропетля на мікрофлісі.</description_ua>
+<description_ru>Тёплый домашний костюм из махры мелкой петли на микрофлисе. Свитшот свободного кроя с круглым вырезом и спущенной линией плеча, рукава и низ на резинке. Брюки на резинке с боковыми карманами и манжетами внизу. Мягкий и уютный комплект для дома.
+
+Ткань: махра микропетля на микрофлисе.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">махра на мікрофлісі</param>
+<param name="Тканина">Махра на мікрофлісі</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS456MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>456</article>
+<name_ua>Домашній костюм з махри на мікрофлісі: світшот і штани</name_ua>
+<name_ru>Домашний костюм из махры на микрофлисе: свитшот и брюки</name_ru>
+<description_ua>Теплий домашній костюм з махри дрібної петлі на мікрофлісі. Світшот вільного крою з круглим вирізом і спущеною лінією плеча, рукави та низ на резинці. Штани на резинці з бічними кишенями та манжетами внизу. М'який і затишний комплект для дому.
+
+Тканина: махра мікропетля на мікрофлісі.</description_ua>
+<description_ru>Тёплый домашний костюм из махры мелкой петли на микрофлисе. Свитшот свободного кроя с круглым вырезом и спущенной линией плеча, рукава и низ на резинке. Брюки на резинке с боковыми карманами и манжетами внизу. Мягкий и уютный комплект для дома.
+
+Ткань: махра микропетля на микрофлисе.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">махра на мікрофлісі</param>
+<param name="Тканина">Махра на мікрофлісі</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS456MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1520</price>
+<old_price>2020</old_price>
+<price_promo>1420</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/456_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>456</article>
+<name_ua>Домашній костюм з махри на мікрофлісі: світшот і штани</name_ua>
+<name_ru>Домашний костюм из махры на микрофлисе: свитшот и брюки</name_ru>
+<description_ua>Теплий домашній костюм з махри дрібної петлі на мікрофлісі. Світшот вільного крою з круглим вирізом і спущеною лінією плеча, рукави та низ на резинці. Штани на резинці з бічними кишенями та манжетами внизу. М'який і затишний комплект для дому.
+
+Тканина: махра мікропетля на мікрофлісі.</description_ua>
+<description_ru>Тёплый домашний костюм из махры мелкой петли на микрофлисе. Свитшот свободного кроя с круглым вырезом и спущенной линией плеча, рукава и низ на резинке. Брюки на резинке с боковыми карманами и манжетами внизу. Мягкий и уютный комплект для дома.
+
+Ткань: махра микропетля на микрофлисе.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">махра на мікрофлісі</param>
+<param name="Тканина">Махра на мікрофлісі</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
