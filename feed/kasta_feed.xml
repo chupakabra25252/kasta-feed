@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 16:58">
+<yml_catalog date="2026-11-13 17:00">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -6477,6 +6477,212 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.25</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS056CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS056CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_choc_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS056MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS056MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS056BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS056BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1930</price>
+<old_price>2430</old_price>
+<price_promo>1830</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/056_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>056</article>
+<name_ua>Теплий костюм з двостороннього тедді: кофта на блискавці та штани</name_ua>
+<name_ru>Тёплый костюм из двустороннего тедди: кофта на молнии и брюки</name_ru>
+<description_ua>Теплий і м'який костюм з двостороннього тедді на мікрофлісі. Кофта вільного крою з коміром-стійкою та блискавкою до грудей, манжети на рукавах, низ на кулісі з утяжкою. Штани на резинці, з манжетами внизу. Тканина не кошлатиться, не колеться та гарно тримає форму.
+
+Тканина: двосторонній тедді на мікрофлісі.</description_ua>
+<description_ru>Тёплый и мягкий костюм из двустороннего тедди на микрофлисе. Кофта свободного кроя с воротником-стойкой и молнией до груди, манжеты на рукавах, низ на кулиске с утяжкой. Брюки на резинке, с манжетами внизу. Ткань не скатывается, не колется и хорошо держит форму.
+
+Ткань: двусторонний тедди на микрофлисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">тедді на мікрофлісі</param>
+<param name="Тканина">Тедді на мікрофлісі</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
 </offers>
 </shop>
