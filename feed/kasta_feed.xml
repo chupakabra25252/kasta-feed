@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 16:57">
+<yml_catalog date="2026-11-13 16:58">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -6255,6 +6255,228 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS028WHT4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS028WHT4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_white_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS028BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS028BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS028PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS028PNK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>900</price>
+<old_price>1400</old_price>
+<price_promo>800</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/028_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>028</article>
+<name_ua>Лонгслів з м'якого трикотажу з отвором для пальця</name_ua>
+<name_ru>Лонгслив из мягкого трикотажа с отверстием для пальца</name_ru>
+<description_ua>Облягаючий лонгслів з м'якого трикотажу з круглим вирізом. Подовжені рукави з отвором для великого пальця. Тканина приємна до тіла та добре зберігає тепло, тому лонгслів можна носити замість термобілизни.
+
+Заміри: 42-44 — обхват грудей 85-90 см, талії 65-70 см, рукав від шиї 74 см, довжина від шиї 57 см; 46-48 — обхват грудей 90-96 см, талії 70-77 см, рукав від шиї 75 см, довжина від шиї 58 см.
+
+Тканина: м'який трикотаж.</description_ua>
+<description_ru>Облегающий лонгслив из мягкого трикотажа с круглым вырезом. Удлинённые рукава с отверстием для большого пальца. Ткань приятная к телу и хорошо сохраняет тепло, поэтому лонгслив можно носить вместо термобелья.
+
+Замеры: 42-44 — обхват груди 85-90 см, талии 65-70 см, рукав от шеи 74 см, длина от шеи 57 см; 46-48 — обхват груди 90-96 см, талии 70-77 см, рукав от шеи 75 см, длина от шеи 58 см.
+
+Ткань: мягкий трикотаж.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">трикотаж</param>
+<param name="Тканина">Трикотаж</param>
+<param name="Виріз">Круглий</param>
+<param name="Рукав">Довгий</param>
+<param name="Особливості">Отвір для пальця</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.25</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
