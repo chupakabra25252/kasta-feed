@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 17:07">
+<yml_catalog date="2026-11-13 17:08">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -7143,6 +7143,286 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.3</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS453BEG4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453BEG4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_beige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453PNK4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453CHO4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_choc_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453BRG4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS453BRG4850" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/453_bordo_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>453</article>
+<name_ua>Флісова кофта на блискавці з високим коміром і кулісою на талії</name_ua>
+<name_ru>Флисовая кофта на молнии с высоким воротником и кулиской на талии</name_ru>
+<description_ua>Тепла кофта з двостороннього полар-флісу на блискавці. Високий комір-стійка з чорною вставкою, контрастні чорні канти на плечах. Куліска з утяжками підкреслює талію, рукави на манжетах-резинках, є бічні кишені. Вільний крій, м'яка та затишна тканина.
+
+Тканина: двосторонній полар-фліс.</description_ua>
+<description_ru>Тёплая кофта из двустороннего полар-флиса на молнии. Высокий воротник-стойка с чёрной вставкой, контрастные чёрные канты на плечах. Кулиска с утяжками подчёркивает талию, рукава на манжетах-резинках, есть боковые карманы. Свободный крой, мягкая и уютная ткань.
+
+Ткань: двусторонний полар-флис.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">48-50</param>
+<param name="Склад">полар-фліс</param>
+<param name="Тканина">Двосторонній полар-фліс</param>
+<param name="Комір">Стійка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Особливості">Куліска на талії, контрастні канти</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
