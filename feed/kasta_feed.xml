@@ -8264,6 +8264,136 @@
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
+<offer id="VS1358CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1358</article>
+<name_ua>Штани кльош з екошкіри на замші з високою посадкою</name_ua>
+<name_ru>Брюки клёш из экокожи на замше с высокой посадкой</name_ru>
+<description_ua>Штани з м'якої екошкіри на замші, приємні до тіла та гарно тримають форму. Висока посадка підкреслює талію, а розкльошений крій візуально подовжує ноги. Застібка на гудзик і блискавку, шльовки для ременя, кишені, декоративні шви спереду. Комфортна посадка по фігурі, стильна база на осінь і зиму.
+
+Тканина: екошкіра на замші.</description_ua>
+<description_ru>Брюки из мягкой экокожи на замше, приятные к телу и хорошо держат форму. Высокая посадка подчёркивает талию, а расклёшенный крой визуально удлиняет ноги. Застёжка на пуговицу и молнию, шлёвки для ремня, карманы, декоративные швы спереди. Комфортная посадка по фигуре, стильная база на осень и зиму.
+
+Ткань: экокожа на замше.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на замші</param>
+<param name="Тканина">Екошкіра на замші</param>
+<param name="Посадка">Висока</param>
+<param name="Фасон">Кльош</param>
+<param name="Застібка">Гудзик, блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1358CHO4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_choc_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1358</article>
+<name_ua>Штани кльош з екошкіри на замші з високою посадкою</name_ua>
+<name_ru>Брюки клёш из экокожи на замше с высокой посадкой</name_ru>
+<description_ua>Штани з м'якої екошкіри на замші, приємні до тіла та гарно тримають форму. Висока посадка підкреслює талію, а розкльошений крій візуально подовжує ноги. Застібка на гудзик і блискавку, шльовки для ременя, кишені, декоративні шви спереду. Комфортна посадка по фігурі, стильна база на осінь і зиму.
+
+Тканина: екошкіра на замші.</description_ua>
+<description_ru>Брюки из мягкой экокожи на замше, приятные к телу и хорошо держат форму. Высокая посадка подчёркивает талию, а расклёшенный крой визуально удлиняет ноги. Застёжка на пуговицу и молнию, шлёвки для ремня, карманы, декоративные швы спереди. Комфортная посадка по фигуре, стильная база на осень и зиму.
+
+Ткань: экокожа на замше.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">екошкіра на замші</param>
+<param name="Тканина">Екошкіра на замші</param>
+<param name="Посадка">Висока</param>
+<param name="Фасон">Кльош</param>
+<param name="Застібка">Гудзик, блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1358BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1358</article>
+<name_ua>Штани кльош з екошкіри на замші з високою посадкою</name_ua>
+<name_ru>Брюки клёш из экокожи на замше с высокой посадкой</name_ru>
+<description_ua>Штани з м'якої екошкіри на замші, приємні до тіла та гарно тримають форму. Висока посадка підкреслює талію, а розкльошений крій візуально подовжує ноги. Застібка на гудзик і блискавку, шльовки для ременя, кишені, декоративні шви спереду. Комфортна посадка по фігурі, стильна база на осінь і зиму.
+
+Тканина: екошкіра на замші.</description_ua>
+<description_ru>Брюки из мягкой экокожи на замше, приятные к телу и хорошо держат форму. Высокая посадка подчёркивает талию, а расклёшенный крой визуально удлиняет ноги. Застёжка на пуговицу и молнию, шлёвки для ремня, карманы, декоративные швы спереди. Комфортная посадка по фигуре, стильная база на осень и зиму.
+
+Ткань: экокожа на замше.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">екошкіра на замші</param>
+<param name="Тканина">Екошкіра на замші</param>
+<param name="Посадка">Висока</param>
+<param name="Фасон">Кльош</param>
+<param name="Застібка">Гудзик, блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1358BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1358_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1358</article>
+<name_ua>Штани кльош з екошкіри на замші з високою посадкою</name_ua>
+<name_ru>Брюки клёш из экокожи на замше с высокой посадкой</name_ru>
+<description_ua>Штани з м'якої екошкіри на замші, приємні до тіла та гарно тримають форму. Висока посадка підкреслює талію, а розкльошений крій візуально подовжує ноги. Застібка на гудзик і блискавку, шльовки для ременя, кишені, декоративні шви спереду. Комфортна посадка по фігурі, стильна база на осінь і зиму.
+
+Тканина: екошкіра на замші.</description_ua>
+<description_ru>Брюки из мягкой экокожи на замше, приятные к телу и хорошо держат форму. Высокая посадка подчёркивает талию, а расклёшенный крой визуально удлиняет ноги. Застёжка на пуговицу и молнию, шлёвки для ремня, карманы, декоративные швы спереди. Комфортная посадка по фигуре, стильная база на осень и зиму.
+
+Ткань: экокожа на замше.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">екошкіра на замші</param>
+<param name="Тканина">Екошкіра на замші</param>
+<param name="Посадка">Висока</param>
+<param name="Фасон">Кльош</param>
+<param name="Застібка">Гудзик, блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
