@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 18:23">
+<yml_catalog date="2026-11-14 18:24">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -7494,6 +7494,77 @@
 <param name="Принт">Об'ємний напис на спині</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS211BLK4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1180</price>
+<old_price>1680</old_price>
+<price_promo>1080</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/211_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/211_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>211</article>
+<name_ua>Зіп-худі оверсайз з принтом на спині</name_ua>
+<name_ru>Зип-худи оверсайз с принтом на спине</name_ru>
+<description_ua>Худі вільного крою оверсайз на блискавці з капюшоном і двома кишенями спереду. На спині принт-напис. Пояс і манжети з рібани, плечі спущені, рукави об'ємні.
+
+Розмір один, оверсайз: підходить на 42-48.
+
+Тканина: двонитка, рібана.</description_ua>
+<description_ru>Худи свободного кроя оверсайз на молнии с капюшоном и двумя карманами спереди. На спине принт-надпись. Пояс и манжеты из рибаны, плечи спущены, рукава объёмные.
+
+Размер один, оверсайз: подходит на 42-48.
+
+Ткань: двухнитка, рибана.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">двонитка, рібана</param>
+<param name="Тканина">Двонитка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Принт">Напис на спині</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS211GRY4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1180</price>
+<old_price>1680</old_price>
+<price_promo>1080</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/211_grey_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>211</article>
+<name_ua>Зіп-худі оверсайз з принтом на спині</name_ua>
+<name_ru>Зип-худи оверсайз с принтом на спине</name_ru>
+<description_ua>Худі вільного крою оверсайз на блискавці з капюшоном і двома кишенями спереду. На спині принт-напис. Пояс і манжети з рібани, плечі спущені, рукави об'ємні.
+
+Розмір один, оверсайз: підходить на 42-48.
+
+Тканина: двонитка, рібана.</description_ua>
+<description_ru>Худи свободного кроя оверсайз на молнии с капюшоном и двумя карманами спереди. На спине принт-надпись. Пояс и манжеты из рибаны, плечи спущены, рукава объёмные.
+
+Размер один, оверсайз: подходит на 42-48.
+
+Ткань: двухнитка, рибана.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">двонитка, рібана</param>
+<param name="Тканина">Двонитка</param>
+<param name="Застібка">Блискавка</param>
+<param name="Кишені">Є</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Принт">Напис на спині</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
