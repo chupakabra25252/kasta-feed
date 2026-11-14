@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 18:51">
+<yml_catalog date="2026-11-14 18:52">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -8527,6 +8527,95 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.35</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS574MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_milk_9.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>574</article>
+<name_ua>Плюшева піжама з подовженою сорочкою з капюшоном і поясом та штанами</name_ua>
+<name_ru>Плюшевая пижама с удлинённой рубашкой с капюшоном и поясом и штанами</name_ru>
+<description_ua>М'яка піжама з плюш-велюру: подовжена сорочка та штани. Сорочка застібається на ґудзики, має робочі кишені, подвійний капюшон і пояс, який підкреслює талію. Верх можна носити й як халатик. Штани вільного крою на резинці.
+
+Молочний: сорочка молочна з принтом ведмедики, штани шоколадні.
+Рожевий: сорочка в рожеву клітинку, штани сірі.
+
+Тканина: плюш-велюр.</description_ua>
+<description_ru>Мягкая пижама из плюш-велюра: удлинённая рубашка и штаны. Рубашка застёгивается на пуговицы, есть рабочие карманы, двойной капюшон и пояс, который подчёркивает талию. Верх можно носить и как халатик. Штаны свободного кроя на резинке.
+
+Молочный: рубашка молочная с принтом мишки, штаны шоколадные.
+Розовый: рубашка в розовую клетку, штаны серые.
+
+Ткань: плюш-велюр.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюш-велюр</param>
+<param name="Тканина">Плюш-велюр</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Є</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Сорочка, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS574PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_7.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_8.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_9.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/574_pink_10.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>574</article>
+<name_ua>Плюшева піжама з подовженою сорочкою з капюшоном і поясом та штанами</name_ua>
+<name_ru>Плюшевая пижама с удлинённой рубашкой с капюшоном и поясом и штанами</name_ru>
+<description_ua>М'яка піжама з плюш-велюру: подовжена сорочка та штани. Сорочка застібається на ґудзики, має робочі кишені, подвійний капюшон і пояс, який підкреслює талію. Верх можна носити й як халатик. Штани вільного крою на резинці.
+
+Молочний: сорочка молочна з принтом ведмедики, штани шоколадні.
+Рожевий: сорочка в рожеву клітинку, штани сірі.
+
+Тканина: плюш-велюр.</description_ua>
+<description_ru>Мягкая пижама из плюш-велюра: удлинённая рубашка и штаны. Рубашка застёгивается на пуговицы, есть рабочие карманы, двойной капюшон и пояс, который подчёркивает талию. Верх можно носить и как халатик. Штаны свободного кроя на резинке.
+
+Молочный: рубашка молочная с принтом мишки, штаны шоколадные.
+Розовый: рубашка в розовую клетку, штаны серые.
+
+Ткань: плюш-велюр.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюш-велюр</param>
+<param name="Тканина">Плюш-велюр</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Є</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Сорочка, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
