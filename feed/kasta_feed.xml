@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 18:24">
+<yml_catalog date="2026-11-14 18:30">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -7565,6 +7565,157 @@
 <param name="Принт">Напис на спині</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS7002BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>7002</article>
+<name_ua>Худі оверсайз з принтом-написом і подвійним капюшоном</name_ua>
+<name_ru>Худи оверсайз с принтом-надписью и двойным капюшоном</name_ru>
+<description_ua>Тепле худі вільного крою оверсайз з принтом-написом на грудях. Подвійний капюшон тримає форму, шнурки протягнуті через металеві люверси. Глибока кишеня-кенгуру, пояс і манжети з рібани, плечі спущені.
+
+Розмір один, оверсайз: підходить на M-XL. Заміри: ширина під грудьми 64 см, довжина від плеча 63 см, ширина плечей 67 см, довжина рукава 55 см.
+
+Тканина: трьохнитка на флісі, рібана.</description_ua>
+<description_ru>Тёплое худи свободного кроя оверсайз с принтом-надписью на груди. Двойной капюшон держит форму, шнурки продеты через металлические люверсы. Глубокий карман-кенгуру, пояс и манжеты из рибаны, плечи спущены.
+
+Размер один, оверсайз: подходит на M-XL. Замеры: ширина под грудью 64 см, длина от плеча 63 см, ширина плеч 67 см, длина рукава 55 см.
+
+Ткань: трёхнитка на флисе, рибана.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">трьохнитка на флісі, рібана</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний, зі шнурками</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Напівобхват грудей, см">64</param>
+<param name="Довжина виробу, см">63</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS7002BRG4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_bordo_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>7002</article>
+<name_ua>Худі оверсайз з принтом-написом і подвійним капюшоном</name_ua>
+<name_ru>Худи оверсайз с принтом-надписью и двойным капюшоном</name_ru>
+<description_ua>Тепле худі вільного крою оверсайз з принтом-написом на грудях. Подвійний капюшон тримає форму, шнурки протягнуті через металеві люверси. Глибока кишеня-кенгуру, пояс і манжети з рібани, плечі спущені.
+
+Розмір один, оверсайз: підходить на M-XL. Заміри: ширина під грудьми 64 см, довжина від плеча 63 см, ширина плечей 67 см, довжина рукава 55 см.
+
+Тканина: трьохнитка на флісі, рібана.</description_ua>
+<description_ru>Тёплое худи свободного кроя оверсайз с принтом-надписью на груди. Двойной капюшон держит форму, шнурки продеты через металлические люверсы. Глубокий карман-кенгуру, пояс и манжеты из рибаны, плечи спущены.
+
+Размер один, оверсайз: подходит на M-XL. Замеры: ширина под грудью 64 см, длина от плеча 63 см, ширина плеч 67 см, длина рукава 55 см.
+
+Ткань: трёхнитка на флисе, рибана.</description_ru>
+<param name="Колір">Бургунді</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">трьохнитка на флісі, рібана</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний, зі шнурками</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Напівобхват грудей, см">64</param>
+<param name="Довжина виробу, см">63</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS7002GRY4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_grey_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>7002</article>
+<name_ua>Худі оверсайз з принтом-написом і подвійним капюшоном</name_ua>
+<name_ru>Худи оверсайз с принтом-надписью и двойным капюшоном</name_ru>
+<description_ua>Тепле худі вільного крою оверсайз з принтом-написом на грудях. Подвійний капюшон тримає форму, шнурки протягнуті через металеві люверси. Глибока кишеня-кенгуру, пояс і манжети з рібани, плечі спущені.
+
+Розмір один, оверсайз: підходить на M-XL. Заміри: ширина під грудьми 64 см, довжина від плеча 63 см, ширина плечей 67 см, довжина рукава 55 см.
+
+Тканина: трьохнитка на флісі, рібана.</description_ua>
+<description_ru>Тёплое худи свободного кроя оверсайз с принтом-надписью на груди. Двойной капюшон держит форму, шнурки продеты через металлические люверсы. Глубокий карман-кенгуру, пояс и манжеты из рибаны, плечи спущены.
+
+Размер один, оверсайз: подходит на M-XL. Замеры: ширина под грудью 64 см, длина от плеча 63 см, ширина плеч 67 см, длина рукава 55 см.
+
+Ткань: трёхнитка на флисе, рибана.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">трьохнитка на флісі, рібана</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний, зі шнурками</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Напівобхват грудей, см">64</param>
+<param name="Довжина виробу, см">63</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS7002EMR4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_emerald_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/7002_emerald_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>7002</article>
+<name_ua>Худі оверсайз з принтом-написом і подвійним капюшоном</name_ua>
+<name_ru>Худи оверсайз с принтом-надписью и двойным капюшоном</name_ru>
+<description_ua>Тепле худі вільного крою оверсайз з принтом-написом на грудях. Подвійний капюшон тримає форму, шнурки протягнуті через металеві люверси. Глибока кишеня-кенгуру, пояс і манжети з рібани, плечі спущені.
+
+Розмір один, оверсайз: підходить на M-XL. Заміри: ширина під грудьми 64 см, довжина від плеча 63 см, ширина плечей 67 см, довжина рукава 55 см.
+
+Тканина: трьохнитка на флісі, рібана.</description_ua>
+<description_ru>Тёплое худи свободного кроя оверсайз с принтом-надписью на груди. Двойной капюшон держит форму, шнурки продеты через металлические люверсы. Глубокий карман-кенгуру, пояс и манжеты из рибаны, плечи спущены.
+
+Размер один, оверсайз: подходит на M-XL. Замеры: ширина под грудью 64 см, длина от плеча 63 см, ширина плеч 67 см, длина рукава 55 см.
+
+Ткань: трёхнитка на флисе, рибана.</description_ru>
+<param name="Колір">Смарагдовий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">трьохнитка на флісі, рібана</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний, зі шнурками</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Напівобхват грудей, см">64</param>
+<param name="Довжина виробу, см">63</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
