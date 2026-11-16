@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 17:16">
+<yml_catalog date="2026-11-16 17:18">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -9002,6 +9002,106 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS893PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_pink_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>893</article>
+<name_ua>Велюрова піжама з сердечками: кофта і широкі штани</name_ua>
+<name_ru>Велюровая пижама с сердечками: кофта и широкие брюки</name_ru>
+<description_ua>М'яка піжама з плюшевого велюру з дрібними сердечками. Укорочена кофта з круглим вирізом і довгими рукавами. Прямі широкі штани на резинці з декоративним бантиком. Один розмір 42-46. Заміри: кофта обхват грудей до 100 см, довжина рукава 57 см, довжина по спинці 55 см; штани обхват талії 62 см (+15 см за рахунок резинки), обхват стегон до 110 см, довжина 104 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Мягкая пижама из плюшевого велюра с мелкими сердечками. Укороченная кофта с круглым вырезом и длинными рукавами. Прямые широкие брюки на резинке с декоративным бантиком. Один размер 42-46. Замеры: кофта обхват груди до 100 см, длина рукава 57 см, длина по спинке 55 см; брюки обхват талии 62 см (+15 см за счёт резинки), обхват бёдер до 110 см, длина 104 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">40х30х8</param>
+</offer>
+<offer id="VS893MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>893</article>
+<name_ua>Велюрова піжама з сердечками: кофта і широкі штани</name_ua>
+<name_ru>Велюровая пижама с сердечками: кофта и широкие брюки</name_ru>
+<description_ua>М'яка піжама з плюшевого велюру з дрібними сердечками. Укорочена кофта з круглим вирізом і довгими рукавами. Прямі широкі штани на резинці з декоративним бантиком. Один розмір 42-46. Заміри: кофта обхват грудей до 100 см, довжина рукава 57 см, довжина по спинці 55 см; штани обхват талії 62 см (+15 см за рахунок резинки), обхват стегон до 110 см, довжина 104 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Мягкая пижама из плюшевого велюра с мелкими сердечками. Укороченная кофта с круглым вырезом и длинными рукавами. Прямые широкие брюки на резинке с декоративным бантиком. Один размер 42-46. Замеры: кофта обхват груди до 100 см, длина рукава 57 см, длина по спинке 55 см; брюки обхват талии 62 см (+15 см за счёт резинки), обхват бёдер до 110 см, длина 104 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">40х30х8</param>
+</offer>
+<offer id="VS893CAP4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_cappuccino_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_cappuccino_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>893</article>
+<name_ua>Велюрова піжама з сердечками: кофта і широкі штани</name_ua>
+<name_ru>Велюровая пижама с сердечками: кофта и широкие брюки</name_ru>
+<description_ua>М'яка піжама з плюшевого велюру з дрібними сердечками. Укорочена кофта з круглим вирізом і довгими рукавами. Прямі широкі штани на резинці з декоративним бантиком. Один розмір 42-46. Заміри: кофта обхват грудей до 100 см, довжина рукава 57 см, довжина по спинці 55 см; штани обхват талії 62 см (+15 см за рахунок резинки), обхват стегон до 110 см, довжина 104 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Мягкая пижама из плюшевого велюра с мелкими сердечками. Укороченная кофта с круглым вырезом и длинными рукавами. Прямые широкие брюки на резинке с декоративным бантиком. Один размер 42-46. Замеры: кофта обхват груди до 100 см, длина рукава 57 см, длина по спинке 55 см; брюки обхват талии 62 см (+15 см за счёт резинки), обхват бёдер до 110 см, длина 104 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Капучіно</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">40х30х8</param>
+</offer>
+<offer id="VS893BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/893_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>893</article>
+<name_ua>Велюрова піжама з сердечками: кофта і широкі штани</name_ua>
+<name_ru>Велюровая пижама с сердечками: кофта и широкие брюки</name_ru>
+<description_ua>М'яка піжама з плюшевого велюру з дрібними сердечками. Укорочена кофта з круглим вирізом і довгими рукавами. Прямі широкі штани на резинці з декоративним бантиком. Один розмір 42-46. Заміри: кофта обхват грудей до 100 см, довжина рукава 57 см, довжина по спинці 55 см; штани обхват талії 62 см (+15 см за рахунок резинки), обхват стегон до 110 см, довжина 104 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Мягкая пижама из плюшевого велюра с мелкими сердечками. Укороченная кофта с круглым вырезом и длинными рукавами. Прямые широкие брюки на резинке с декоративным бантиком. Один размер 42-46. Замеры: кофта обхват груди до 100 см, длина рукава 57 см, длина по спинке 55 см; брюки обхват талии 62 см (+15 см за счёт резинки), обхват бёдер до 110 см, длина 104 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Рукав">Довгий</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">40х30х8</param>
 </offer>
 </offers>
 </shop>
