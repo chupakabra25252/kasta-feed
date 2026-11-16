@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 18:52">
+<yml_catalog date="2026-11-16 17:10">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -8616,6 +8616,111 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS894MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/894_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/894_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>894</article>
+<name_ua>Велюровий халат з вишитими сердечками на запах з поясом</name_ua>
+<name_ru>Велюровый халат с вышитыми сердечками на запах с поясом</name_ru>
+<description_ua>Короткий домашній халат з м'якого плюшевого велюру, прикрашений вишитими сердечками. Модель на запах із шалевим коміром, довгими широкими рукавами, двома накладними кишенями та поясом. Вільний крій, один розмір 42-46. Заміри: напівобхват грудей 58 см, довжина рукава від шиї 69 см, довжина по спинці 89 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Короткий домашний халат из мягкого плюшевого велюра, украшенный вышитыми сердечками. Модель на запах с шалевым воротником, длинными широкими рукавами, двумя накладными карманами и поясом. Свободный крой, один размер 42-46. Замеры: полуобхват груди 58 см, длина рукава от шеи 69 см, длина по спинке 89 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS894PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/894_pink_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>894</article>
+<name_ua>Велюровий халат з вишитими сердечками на запах з поясом</name_ua>
+<name_ru>Велюровый халат с вышитыми сердечками на запах с поясом</name_ru>
+<description_ua>Короткий домашній халат з м'якого плюшевого велюру, прикрашений вишитими сердечками. Модель на запах із шалевим коміром, довгими широкими рукавами, двома накладними кишенями та поясом. Вільний крій, один розмір 42-46. Заміри: напівобхват грудей 58 см, довжина рукава від шиї 69 см, довжина по спинці 89 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Короткий домашний халат из мягкого плюшевого велюра, украшенный вышитыми сердечками. Модель на запах с шалевым воротником, длинными широкими рукавами, двумя накладными карманами и поясом. Свободный крой, один размер 42-46. Замеры: полуобхват груди 58 см, длина рукава от шеи 69 см, длина по спинке 89 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS894CAP4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/894_cappuccino_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>894</article>
+<name_ua>Велюровий халат з вишитими сердечками на запах з поясом</name_ua>
+<name_ru>Велюровый халат с вышитыми сердечками на запах с поясом</name_ru>
+<description_ua>Короткий домашній халат з м'якого плюшевого велюру, прикрашений вишитими сердечками. Модель на запах із шалевим коміром, довгими широкими рукавами, двома накладними кишенями та поясом. Вільний крій, один розмір 42-46. Заміри: напівобхват грудей 58 см, довжина рукава від шиї 69 см, довжина по спинці 89 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Короткий домашний халат из мягкого плюшевого велюра, украшенный вышитыми сердечками. Модель на запах с шалевым воротником, длинными широкими рукавами, двумя накладными карманами и поясом. Свободный крой, один размер 42-46. Замеры: полуобхват груди 58 см, длина рукава от шеи 69 см, длина по спинке 89 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Капучіно</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS894BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/894_black_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>894</article>
+<name_ua>Велюровий халат з вишитими сердечками на запах з поясом</name_ua>
+<name_ru>Велюровый халат с вышитыми сердечками на запах с поясом</name_ru>
+<description_ua>Короткий домашній халат з м'якого плюшевого велюру, прикрашений вишитими сердечками. Модель на запах із шалевим коміром, довгими широкими рукавами, двома накладними кишенями та поясом. Вільний крій, один розмір 42-46. Заміри: напівобхват грудей 58 см, довжина рукава від шиї 69 см, довжина по спинці 89 см. Тканина: плюшевий велюр.</description_ua>
+<description_ru>Короткий домашний халат из мягкого плюшевого велюра, украшенный вышитыми сердечками. Модель на запах с шалевым воротником, длинными широкими рукавами, двумя накладными карманами и поясом. Свободный крой, один размер 42-46. Замеры: полуобхват груди 58 см, длина рукава от шеи 69 см, длина по спинке 89 см. Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Плюшевий велюр</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
