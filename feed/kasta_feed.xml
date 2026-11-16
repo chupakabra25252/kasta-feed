@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 17:18">
+<yml_catalog date="2026-11-16 17:20">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -9102,6 +9102,118 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">40х30х8</param>
+</offer>
+<offer id="VS889CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1610</price>
+<old_price>2110</old_price>
+<price_promo>1510</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_choc_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>889</article>
+<name_ua>Худі оверсайз з камінцями та кулісою на талії</name_ua>
+<name_ru>Худи оверсайз с камешками и кулиской на талии</name_ru>
+<description_ua>Тепле худі оверсайз з турецької тринитки на флісі, прикрашене камінцями, які не кошлатяться. Подвійний капюшон, кишеня-кенгуру, спущена лінія плеча та манжети на рукавах. Низ регулюється кулісою з фіксатором. Один розмір 42-46. Заміри: напівобхват грудей 66 см, довжина рукава від шиї 70 см, довжина по спинці 65 см. Склад: 90% бавовна, 10% поліестер.</description_ua>
+<description_ru>Тёплое худи оверсайз из турецкой трёхнитки на флисе, украшенное камешками, которые не скатываются. Двойной капюшон, карман-кенгуру, спущенная линия плеча и манжеты на рукавах. Низ регулируется кулиской с фиксатором. Один размер 42-46. Замеры: полуобхват груди 66 см, длина рукава от шеи 70 см, длина по спинке 65 см. Состав: 90% хлопок, 10% полиэстер.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">90% бавовна, 10% поліестер</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Декор">Камінці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS889PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1610</price>
+<old_price>2110</old_price>
+<price_promo>1510</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_pink_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>889</article>
+<name_ua>Худі оверсайз з камінцями та кулісою на талії</name_ua>
+<name_ru>Худи оверсайз с камешками и кулиской на талии</name_ru>
+<description_ua>Тепле худі оверсайз з турецької тринитки на флісі, прикрашене камінцями, які не кошлатяться. Подвійний капюшон, кишеня-кенгуру, спущена лінія плеча та манжети на рукавах. Низ регулюється кулісою з фіксатором. Один розмір 42-46. Заміри: напівобхват грудей 66 см, довжина рукава від шиї 70 см, довжина по спинці 65 см. Склад: 90% бавовна, 10% поліестер.</description_ua>
+<description_ru>Тёплое худи оверсайз из турецкой трёхнитки на флисе, украшенное камешками, которые не скатываются. Двойной капюшон, карман-кенгуру, спущенная линия плеча и манжеты на рукавах. Низ регулируется кулиской с фиксатором. Один размер 42-46. Замеры: полуобхват груди 66 см, длина рукава от шеи 70 см, длина по спинке 65 см. Состав: 90% хлопок, 10% полиэстер.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">90% бавовна, 10% поліестер</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Декор">Камінці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS889GRF4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1610</price>
+<old_price>2110</old_price>
+<price_promo>1510</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_graphite_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>889</article>
+<name_ua>Худі оверсайз з камінцями та кулісою на талії</name_ua>
+<name_ru>Худи оверсайз с камешками и кулиской на талии</name_ru>
+<description_ua>Тепле худі оверсайз з турецької тринитки на флісі, прикрашене камінцями, які не кошлатяться. Подвійний капюшон, кишеня-кенгуру, спущена лінія плеча та манжети на рукавах. Низ регулюється кулісою з фіксатором. Один розмір 42-46. Заміри: напівобхват грудей 66 см, довжина рукава від шиї 70 см, довжина по спинці 65 см. Склад: 90% бавовна, 10% поліестер.</description_ua>
+<description_ru>Тёплое худи оверсайз из турецкой трёхнитки на флисе, украшенное камешками, которые не скатываются. Двойной капюшон, карман-кенгуру, спущенная линия плеча и манжеты на рукавах. Низ регулируется кулиской с фиксатором. Один размер 42-46. Замеры: полуобхват груди 66 см, длина рукава от шеи 70 см, длина по спинке 65 см. Состав: 90% хлопок, 10% полиэстер.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">90% бавовна, 10% поліестер</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Декор">Камінці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS889MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1610</price>
+<old_price>2110</old_price>
+<price_promo>1510</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/889_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>889</article>
+<name_ua>Худі оверсайз з камінцями та кулісою на талії</name_ua>
+<name_ru>Худи оверсайз с камешками и кулиской на талии</name_ru>
+<description_ua>Тепле худі оверсайз з турецької тринитки на флісі, прикрашене камінцями, які не кошлатяться. Подвійний капюшон, кишеня-кенгуру, спущена лінія плеча та манжети на рукавах. Низ регулюється кулісою з фіксатором. Один розмір 42-46. Заміри: напівобхват грудей 66 см, довжина рукава від шиї 70 см, довжина по спинці 65 см. Склад: 90% бавовна, 10% поліестер.</description_ua>
+<description_ru>Тёплое худи оверсайз из турецкой трёхнитки на флисе, украшенное камешками, которые не скатываются. Двойной капюшон, карман-кенгуру, спущенная линия плеча и манжеты на рукавах. Низ регулируется кулиской с фиксатором. Один размер 42-46. Замеры: полуобхват груди 66 см, длина рукава от шеи 70 см, длина по спинке 65 см. Состав: 90% хлопок, 10% полиэстер.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">90% бавовна, 10% поліестер</param>
+<param name="Тканина">Трьохнитка на флісі</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Кишені">Кенгуру</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="Декор">Камінці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
