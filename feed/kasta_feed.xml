@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 17:34">
+<yml_catalog date="2026-11-16 17:37">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -9859,6 +9859,181 @@
 <param name="Рукав">Довгий</param>
 <param name="Кишені">Є</param>
 <param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123PWD4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_powder_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Пудровий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123BLU4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_blue_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123BTL4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_bottle_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Пляшковий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123ELC4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_electric_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Електрик</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123WHT4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_white_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123RED4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_red_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS123CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/123_choc_1.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>123</article>
+<name_ua>Светр оверсайз великої в'язки з високим коміром</name_ua>
+<name_ru>Свитер оверсайз крупной вязки с высоким воротником</name_ru>
+<description_ua>Теплий светр крупної фактурної в'язки з високим коміром під горло. Вільний крій оверсайз, спущена лінія плеча, об'ємні рукави на манжетах. Добре поєднується з кардиганами, пальто та косухами. Один розмір 42-46. Заміри: напівобхват грудей 55 см, довжина по спинці 58 см, довжина рукава від шва 52 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Тёплый свитер крупной фактурной вязки с высоким воротником под горло. Свободный крой оверсайз, спущенная линия плеча, объёмные рукава на манжетах. Хорошо сочетается с кардиганами, пальто и косухами. Один размер 42-46. Замеры: полуобхват груди 55 см, длина по спинке 58 см, длина рукава от шва 52 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Комір">Високий</param>
+<param name="Рукав">Довгий</param>
+<param name="Крій">Оверсайз</param>
+<param name="В'язка">Велика</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
