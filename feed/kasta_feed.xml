@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 17:39">
+<yml_catalog date="2026-11-16 17:41">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -10155,6 +10155,141 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS401BLK4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>401</article>
+<name_ua>В'язана сукня міді в рубчик з розрізом і коміром-стійкою</name_ua>
+<name_ru>Вязаное платье миди в рубчик с разрезом и воротником-стойкой</name_ru>
+<description_ua>Облягаюча в'язана сукня довжини міді з подвійної в'язки в рубчик. Невисокий комір-стійка, довгі рукави та високий розріз збоку. Трикотаж дуже добре тягнеться, тому сукня підходить на розміри 42-48. Заміри: обхват грудей 90-115 см, обхват стегон 90-115 см, довжина рукава 64 см, довжина сукні 120 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Облегающее вязаное платье длины миди из двойной вязки в рубчик. Невысокий воротник-стойка, длинные рукава и высокий разрез сбоку. Трикотаж очень хорошо тянется, поэтому платье подходит на размеры 42-48. Замеры: обхват груди 90-115 см, обхват бёдер 90-115 см, длина рукава 64 см, длина платья 120 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Довжина">Міді</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS401BRG4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_bordo_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>401</article>
+<name_ua>В'язана сукня міді в рубчик з розрізом і коміром-стійкою</name_ua>
+<name_ru>Вязаное платье миди в рубчик с разрезом и воротником-стойкой</name_ru>
+<description_ua>Облягаюча в'язана сукня довжини міді з подвійної в'язки в рубчик. Невисокий комір-стійка, довгі рукави та високий розріз збоку. Трикотаж дуже добре тягнеться, тому сукня підходить на розміри 42-48. Заміри: обхват грудей 90-115 см, обхват стегон 90-115 см, довжина рукава 64 см, довжина сукні 120 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Облегающее вязаное платье длины миди из двойной вязки в рубчик. Невысокий воротник-стойка, длинные рукава и высокий разрез сбоку. Трикотаж очень хорошо тянется, поэтому платье подходит на размеры 42-48. Замеры: обхват груди 90-115 см, обхват бёдер 90-115 см, длина рукава 64 см, длина платья 120 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Довжина">Міді</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS401MLK4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>401</article>
+<name_ua>В'язана сукня міді в рубчик з розрізом і коміром-стійкою</name_ua>
+<name_ru>Вязаное платье миди в рубчик с разрезом и воротником-стойкой</name_ru>
+<description_ua>Облягаюча в'язана сукня довжини міді з подвійної в'язки в рубчик. Невисокий комір-стійка, довгі рукави та високий розріз збоку. Трикотаж дуже добре тягнеться, тому сукня підходить на розміри 42-48. Заміри: обхват грудей 90-115 см, обхват стегон 90-115 см, довжина рукава 64 см, довжина сукні 120 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Облегающее вязаное платье длины миди из двойной вязки в рубчик. Невысокий воротник-стойка, длинные рукава и высокий разрез сбоку. Трикотаж очень хорошо тянется, поэтому платье подходит на размеры 42-48. Замеры: обхват груди 90-115 см, обхват бёдер 90-115 см, длина рукава 64 см, длина платья 120 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Довжина">Міді</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS401CAP4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_cappuccino_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_cappuccino_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>401</article>
+<name_ua>В'язана сукня міді в рубчик з розрізом і коміром-стійкою</name_ua>
+<name_ru>Вязаное платье миди в рубчик с разрезом и воротником-стойкой</name_ru>
+<description_ua>Облягаюча в'язана сукня довжини міді з подвійної в'язки в рубчик. Невисокий комір-стійка, довгі рукави та високий розріз збоку. Трикотаж дуже добре тягнеться, тому сукня підходить на розміри 42-48. Заміри: обхват грудей 90-115 см, обхват стегон 90-115 см, довжина рукава 64 см, довжина сукні 120 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Облегающее вязаное платье длины миди из двойной вязки в рубчик. Невысокий воротник-стойка, длинные рукава и высокий разрез сбоку. Трикотаж очень хорошо тянется, поэтому платье подходит на размеры 42-48. Замеры: обхват груди 90-115 см, обхват бёдер 90-115 см, длина рукава 64 см, длина платья 120 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Капучіно</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Довжина">Міді</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS401CHO4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/401_choc_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>401</article>
+<name_ua>В'язана сукня міді в рубчик з розрізом і коміром-стійкою</name_ua>
+<name_ru>Вязаное платье миди в рубчик с разрезом и воротником-стойкой</name_ru>
+<description_ua>Облягаюча в'язана сукня довжини міді з подвійної в'язки в рубчик. Невисокий комір-стійка, довгі рукави та високий розріз збоку. Трикотаж дуже добре тягнеться, тому сукня підходить на розміри 42-48. Заміри: обхват грудей 90-115 см, обхват стегон 90-115 см, довжина рукава 64 см, довжина сукні 120 см. Склад: акрил, вовна.</description_ua>
+<description_ru>Облегающее вязаное платье длины миди из двойной вязки в рубчик. Невысокий воротник-стойка, длинные рукава и высокий разрез сбоку. Трикотаж очень хорошо тянется, поэтому платье подходит на размеры 42-48. Замеры: обхват груди 90-115 см, обхват бёдер 90-115 см, длина рукава 64 см, длина платья 120 см. Состав: акрил, шерсть.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">акрил, вовна</param>
+<param name="Довжина">Міді</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
 </offer>
 </offers>
 </shop>
