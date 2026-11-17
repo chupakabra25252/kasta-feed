@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 09:23">
+<yml_catalog date="2026-11-17 09:32">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -12554,6 +12554,510 @@
 <param name="Крій">Оверсайз</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_navy_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481NVY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_navy_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_melange_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_melange_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_pink_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481PNK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_pink_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481RED4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_red_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481RED4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_red_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_burgundy_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Бургунді</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481BRG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_burgundy_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Бургунді</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481SIN4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_blue_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481SIN4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_blue_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_choc_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS481CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/481_choc_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>481</article>
+<name_ua>Флісовий спортивний костюм: кофта на блискавці з коміром-стійкою та джогери</name_ua>
+<name_ru>Флисовый спортивный костюм: кофта на молнии с воротником-стойкой и джоггеры</name_ru>
+<description_ua>Затишний спортивний костюм з двостороннього турецького флісу: м'який, не кошлатиться, не линяє і не витирається. Кофта вільного крою на блискавці з коміром-стійкою, кишенями спереду та затяжками по низу, тож посадку легко регулювати. Джогери на резинці по низу з кишенями.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Уютный спортивный костюм из двустороннего турецкого флиса: мягкий, не скатывается, не линяет и не вытирается. Кофта свободного кроя на молнии с воротником-стойкой, карманами спереди и затяжками по низу, поэтому посадку легко регулировать. Джоггеры на резинке по низу с карманами.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Джогери</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
