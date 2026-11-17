@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 09:05">
+<yml_catalog date="2026-11-17 09:08">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -11652,6 +11652,240 @@
 <param name="Комплектація">Кофта, штани</param>
 <param name="Застібка">Блискавка</param>
 <param name="Штани">Широкі</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832NVY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_navy_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832RED4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832RED4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_red_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832LBG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Світло-бежевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS832LBG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/832_lbeige_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>832</article>
+<name_ua>Флісовий костюм з контрастним кантом: кофта з високим коміром на блискавці та широкі штани</name_ua>
+<name_ru>Флисовый костюм с контрастным кантом: кофта с высоким воротником на молнии и широкие брюки</name_ru>
+<description_ua>Теплий костюм з двостороннього флісу для затишних образів у прохолодну погоду. Кофта вільного крою з високим коміром на блискавці, рукавами на резинці та декоративним контрастним кантом. Штани вільного крою з еластичним поясом і шнурком, кант уздовж бокових швів, низ можна регулювати шнурком.
+
+Розміри: 42-44, 46-48.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Тёплый костюм из двустороннего флиса для уютных образов в прохладную погоду. Кофта свободного кроя с высоким воротником на молнии, рукавами на резинке и декоративным контрастным кантом. Брюки свободного кроя с эластичным поясом и шнурком, кант вдоль боковых швов, низ можно регулировать шнурком.
+
+Размеры: 42-44, 46-48.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Світло-бежевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Вільні, на резинці зі шнурком</param>
 <param name="Кишені">Є</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
