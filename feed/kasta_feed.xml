@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 17:41">
+<yml_catalog date="2026-11-17 08:49">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -10290,6 +10290,114 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS1670GRY4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_grey_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1670</article>
+<name_ua>В'язаний костюм оверсайз з ангори в рубчик: светр і штани палаццо</name_ua>
+<name_ru>Вязаный костюм оверсайз из ангоры в рубчик: свитер и брюки палаццо</name_ru>
+<description_ua>Теплий, м'який і зручний костюм оверсайз з щільної двосторонньої ангори в рубчик. Об'ємний светр з високим коміром і спущеною лінією плеча та трендові широкі штани палаццо. Тканина добре тягнеться, тож костюм комфортно сідає по фігурі. Тепла база для прохолодних днів.
+
+Розмір один, оверсайз: підійде на 42-46.
+
+Тканина: турецька ангора рубчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый, мягкий и удобный костюм оверсайз из плотной двусторонней ангоры в рубчик. Объёмный свитер с высоким воротником и спущенной линией плеча и трендовые широкие брюки палаццо. Ткань хорошо тянется, поэтому костюм комфортно садится по фигуре. Тёплая база для прохладных дней.
+
+Размер один, оверсайз: подойдёт на 42-46.
+
+Ткань: турецкая ангора рубчик. Сезон: зима.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Светр, штани</param>
+<param name="Штани">Палаццо</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1670MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_milk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1670</article>
+<name_ua>В'язаний костюм оверсайз з ангори в рубчик: светр і штани палаццо</name_ua>
+<name_ru>Вязаный костюм оверсайз из ангоры в рубчик: свитер и брюки палаццо</name_ru>
+<description_ua>Теплий, м'який і зручний костюм оверсайз з щільної двосторонньої ангори в рубчик. Об'ємний светр з високим коміром і спущеною лінією плеча та трендові широкі штани палаццо. Тканина добре тягнеться, тож костюм комфортно сідає по фігурі. Тепла база для прохолодних днів.
+
+Розмір один, оверсайз: підійде на 42-46.
+
+Тканина: турецька ангора рубчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый, мягкий и удобный костюм оверсайз из плотной двусторонней ангоры в рубчик. Объёмный свитер с высоким воротником и спущенной линией плеча и трендовые широкие брюки палаццо. Ткань хорошо тянется, поэтому костюм комфортно садится по фигуре. Тёплая база для прохладных дней.
+
+Размер один, оверсайз: подойдёт на 42-46.
+
+Ткань: турецкая ангора рубчик. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Светр, штани</param>
+<param name="Штани">Палаццо</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1670BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1670_black_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1670</article>
+<name_ua>В'язаний костюм оверсайз з ангори в рубчик: светр і штани палаццо</name_ua>
+<name_ru>Вязаный костюм оверсайз из ангоры в рубчик: свитер и брюки палаццо</name_ru>
+<description_ua>Теплий, м'який і зручний костюм оверсайз з щільної двосторонньої ангори в рубчик. Об'ємний светр з високим коміром і спущеною лінією плеча та трендові широкі штани палаццо. Тканина добре тягнеться, тож костюм комфортно сідає по фігурі. Тепла база для прохолодних днів.
+
+Розмір один, оверсайз: підійде на 42-46.
+
+Тканина: турецька ангора рубчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый, мягкий и удобный костюм оверсайз из плотной двусторонней ангоры в рубчик. Объёмный свитер с высоким воротником и спущенной линией плеча и трендовые широкие брюки палаццо. Ткань хорошо тянется, поэтому костюм комфортно садится по фигуре. Тёплая база для прохладных дней.
+
+Размер один, оверсайз: подойдёт на 42-46.
+
+Ткань: турецкая ангора рубчик. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Светр, штани</param>
+<param name="Штани">Палаццо</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
