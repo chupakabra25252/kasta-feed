@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 09:18">
+<yml_catalog date="2026-11-17 09:20">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -12064,6 +12064,126 @@
 <param name="Крій">Оверсайз</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1297BEG4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_beige_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1297</article>
+<name_ua>Флісовий костюм оверсайз на плюші: кофта на блискавці зі стійкою та широкі штани на кулісці</name_ua>
+<name_ru>Флисовый костюм оверсайз на плюше: кофта на молнии со стойкой и широкие брюки на кулиске</name_ru>
+<description_ua>М'який, теплий і дуже комфортний костюм оверсайз з турецького флісу на плюші. Кофта на блискавці з коміром-стійкою, спущеною лінією плеча, рукавами на резинці та кулісою по низу, тож довжину можна регулювати. Широкі штани на резинці зі шнурком і кишенями. Підходить для прогулянок, подорожей і дому.
+
+Розмір один, оверсайз: 42-48.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Мягкий, тёплый и очень комфортный костюм оверсайз из турецкого флиса на плюше. Кофта на молнии с воротником-стойкой, спущенной линией плеча, рукавами на резинке и кулиской по низу, поэтому длину можно регулировать. Широкие брюки на резинке со шнурком и карманами. Подходит для прогулок, путешествий и дома.
+
+Размер один, оверсайз: 42-48.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1297CHO4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_choc_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1297</article>
+<name_ua>Флісовий костюм оверсайз на плюші: кофта на блискавці зі стійкою та широкі штани на кулісці</name_ua>
+<name_ru>Флисовый костюм оверсайз на плюше: кофта на молнии со стойкой и широкие брюки на кулиске</name_ru>
+<description_ua>М'який, теплий і дуже комфортний костюм оверсайз з турецького флісу на плюші. Кофта на блискавці з коміром-стійкою, спущеною лінією плеча, рукавами на резинці та кулісою по низу, тож довжину можна регулювати. Широкі штани на резинці зі шнурком і кишенями. Підходить для прогулянок, подорожей і дому.
+
+Розмір один, оверсайз: 42-48.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Мягкий, тёплый и очень комфортный костюм оверсайз из турецкого флиса на плюше. Кофта на молнии с воротником-стойкой, спущенной линией плеча, рукавами на резинке и кулиской по низу, поэтому длину можно регулировать. Широкие брюки на резинке со шнурком и карманами. Подходит для прогулок, путешествий и дома.
+
+Размер один, оверсайз: 42-48.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1297GRY4248" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1670</price>
+<old_price>2170</old_price>
+<price_promo>1570</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1297_grey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1297</article>
+<name_ua>Флісовий костюм оверсайз на плюші: кофта на блискавці зі стійкою та широкі штани на кулісці</name_ua>
+<name_ru>Флисовый костюм оверсайз на плюше: кофта на молнии со стойкой и широкие брюки на кулиске</name_ru>
+<description_ua>М'який, теплий і дуже комфортний костюм оверсайз з турецького флісу на плюші. Кофта на блискавці з коміром-стійкою, спущеною лінією плеча, рукавами на резинці та кулісою по низу, тож довжину можна регулювати. Широкі штани на резинці зі шнурком і кишенями. Підходить для прогулянок, подорожей і дому.
+
+Розмір один, оверсайз: 42-48.
+
+Тканина: турецький фліс на плюші. Сезон: зима.</description_ua>
+<description_ru>Мягкий, тёплый и очень комфортный костюм оверсайз из турецкого флиса на плюше. Кофта на молнии с воротником-стойкой, спущенной линией плеча, рукавами на резинке и кулиской по низу, поэтому длину можно регулировать. Широкие брюки на резинке со шнурком и карманами. Подходит для прогулок, путешествий и дома.
+
+Размер один, оверсайз: 42-48.
+
+Ткань: турецкий флис на плюше. Сезон: зима.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-48</param>
+<param name="Склад">фліс на плюші</param>
+<param name="Тканина">Фліс на плюші</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
