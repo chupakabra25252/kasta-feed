@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 09:20">
+<yml_catalog date="2026-11-17 09:23">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -12181,6 +12181,376 @@
 <param name="Застібка">Блискавка</param>
 <param name="Штани">Широкі, на кулісці</param>
 <param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356MPK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Молочний з рожевим</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356MPK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_milkpink_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Молочний з рожевим</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356GRM4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Сірий з молочним</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356GRM4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_greymilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Сірий з молочним</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356BRM4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Бордовий з молочним</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356BRM4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_bordomilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Бордовий з молочним</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356BKB4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Чорний з бордовим</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356BKB4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_blackbordo_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Чорний з бордовим</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356PKM4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Рожевий з молочним</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1356PKM4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1356_pinkmilk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1356</article>
+<name_ua>Флісовий костюм оверсайз з контрастними лампасами: худі з подвійним капюшоном і широкі штани</name_ua>
+<name_ru>Флисовый костюм оверсайз с контрастными лампасами: худи с двойным капюшоном и широкие брюки</name_ru>
+<description_ua>Стильний костюм з двостороннього флісу, у якому комфорт поєднується з трендовим дизайном. Об'ємне худі з подвійним капюшоном і широкі штани вільного крою. Контрастні лампаси вздовж рукавів і штанів плавно переходять у зону кишень. Худі та штани на кулісках, посадку можна регулювати.
+
+Розміри: 42-44, 44-46.
+
+Тканина: двосторонній фліс. Сезон: зима.</description_ua>
+<description_ru>Стильный костюм из двустороннего флиса, в котором комфорт сочетается с трендовым дизайном. Объёмное худи с двойным капюшоном и широкие брюки свободного кроя. Контрастные лампасы вдоль рукавов и брюк плавно переходят в зону карманов. Худи и брюки на кулисках, посадку можно регулировать.
+
+Размеры: 42-44, 44-46.
+
+Ткань: двусторонний флис. Сезон: зима.</description_ru>
+<param name="Колір">Рожевий з молочним</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Штани">Широкі, на кулісці</param>
 <param name="Крій">Оверсайз</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
