@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:13">
+<yml_catalog date="2026-11-19 15:17">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -13129,6 +13129,266 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS828CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS828CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_choc_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS828GRF4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS828GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS828RSP4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Малиновий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS828RSP4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1740</price>
+<old_price>2240</old_price>
+<price_promo>1640</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/828_raspberry_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>828</article>
+<name_ua>Теплий костюм з флісу та баранчика: кофта на блискавці і штани на резинці</name_ua>
+<name_ru>Тёплый костюм из флиса и барашка: кофта на молнии и брюки на резинке</name_ru>
+<description_ua>Теплий і дуже зручний костюм з поєднанням двох фактур. Кофта оверсайз на блискавці з коміром-стійкою: основа з теплого баранчика, вставки на рукавах з флісу, рукави на манжетах-резинках, двосторонній подборт. Штани з флісу високої посадки, низ на резинці. Тканина не кошлатиться і не витирається.
+
+Заміри (напівобхвати):
+42-44: груди 64 см, талія 33 см, стегна 59 см, довжина кофти 60 см, довжина штанів 106 см.
+46-48: груди 66 см, талія 36 см, стегна 63 см, довжина кофти 61 см, довжина штанів 107 см.
+
+Тканина: турецький двосторонній фліс Polar і баранчик. Сезон: зима.</description_ua>
+<description_ru>Тёплый и очень удобный костюм с сочетанием двух фактур. Кофта оверсайз на молнии с воротником-стойкой: основа из тёплого барашка, вставки на рукавах из флиса, рукава на манжетах-резинках, двусторонний подборт. Брюки из флиса высокой посадки, низ на резинке. Ткань не скатывается и не вытирается.
+
+Замеры (полуобхваты):
+42-44: грудь 64 см, талия 33 см, бёдра 59 см, длина кофты 60 см, длина брюк 106 см.
+46-48: грудь 66 см, талия 36 см, бёдра 63 см, длина кофты 61 см, длина брюк 107 см.
+
+Ткань: турецкий двусторонний флис Polar и барашек. Сезон: зима.</description_ru>
+<param name="Колір">Малиновий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній фліс polar, баранчик</param>
+<param name="Тканина">Фліс, баранчик</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Посадка">Висока</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
