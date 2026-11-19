@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 09:32">
+<yml_catalog date="2026-11-19 15:13">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -13059,6 +13059,76 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS383BMLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383B_milk_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>383B</article>
+<name_ua>Махрова піжама-ромпер з капюшоном з вушками та 3D-візерунком з бантиків</name_ua>
+<name_ru>Махровая пижама-ромпер с капюшоном с ушками и 3D-узором из бантиков</name_ru>
+<description_ua>Дуже м'яка й пухнаста піжама-ромпер з плюшевої турецької махри, приємна до тіла. Об'ємний 3D-візерунок з бантиків, капюшон з пухнастими вушками, застібка на блискавці. Еластична резинка на талії гарно підкреслює фігуру, рукави вільні, низ у вигляді зручних шортиків.
+
+Розмір: 42-46.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Очень мягкая и пушистая пижама-ромпер из плюшевой турецкой махры, приятная к телу. Объёмный 3D-узор из бантиков, капюшон с пушистыми ушками, застёжка на молнии. Эластичная резинка на талии красиво подчёркивает фигуру, рукава свободные, низ в виде удобных шортиков.
+
+Размер: 42-46.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS383SMLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383S_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383S_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/383S_milk_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>383S</article>
+<name_ua>Махрова піжама-ромпер з капюшоном з вушками та 3D-візерунком з сердечок</name_ua>
+<name_ru>Махровая пижама-ромпер с капюшоном с ушками и 3D-узором из сердечек</name_ru>
+<description_ua>Дуже м'яка й пухнаста піжама-ромпер з плюшевої турецької махри, приємна до тіла. Об'ємний 3D-візерунок з сердечок, капюшон з пухнастими вушками, застібка на блискавці. Еластична резинка на талії гарно підкреслює фігуру, рукави вільні, низ у вигляді зручних шортиків.
+
+Розмір: 42-46.
+
+Тканина: турецька махра.</description_ua>
+<description_ru>Очень мягкая и пушистая пижама-ромпер из плюшевой турецкой махры, приятная к телу. Объёмный 3D-узор из сердечек, капюшон с пушистыми ушками, застёжка на молнии. Эластичная резинка на талии красиво подчёркивает фигуру, рукава свободные, низ в виде удобных шортиков.
+
+Размер: 42-46.
+
+Ткань: турецкая махра.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
 </offers>
 </shop>
