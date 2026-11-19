@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:36">
+<yml_catalog date="2026-11-19 15:40">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -14350,6 +14350,252 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.1</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0593BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0593BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0593BLK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_black_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0593BEG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0593BEG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0593BEG5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0593_beige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0593</article>
+<name_ua>Велюровий домашній комплект: кофта на запах з поясом і широкі штани з кантом</name_ua>
+<name_ru>Велюровый домашний комплект: кофта на запах с поясом и широкие брюки с кантом</name_ru>
+<description_ua>Жіночий домашній комплект з м'якого велюру — поєднання затишку та елегантності. Кофта на запах з коміром-шаллю, поясом, що підкреслює силует, і накладними кишенями. Широкі прямі штани. Комір, кишені та бокові шви штанів оздоблені контрастним білим кантом.
+
+Заміри (42-44 / 46-48 / 50-52):
+Кофта: довжина по спинці 69 / 70 / 71 см, довжина рукава від горловини 69 / 71 / 73 см, ширина в грудях 47 / 51 / 55 см.
+Штани: довжина по боку 107 / 108 / 109 см, довжина по кроковому шву 78 / 79 / 80 см, ширина в стегнах 47 / 51 / 55 см.
+
+Тканина: велюр.</description_ua>
+<description_ru>Женский домашний комплект из мягкого велюра — сочетание уюта и элегантности. Кофта на запах с воротником-шалью, поясом, который подчёркивает силуэт, и накладными карманами. Широкие прямые брюки. Воротник, карманы и боковые швы брюк отделаны контрастным белым кантом.
+
+Замеры (42-44 / 46-48 / 50-52):
+Кофта: длина по спинке 69 / 70 / 71 см, длина рукава от горловины 69 / 71 / 73 см, ширина в груди 47 / 51 / 55 см.
+Брюки: длина по боку 107 / 108 / 109 см, длина по шаговому шву 78 / 79 / 80 см, ширина в бёдрах 47 / 51 / 55 см.
+
+Ткань: велюр.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
 </offers>
 </shop>
