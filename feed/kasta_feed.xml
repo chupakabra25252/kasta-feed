@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:27">
+<yml_catalog date="2026-11-19 15:36">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -62,6 +62,7 @@
 <category id="55">Жіночі термолосини</category>
 <category id="56">Жіночі шорти демісезонні</category>
 <category id="57">Жіночі піжами всесезонні</category>
+<category id="58">Чоловічі спортивні костюми</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -14096,6 +14097,258 @@
 <param name="Крій">Оверсайз</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607BLK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607BLK5456" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">54-56</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607GRF5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS0607GRF5456" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1480</price>
+<old_price>1980</old_price>
+<price_promo>1380</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0607_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0607</article>
+<name_ua>Чоловічий спортивний костюм з полар флісу: худі з капюшоном і штани з лампасами</name_ua>
+<name_ru>Мужской спортивный костюм из полар флиса: худи с капюшоном и брюки с лампасами</name_ru>
+<description_ua>Теплий чоловічий спортивний костюм з двостороннього полар флісу. Худі з капюшоном на шнурках і кишенею-кенгуру, рукави й низ на манжетах. Штани з кишенями, низ на манжетах. На рукавах і штанах контрастні білі смуги. Тканина дуже тепла і не кошлатиться.
+
+Заміри (46-48 / 50-52 / 54-56):
+Штани: обхват талії 74 / 80 / 86 см, обхват стегон 110 / 116 / 122 см, довжина з поясом 103 / 104 / 105 см.
+Худі: довжина 69 / 70 / 71 см, обхват грудей 116 / 122 / 128 см, довжина рукава 80 / 81 / 82 см.
+
+Тканина: двосторонній полар фліс (Туреччина). Сезон: зима.</description_ua>
+<description_ru>Тёплый мужской спортивный костюм из двустороннего полар флиса. Худи с капюшоном на шнурках и карманом-кенгуру, рукава и низ на манжетах. Брюки с карманами, низ на манжетах. На рукавах и брюках контрастные белые полосы. Ткань очень тёплая и не скатывается.
+
+Замеры (46-48 / 50-52 / 54-56):
+Брюки: обхват талии 74 / 80 / 86 см, обхват бёдер 110 / 116 / 122 см, длина с поясом 103 / 104 / 105 см.
+Худи: длина 69 / 70 / 71 см, обхват груди 116 / 122 / 128 см, длина рукава 80 / 81 / 82 см.
+
+Ткань: двусторонний полар флис (Турция). Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">54-56</param>
+<param name="Склад">двосторонній полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
