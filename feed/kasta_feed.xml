@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:17">
+<yml_catalog date="2026-11-19 15:21">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -13389,6 +13389,260 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS512BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS512BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS512ELC4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Електрик</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS512ELC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_electric_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Електрик</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS512BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS512BRG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1210</price>
+<old_price>1710</old_price>
+<price_promo>1110</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/512_bordo_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>512</article>
+<name_ua>Оксамитова сукня міні з об'ємними шифоновими рукавами</name_ua>
+<name_ru>Бархатное платье мини с объёмными шифоновыми рукавами</name_ru>
+<description_ua>Ефектна сукня з королівського оксамиту з легкими об'ємними рукавами з шифону. Приталений ліф з квадратним вирізом і розкльошена спідниця довжини міні. Рукави на манжетах-резинках, сукню можна носити зі спущеними плечима. Гарний варіант для вечора та свят.
+
+Заміри:
+42-44: обхват грудей 75-88 см, обхват талії 60-80 см.
+46-48: обхват грудей 88-102 см, обхват талії 70-88 см.
+Довжина сукні 69 см, довжина рукава 67 см.
+
+Тканина: оксамит, рукави — шифон.</description_ua>
+<description_ru>Эффектное платье из королевского бархата с лёгкими объёмными рукавами из шифона. Приталенный лиф с квадратным вырезом и расклёшенная юбка длины мини. Рукава на манжетах-резинках, платье можно носить со спущенными плечами. Хороший вариант для вечера и праздников.
+
+Замеры:
+42-44: обхват груди 75-88 см, обхват талии 60-80 см.
+46-48: обхват груди 88-102 см, обхват талии 70-88 см.
+Длина платья 69 см, длина рукава 67 см.
+
+Ткань: бархат, рукава — шифон.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">оксамит, рукави: шифон</param>
+<param name="Тканина">Оксамит, шифон</param>
+<param name="Довжина">Міні</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
