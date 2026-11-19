@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:41">
+<yml_catalog date="2026-11-19 15:42">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -63,6 +63,7 @@
 <category id="56">Жіночі шорти демісезонні</category>
 <category id="57">Жіночі піжами всесезонні</category>
 <category id="58">Чоловічі спортивні костюми</category>
+<category id="59">Чоловічі куртки</category>
 </categories>
 <offers>
 <offer id="VS781BLK4244" available="true">
@@ -14596,6 +14597,252 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS0544BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS0544BLK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS0544GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS0544GRF5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_graphite_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS0544KHK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Хакі</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS0544KHK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>59</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1500</price>
+<old_price>2000</old_price>
+<price_promo>1400</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/0544_khaki_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>0544</article>
+<name_ua>Чоловіча стьобана куртка-пуфер з коміром-стійкою на синтепоні</name_ua>
+<name_ru>Мужская стёганая куртка-пуфер с воротником-стойкой на синтепоне</name_ru>
+<description_ua>Тепла чоловіча куртка-пуфер вільного крою з матової плащової тканини Канада. Високий комір-стійка, застібка на блискавці, бокові кишені, манжети і низ на резинці. Наповнювач синтепон 250 добре тримає тепло в холодну погоду.
+
+Заміри (46-48 / 50-52):
+Обхват грудей 116 / 128 см, плечі 55 / 57 см, довжина по спині 72 / 74 см, довжина рукава 73 / 76 см.
+
+Тканина: матова плащова тканина Канада. Наповнювач: синтепон 250. Сезон: зима.</description_ua>
+<description_ru>Тёплая мужская куртка-пуфер свободного кроя из матовой плащевой ткани Канада. Высокий воротник-стойка, застёжка на молнии, боковые карманы, манжеты и низ на резинке. Наполнитель синтепон 250 хорошо держит тепло в холодную погоду.
+
+Замеры (46-48 / 50-52):
+Обхват груди 116 / 128 см, плечи 55 / 57 см, длина по спине 72 / 74 см, длина рукава 73 / 76 см.
+
+Ткань: матовая плащевая ткань Канада. Наполнитель: синтепон 250. Сезон: зима.</description_ru>
+<param name="Колір">Хакі</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">плащова тканина канада; наповнювач: синтепон 250</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Синтепон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
 </offer>
 </offers>
 </shop>
