@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 15:48">
+<yml_catalog date="2026-11-19 15:56">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -15159,6 +15159,318 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS051BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051SIN4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051SIN4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_blue_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS051GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1540</price>
+<old_price>2040</old_price>
+<price_promo>1440</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/051_melange_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>051</article>
+<name_ua>Костюм з полар флісу: вкорочене худі на блискавці з капюшоном і вільні штани</name_ua>
+<name_ru>Костюм из полар флиса: укороченное худи на молнии с капюшоном и свободные брюки</name_ru>
+<description_ua>Затишний костюм з м'якого полар флісу для прохолодних днів. Вкорочене худі оверсайз на блискавці з капюшоном і кишенями, рукави та низ на резинці. Вільні широкі штани з резинкою і шнурком на поясі, знизу затяжки. Комфортний комплект для прогулянок, подорожей і на кожен день.
+
+Розміри: 42-44, 46-48.
+
+Тканина: полар фліс. Сезон: зима.</description_ua>
+<description_ru>Уютный костюм из мягкого полар флиса для прохладных дней. Укороченное худи оверсайз на молнии с капюшоном и карманами, рукава и низ на резинке. Свободные широкие брюки с резинкой и шнурком на поясе, снизу затяжки. Комфортный комплект для прогулок, путешествий и на каждый день.
+
+Размеры: 42-44, 46-48.
+
+Ткань: полар флис. Сезон: зима.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">полар фліс</param>
+<param name="Тканина">Фліс</param>
+<param name="Комплектація">Худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Штани">Широкі</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
