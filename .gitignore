@@ -1,0 +1,5 @@
+# Секреты: никогда не коммитить
+.env
+.env.*
+*.session
+*.session-journal
