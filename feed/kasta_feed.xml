@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 13:48">
+<yml_catalog date="2026-11-20 13:55">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -16373,6 +16373,242 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS530BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1310</price>
+<old_price>1810</old_price>
+<price_promo>1210</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>530</article>
+<name_ua>Оксамитова сукня міні з коміром-гольф і бахромою зі страз</name_ua>
+<name_ru>Бархатное платье мини с воротником-гольф и бахромой из страз</name_ru>
+<description_ua>Сукня для вечора, коли хочеться сяяти без зайвих прикрас: усю роботу робить бахрома зі страз, яка йде по косому краю спідниці і переливається від кожного руху.
+
+Модель облягаюча, з високим коміром-гольф і довгими рукавами, довжина міні. Пошита з королівського оксамиту: тканина тягнеться і м'яко сідає по фігурі.
+
+Заміри (спокійний стан / максимальне розтягування):
+42-44: груди 80/94 см, талія 60/76 см, стегна 80/94 см.
+46-48: груди 84/98 см, талія 66/82 см, стегна 86/100 см.
+Довжина сукні 86 см.
+
+Тканина: королівський оксамит.</description_ua>
+<description_ru>Платье для вечера, когда хочется сиять без лишних украшений: всю работу делает бахрома из страз, которая идёт по косому краю юбки и переливается от каждого движения.
+
+Модель облегающая, с высоким воротником-гольф и длинными рукавами, длина мини. Сшита из королевского бархата: ткань тянется и мягко садится по фигуре.
+
+Замеры (в спокойном состоянии / при максимальном растяжении):
+42-44: грудь 80/94 см, талия 60/76 см, бёдра 80/94 см.
+46-48: грудь 84/98 см, талия 66/82 см, бёдра 86/100 см.
+Длина платья 86 см.
+
+Ткань: королевский бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">королівський оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Комір">Гольф</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS530BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1310</price>
+<old_price>1810</old_price>
+<price_promo>1210</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>530</article>
+<name_ua>Оксамитова сукня міні з коміром-гольф і бахромою зі страз</name_ua>
+<name_ru>Бархатное платье мини с воротником-гольф и бахромой из страз</name_ru>
+<description_ua>Сукня для вечора, коли хочеться сяяти без зайвих прикрас: усю роботу робить бахрома зі страз, яка йде по косому краю спідниці і переливається від кожного руху.
+
+Модель облягаюча, з високим коміром-гольф і довгими рукавами, довжина міні. Пошита з королівського оксамиту: тканина тягнеться і м'яко сідає по фігурі.
+
+Заміри (спокійний стан / максимальне розтягування):
+42-44: груди 80/94 см, талія 60/76 см, стегна 80/94 см.
+46-48: груди 84/98 см, талія 66/82 см, стегна 86/100 см.
+Довжина сукні 86 см.
+
+Тканина: королівський оксамит.</description_ua>
+<description_ru>Платье для вечера, когда хочется сиять без лишних украшений: всю работу делает бахрома из страз, которая идёт по косому краю юбки и переливается от каждого движения.
+
+Модель облегающая, с высоким воротником-гольф и длинными рукавами, длина мини. Сшита из королевского бархата: ткань тянется и мягко садится по фигуре.
+
+Замеры (в спокойном состоянии / при максимальном растяжении):
+42-44: грудь 80/94 см, талия 60/76 см, бёдра 80/94 см.
+46-48: грудь 84/98 см, талия 66/82 см, бёдра 86/100 см.
+Длина платья 86 см.
+
+Ткань: королевский бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">королівський оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Комір">Гольф</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS530RED4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1310</price>
+<old_price>1810</old_price>
+<price_promo>1210</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>530</article>
+<name_ua>Оксамитова сукня міні з коміром-гольф і бахромою зі страз</name_ua>
+<name_ru>Бархатное платье мини с воротником-гольф и бахромой из страз</name_ru>
+<description_ua>Сукня для вечора, коли хочеться сяяти без зайвих прикрас: усю роботу робить бахрома зі страз, яка йде по косому краю спідниці і переливається від кожного руху.
+
+Модель облягаюча, з високим коміром-гольф і довгими рукавами, довжина міні. Пошита з королівського оксамиту: тканина тягнеться і м'яко сідає по фігурі.
+
+Заміри (спокійний стан / максимальне розтягування):
+42-44: груди 80/94 см, талія 60/76 см, стегна 80/94 см.
+46-48: груди 84/98 см, талія 66/82 см, стегна 86/100 см.
+Довжина сукні 86 см.
+
+Тканина: королівський оксамит.</description_ua>
+<description_ru>Платье для вечера, когда хочется сиять без лишних украшений: всю работу делает бахрома из страз, которая идёт по косому краю юбки и переливается от каждого движения.
+
+Модель облегающая, с высоким воротником-гольф и длинными рукавами, длина мини. Сшита из королевского бархата: ткань тянется и мягко садится по фигуре.
+
+Замеры (в спокойном состоянии / при максимальном растяжении):
+42-44: грудь 80/94 см, талия 60/76 см, бёдра 80/94 см.
+46-48: грудь 84/98 см, талия 66/82 см, бёдра 86/100 см.
+Длина платья 86 см.
+
+Ткань: королевский бархат.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">королівський оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Комір">Гольф</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS530RED4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1310</price>
+<old_price>1810</old_price>
+<price_promo>1210</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_red_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>530</article>
+<name_ua>Оксамитова сукня міні з коміром-гольф і бахромою зі страз</name_ua>
+<name_ru>Бархатное платье мини с воротником-гольф и бахромой из страз</name_ru>
+<description_ua>Сукня для вечора, коли хочеться сяяти без зайвих прикрас: усю роботу робить бахрома зі страз, яка йде по косому краю спідниці і переливається від кожного руху.
+
+Модель облягаюча, з високим коміром-гольф і довгими рукавами, довжина міні. Пошита з королівського оксамиту: тканина тягнеться і м'яко сідає по фігурі.
+
+Заміри (спокійний стан / максимальне розтягування):
+42-44: груди 80/94 см, талія 60/76 см, стегна 80/94 см.
+46-48: груди 84/98 см, талія 66/82 см, стегна 86/100 см.
+Довжина сукні 86 см.
+
+Тканина: королівський оксамит.</description_ua>
+<description_ru>Платье для вечера, когда хочется сиять без лишних украшений: всю работу делает бахрома из страз, которая идёт по косому краю юбки и переливается от каждого движения.
+
+Модель облегающая, с высоким воротником-гольф и длинными рукавами, длина мини. Сшита из королевского бархата: ткань тянется и мягко садится по фигуре.
+
+Замеры (в спокойном состоянии / при максимальном растяжении):
+42-44: грудь 80/94 см, талия 60/76 см, бёдра 80/94 см.
+46-48: грудь 84/98 см, талия 66/82 см, бёдра 86/100 см.
+Длина платья 86 см.
+
+Ткань: королевский бархат.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">королівський оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Комір">Гольф</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS530ELC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1310</price>
+<old_price>1810</old_price>
+<price_promo>1210</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_electric_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_electric_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_electric_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/530_electric_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>530</article>
+<name_ua>Оксамитова сукня міні з коміром-гольф і бахромою зі страз</name_ua>
+<name_ru>Бархатное платье мини с воротником-гольф и бахромой из страз</name_ru>
+<description_ua>Сукня для вечора, коли хочеться сяяти без зайвих прикрас: усю роботу робить бахрома зі страз, яка йде по косому краю спідниці і переливається від кожного руху.
+
+Модель облягаюча, з високим коміром-гольф і довгими рукавами, довжина міні. Пошита з королівського оксамиту: тканина тягнеться і м'яко сідає по фігурі.
+
+Заміри (спокійний стан / максимальне розтягування):
+42-44: груди 80/94 см, талія 60/76 см, стегна 80/94 см.
+46-48: груди 84/98 см, талія 66/82 см, стегна 86/100 см.
+Довжина сукні 86 см.
+
+Тканина: королівський оксамит.</description_ua>
+<description_ru>Платье для вечера, когда хочется сиять без лишних украшений: всю работу делает бахрома из страз, которая идёт по косому краю юбки и переливается от каждого движения.
+
+Модель облегающая, с высоким воротником-гольф и длинными рукавами, длина мини. Сшита из королевского бархата: ткань тянется и мягко садится по фигуре.
+
+Замеры (в спокойном состоянии / при максимальном растяжении):
+42-44: грудь 80/94 см, талия 60/76 см, бёдра 80/94 см.
+46-48: грудь 84/98 см, талия 66/82 см, бёдра 86/100 см.
+Длина платья 86 см.
+
+Ткань: королевский бархат.</description_ru>
+<param name="Колір">Електрик</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">королівський оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міні</param>
+<param name="Рукав">Довгий</param>
+<param name="Комір">Гольф</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.4</param>
+<param name="Габарити в упаковці, см">30х25х5</param>
 </offer>
 </offers>
 </shop>
