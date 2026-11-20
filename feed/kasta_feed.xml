@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 14:04">
+<yml_catalog date="2026-11-20 14:10">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -17178,6 +17178,454 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.1</param>
 <param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS05359GRBLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRBLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRBLK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRBLK5456" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">54-56</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRCHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRCHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRCHO5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRCHO5456" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_chocolate_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">54-56</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRGRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRGRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRGRY5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS05359GRGRY5456" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1630</price>
+<old_price>2130</old_price>
+<price_promo>1530</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/05359GR_grey_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>05359GR</article>
+<name_ua>Теплий трикотажний костюм з ангори: світшот і штани на зав'язках</name_ua>
+<name_ru>Тёплый трикотажный костюм из ангоры: свитшот и брюки на завязках</name_ru>
+<description_ua>Простий за кроєм костюм, який виручає щодня: в ньому зручно і вдома, і в місті, а з кросівками чи ботинками він виглядає завершено.
+
+Світшот вільний, з круглим вирізом і довгими рукавами. Штани на резинці з зав'язками, вільні в стегнах і трохи звужені донизу, з кишенями. Тканина трикотажна ангора пума: тепла і м'яка на дотик.
+
+Розміри: 42-44, 46-48, 50-52, 54-56.
+Тканина: трикотажна ангора пума.</description_ua>
+<description_ru>Простой по крою костюм, который выручает каждый день: в нём удобно и дома, и в городе, а с кроссовками или ботинками он смотрится завершённо.
+
+Свитшот свободный, с круглым вырезом и длинными рукавами. Брюки на резинке с завязками, свободные в бёдрах и немного зауженные книзу, с карманами. Ткань трикотажная ангора пума: тёплая и мягкая на ощупь.
+
+Размеры: 42-44, 46-48, 50-52, 54-56.
+Ткань: трикотажная ангора пума.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">54-56</param>
+<param name="Склад">ангора пума</param>
+<param name="Тканина">Ангора</param>
+<param name="Комплектація">Світшот, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
