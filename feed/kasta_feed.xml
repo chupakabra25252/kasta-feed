@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 13:39">
+<yml_catalog date="2026-11-20 13:43">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -15991,6 +15991,92 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS831PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_pink_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>831</article>
+<name_ua>Тепла махрова піжама з шортами і вкороченим худі з вушками на блискавці</name_ua>
+<name_ru>Тёплая махровая пижама с шортами и укороченным худи с ушками на молнии</name_ru>
+<description_ua>Піжама-двійка з плюшевої махри з рельєфним візерунком у кружечки. Тканина щільна і двостороння, тому комплект добре тримає тепло.
+
+У комплекті:
+- вкорочене худі на блискавці з капюшоном, на капюшоні вушка; рукави і низ на резинці;
+- шорти з широкою резинкою на поясі.
+
+Розмір 42-46 розрахований на такі параметри: груди до 105 см, талія до 82 см, стегна до 105 см. Довжина худі 46 см, довжина шортів 40 см.
+
+Тканина: щільна двостороння плюшева махра.</description_ua>
+<description_ru>Пижама-двойка из плюшевой махры с рельефным узором в кружочки. Ткань плотная и двусторонняя, поэтому комплект хорошо держит тепло.
+
+В комплекте:
+- укороченное худи на молнии с капюшоном, на капюшоне ушки; рукава и низ на резинке;
+- шорты с широкой резинкой на поясе.
+
+Размер 42-46 рассчитан на такие параметры: грудь до 105 см, талия до 82 см, бёдра до 105 см. Длина худи 46 см, длина шорт 40 см.
+
+Ткань: плотная двусторонняя плюшевая махра.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
+</offer>
+<offer id="VS831WHT4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/831_white_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>831</article>
+<name_ua>Тепла махрова піжама з шортами і вкороченим худі з вушками на блискавці</name_ua>
+<name_ru>Тёплая махровая пижама с шортами и укороченным худи с ушками на молнии</name_ru>
+<description_ua>Піжама-двійка з плюшевої махри з рельєфним візерунком у кружечки. Тканина щільна і двостороння, тому комплект добре тримає тепло.
+
+У комплекті:
+- вкорочене худі на блискавці з капюшоном, на капюшоні вушка; рукави і низ на резинці;
+- шорти з широкою резинкою на поясі.
+
+Розмір 42-46 розрахований на такі параметри: груди до 105 см, талія до 82 см, стегна до 105 см. Довжина худі 46 см, довжина шортів 40 см.
+
+Тканина: щільна двостороння плюшева махра.</description_ua>
+<description_ru>Пижама-двойка из плюшевой махры с рельефным узором в кружочки. Ткань плотная и двусторонняя, поэтому комплект хорошо держит тепло.
+
+В комплекте:
+- укороченное худи на молнии с капюшоном, на капюшоне ушки; рукава и низ на резинке;
+- шорты с широкой резинкой на поясе.
+
+Размер 42-46 рассчитан на такие параметры: грудь до 105 см, талия до 82 см, бёдра до 105 см. Длина худи 46 см, длина шорт 40 см.
+
+Ткань: плотная двусторонняя плюшевая махра.</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х8</param>
 </offer>
 </offers>
 </shop>
