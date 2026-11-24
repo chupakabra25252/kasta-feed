@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 10:31">
+<yml_catalog date="2026-11-24 10:34">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -20046,6 +20046,190 @@
 <param name="Рукав">Короткий</param>
 <param name="Силует">Облягаючий</param>
 <param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS448BRG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>448</article>
+<name_ua>Оксамитова сукня міді на тонких бретелях з відкритою спиною і пишною спідницею, вечірня</name_ua>
+<name_ru>Бархатное платье миди на тонких бретелях с открытой спиной и пышной юбкой, вечернее</name_ru>
+<description_ua>Спереду сукня стримана, а найефектніше видно ззаду: глибокий виріз відкриває спину майже до талії.
+
+Ліф на тонких бретелях з V-подібним вирізом, талія підкреслена, спідниця розкльошена і красиво рухається при ходьбі. Довжина 120 см. Щільний королівський оксамит тримає форму спідниці.
+
+Заміри:
+42-44 (S): обхват грудей 84-86 см, обхват талії 66-68 см.
+44-46 (M): обхват грудей 88-90 см, обхват талії 69-72 см.
+
+Тканина: королівський щільний оксамит.</description_ua>
+<description_ru>Спереди платье сдержанное, а самое эффектное видно сзади: глубокий вырез открывает спину почти до талии.
+
+Лиф на тонких бретелях с V-образным вырезом, талия подчёркнута, юбка расклёшенная и красиво двигается при ходьбе. Длина 120 см. Плотный королевский бархат держит форму юбки.
+
+Замеры:
+42-44 (S): обхват груди 84-86 см, обхват талии 66-68 см.
+44-46 (M): обхват груди 88-90 см, обхват талии 69-72 см.
+
+Ткань: королевский плотный бархат.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міді</param>
+<param name="Рукав">Без рукавів</param>
+<param name="Особливості">Відкрита спина, тонкі бретелі</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS448BRG4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_burgundy_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>448</article>
+<name_ua>Оксамитова сукня міді на тонких бретелях з відкритою спиною і пишною спідницею, вечірня</name_ua>
+<name_ru>Бархатное платье миди на тонких бретелях с открытой спиной и пышной юбкой, вечернее</name_ru>
+<description_ua>Спереду сукня стримана, а найефектніше видно ззаду: глибокий виріз відкриває спину майже до талії.
+
+Ліф на тонких бретелях з V-подібним вирізом, талія підкреслена, спідниця розкльошена і красиво рухається при ходьбі. Довжина 120 см. Щільний королівський оксамит тримає форму спідниці.
+
+Заміри:
+42-44 (S): обхват грудей 84-86 см, обхват талії 66-68 см.
+44-46 (M): обхват грудей 88-90 см, обхват талії 69-72 см.
+
+Тканина: королівський щільний оксамит.</description_ua>
+<description_ru>Спереди платье сдержанное, а самое эффектное видно сзади: глубокий вырез открывает спину почти до талии.
+
+Лиф на тонких бретелях с V-образным вырезом, талия подчёркнута, юбка расклёшенная и красиво двигается при ходьбе. Длина 120 см. Плотный королевский бархат держит форму юбки.
+
+Замеры:
+42-44 (S): обхват груди 84-86 см, обхват талии 66-68 см.
+44-46 (M): обхват груди 88-90 см, обхват талии 69-72 см.
+
+Ткань: королевский плотный бархат.</description_ru>
+<param name="Колір">Бордовий</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міді</param>
+<param name="Рукав">Без рукавів</param>
+<param name="Особливості">Відкрита спина, тонкі бретелі</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS448BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>448</article>
+<name_ua>Оксамитова сукня міді на тонких бретелях з відкритою спиною і пишною спідницею, вечірня</name_ua>
+<name_ru>Бархатное платье миди на тонких бретелях с открытой спиной и пышной юбкой, вечернее</name_ru>
+<description_ua>Спереду сукня стримана, а найефектніше видно ззаду: глибокий виріз відкриває спину майже до талії.
+
+Ліф на тонких бретелях з V-подібним вирізом, талія підкреслена, спідниця розкльошена і красиво рухається при ходьбі. Довжина 120 см. Щільний королівський оксамит тримає форму спідниці.
+
+Заміри:
+42-44 (S): обхват грудей 84-86 см, обхват талії 66-68 см.
+44-46 (M): обхват грудей 88-90 см, обхват талії 69-72 см.
+
+Тканина: королівський щільний оксамит.</description_ua>
+<description_ru>Спереди платье сдержанное, а самое эффектное видно сзади: глубокий вырез открывает спину почти до талии.
+
+Лиф на тонких бретелях с V-образным вырезом, талия подчёркнута, юбка расклёшенная и красиво двигается при ходьбе. Длина 120 см. Плотный королевский бархат держит форму юбки.
+
+Замеры:
+42-44 (S): обхват груди 84-86 см, обхват талии 66-68 см.
+44-46 (M): обхват груди 88-90 см, обхват талии 69-72 см.
+
+Ткань: королевский плотный бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міді</param>
+<param name="Рукав">Без рукавів</param>
+<param name="Особливості">Відкрита спина, тонкі бретелі</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS448BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/448_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>448</article>
+<name_ua>Оксамитова сукня міді на тонких бретелях з відкритою спиною і пишною спідницею, вечірня</name_ua>
+<name_ru>Бархатное платье миди на тонких бретелях с открытой спиной и пышной юбкой, вечернее</name_ru>
+<description_ua>Спереду сукня стримана, а найефектніше видно ззаду: глибокий виріз відкриває спину майже до талії.
+
+Ліф на тонких бретелях з V-подібним вирізом, талія підкреслена, спідниця розкльошена і красиво рухається при ходьбі. Довжина 120 см. Щільний королівський оксамит тримає форму спідниці.
+
+Заміри:
+42-44 (S): обхват грудей 84-86 см, обхват талії 66-68 см.
+44-46 (M): обхват грудей 88-90 см, обхват талії 69-72 см.
+
+Тканина: королівський щільний оксамит.</description_ua>
+<description_ru>Спереди платье сдержанное, а самое эффектное видно сзади: глубокий вырез открывает спину почти до талии.
+
+Лиф на тонких бретелях с V-образным вырезом, талия подчёркнута, юбка расклёшенная и красиво двигается при ходьбе. Длина 120 см. Плотный королевский бархат держит форму юбки.
+
+Замеры:
+42-44 (S): обхват груди 84-86 см, обхват талии 66-68 см.
+44-46 (M): обхват груди 88-90 см, обхват талии 69-72 см.
+
+Ткань: королевский плотный бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Міді</param>
+<param name="Рукав">Без рукавів</param>
+<param name="Особливості">Відкрита спина, тонкі бретелі</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">30х25х8</param>
