@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 10:24">
+<yml_catalog date="2026-11-24 10:28">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -19321,6 +19321,546 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS533MOC4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533MOC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533BEG4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533BEG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_beige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Бежевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533HTH4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Гусяча лапка</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533HTH4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_houndstooth_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Гусяча лапка</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533GRF4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_graphite_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533LGR4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Світло-сірий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS533LGR4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>34</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1770</price>
+<old_price>2270</old_price>
+<price_promo>1670</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/533_lightgrey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>533</article>
+<name_ua>Коротке кашемірове пальто на запах з поясом і шалевим коміром, на підкладці</name_ua>
+<name_ru>Короткое кашемировое пальто на запах с поясом и шалевым воротником, на подкладке</name_ru>
+<description_ua>Пальто-жакет до середини стегна: не сковує рухів за кермом чи в транспорті і добре виглядає і з джинсами, і зі штанами або спідницею.
+
+Модель на запах, фіксується довгим поясом, який можна зав'язати спереду або збоку. Широкий шалевий комір, вільні рукави. Всередині підкладка.
+
+Заміри:
+довжина по спинці 71 см, довжина рукава від горловини 72 см.
+42-46: обхват грудей 84-93 см, обхват талії 65-78 см.
+46-48: обхват грудей 93-100 см, обхват талії 80-90 см.
+
+Тканина: кашемір, на підкладці.</description_ua>
+<description_ru>Пальто-жакет до середины бедра: не сковывает движений за рулём или в транспорте и хорошо смотрится и с джинсами, и с брюками или юбкой.
+
+Модель на запах, фиксируется длинным поясом, который можно завязать спереди или сбоку. Широкий шалевый воротник, свободные рукава. Внутри подкладка.
+
+Замеры:
+длина по спинке 71 см, длина рукава от горловины 72 см.
+42-46: обхват груди 84-93 см, обхват талии 65-78 см.
+46-48: обхват груди 93-100 см, обхват талии 80-90 см.
+
+Ткань: кашемир, на подкладке.</description_ru>
+<param name="Колір">Світло-сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">кашемір</param>
+<param name="Тканина">Кашемір</param>
+<param name="Комплектація">Пальто, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
