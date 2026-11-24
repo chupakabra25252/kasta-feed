@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 10:20">
+<yml_catalog date="2026-11-24 10:24">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -19234,6 +19234,92 @@
 <param name="Особливості">Прихована блискавка на спинці, приспущені плечі</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS491BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1290</price>
+<old_price>1790</old_price>
+<price_promo>1190</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>491</article>
+<name_ua>Оксамитова сукня максі з розрізом, квадратним вирізом і довгими рукавами, вечірня</name_ua>
+<name_ru>Бархатное платье макси с разрезом, квадратным вырезом и длинными рукавами, вечернее</name_ru>
+<description_ua>Чорний оксамит і довжина 130 см роблять цю сукню готовим вечірнім образом: достатньо туфель і сережок.
+
+Силует облягає фігуру, квадратний виріз відкриває ключиці, рукави довгі. Високий розріз на спідниці додає руху при ходьбі. Оксамит щільний, добре тримає форму.
+
+Розміри: 42-44, 44-46.
+Довжина: 130 см.
+Тканина: щільний оксамит.</description_ua>
+<description_ru>Чёрный бархат и длина 130 см делают это платье готовым вечерним образом: достаточно туфель и серёжек.
+
+Силуэт облегает фигуру, квадратный вырез открывает ключицы, рукава длинные. Высокий разрез на юбке добавляет движения при ходьбе. Бархат плотный, хорошо держит форму.
+
+Размеры: 42-44, 44-46.
+Длина: 130 см.
+Ткань: плотный бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Максі</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS491BLK4446" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1290</price>
+<old_price>1790</old_price>
+<price_promo>1190</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/491_black_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>491</article>
+<name_ua>Оксамитова сукня максі з розрізом, квадратним вирізом і довгими рукавами, вечірня</name_ua>
+<name_ru>Бархатное платье макси с разрезом, квадратным вырезом и длинными рукавами, вечернее</name_ru>
+<description_ua>Чорний оксамит і довжина 130 см роблять цю сукню готовим вечірнім образом: достатньо туфель і сережок.
+
+Силует облягає фігуру, квадратний виріз відкриває ключиці, рукави довгі. Високий розріз на спідниці додає руху при ходьбі. Оксамит щільний, добре тримає форму.
+
+Розміри: 42-44, 44-46.
+Довжина: 130 см.
+Тканина: щільний оксамит.</description_ua>
+<description_ru>Чёрный бархат и длина 130 см делают это платье готовым вечерним образом: достаточно туфель и серёжек.
+
+Силуэт облегает фигуру, квадратный вырез открывает ключицы, рукава длинные. Высокий разрез на юбке добавляет движения при ходьбе. Бархат плотный, хорошо держит форму.
+
+Размеры: 42-44, 44-46.
+Длина: 130 см.
+Ткань: плотный бархат.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44-46</param>
+<param name="Склад">оксамит</param>
+<param name="Тканина">Оксамит</param>
+<param name="Довжина">Максі</param>
+<param name="Рукав">Довгий</param>
+<param name="Силует">Облягаючий</param>
+<param name="Особливості">Розріз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">30х25х8</param>
 </offer>
 </offers>
