@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 10:43">
+<yml_catalog date="2026-11-24 10:49">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -20691,6 +20691,686 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.5</param>
 <param name="Габарити в упаковці, см">30х25х8</param>
+</offer>
+<offer id="VS702LGR4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Світло-сірий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702LGR4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightgrey_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Світло-сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702PNK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702PNK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702LBG4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Світло-бежевий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702LBG4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_lightbeige_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Світло-бежевий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_chocolate_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702GRF4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_graphite_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS702GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1350</price>
+<old_price>1850</old_price>
+<price_promo>1250</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/702_melange_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>702</article>
+<name_ua>Велюровий костюм: укорочене худі на блискавці з капюшоном і широкі штани з білою резинкою</name_ua>
+<name_ru>Велюровый костюм: укороченное худи на молнии с капюшоном и широкие брюки с белой резинкой</name_ru>
+<description_ua>Вісім відтінків, від ніжного рожевого до графіту, тож костюм легко підібрати під свій гардероб, а то й узяти два.
+
+Кофта укорочена, на блискавці, з капюшоном. Штани широкі, з контрастною білою резинкою на поясі і кулісками внизу, щоб регулювати ширину. Кожну частину можна носити окремо: кофту з джинсами, штани з футболкою чи светром.
+
+Плюшевий велюр з Туреччини м'який і приємний до тіла.
+
+Розміри: 42-44, 46-48.
+Тканина: плюшевий велюр.</description_ua>
+<description_ru>Восемь оттенков, от нежного розового до графита, так что костюм легко подобрать под свой гардероб, а то и взять два.
+
+Кофта укороченная, на молнии, с капюшоном. Брюки широкие, с контрастной белой резинкой на поясе и кулисками внизу, чтобы регулировать ширину. Каждую часть можно носить отдельно: кофту с джинсами, брюки с футболкой или свитером.
+
+Плюшевый велюр из Турции мягкий и приятный к телу.
+
+Размеры: 42-44, 46-48.
+Ткань: плюшевый велюр.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плюшевий велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
