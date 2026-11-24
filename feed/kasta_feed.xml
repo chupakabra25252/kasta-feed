@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 14:25">
+<yml_catalog date="2026-11-24 10:12">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -18182,6 +18182,588 @@
 <param name="Комплектація">Светр, штани</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947BLU4852" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">48-52</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947BLU5458" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">54-58</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947BLU6064" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_blue_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">60-64</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947MLK4852" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">48-52</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947MLK5458" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">54-58</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947MLK6064" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">60-64</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947GRY4852" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">48-52</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947GRY5458" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">54-58</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947GRY6064" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_grey_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">60-64</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947PNK4852" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">48-52</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947PNK5458" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">54-58</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS947PNK6064" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>40</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/947_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>947</article>
+<name_ua>Махровий халат з капюшоном і принтом, довгий, на запах з поясом, великі розміри</name_ua>
+<name_ru>Махровый халат с капюшоном и принтом, длинный, на запах с поясом, большие размеры</name_ru>
+<description_ua>Довжина 115 см у всіх розмірах, тож халат прикриває коліна і не задирається, коли сідаєте на диван з чаєм. Махра з принтом щільна і тепла, після прання тримає вигляд.
+
+Крій вільний, на запах: пояс дозволяє затягнути халат щільніше або носити вільно. Великий капюшон, дві накладні кишені, довгі рукави.
+
+Розміри і заміри:
+48-52: обхват грудей 124 см, обхват стегон 126 см.
+54-58: обхват грудей 136 см, обхват стегон 138 см.
+60-64: обхват грудей 148 см, обхват стегон 150 см.
+
+Тканина: махра принтована.</description_ua>
+<description_ru>Длина 115 см во всех размерах, так что халат закрывает колени и не задирается, когда садитесь на диван с чаем. Махра с принтом плотная и тёплая, после стирки держит вид.
+
+Крой свободный, на запах: пояс позволяет затянуть халат плотнее или носить свободно. Большой капюшон, два накладных кармана, длинные рукава.
+
+Размеры и замеры:
+48-52: обхват груди 124 см, обхват бёдер 126 см.
+54-58: обхват груди 136 см, обхват бёдер 138 см.
+60-64: обхват груди 148 см, обхват бёдер 150 см.
+
+Ткань: махра принтованная.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">60-64</param>
+<param name="Склад">махра принтована</param>
+<param name="Тканина">Махра</param>
+<param name="Застібка">На запах</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Комплектація">Халат, пояс</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
