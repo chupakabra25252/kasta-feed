@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:41">
+<yml_catalog date="2026-11-26 12:43">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -21969,6 +21969,47 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS313WHT4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/313_white_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>313</article>
+<name_ua>Теплий флісовий костюм з подвійним капюшоном: зіп-худі та штани, турецький фліс</name_ua>
+<name_ru>Тёплый флисовый костюм с двойным капюшоном: зип-худи и брюки, турецкий флис</name_ru>
+<description_ua>Білий костюм з двостороннього турецького флісу на холодні дні. Тканина не кошлатиться, тому поверхня залишається гладкою і після носіння.
+
+Кофта застібається на блискавку, капюшон подвійний і добре тримає форму. У комплекті штани.
+
+Розмір: 42-46.
+Тканина: двосторонній фліс (Туреччина).</description_ua>
+<description_ru>Белый костюм из двустороннего турецкого флиса на холодные дни. Ткань не скатывается, поэтому поверхность остаётся гладкой и после носки.
+
+Кофта застёгивается на молнию, капюшон двойной и хорошо держит форму. В комплекте брюки.
+
+Размер: 42-46.
+Ткань: двусторонний флис (Турция).</description_ru>
+<param name="Колір">Білий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Зіп-худі, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Подвійний</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
 </shop>
