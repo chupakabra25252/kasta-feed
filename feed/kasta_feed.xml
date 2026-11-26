@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:46">
+<yml_catalog date="2026-11-26 12:52">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -22089,6 +22089,1020 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.7</param>
 <param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS2047MOC42" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">42</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MOC44" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">44</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MOC46" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">46</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MOC48" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">48</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MOC50" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">50</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MOC52" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_mocha_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">52</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK42" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK44" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">44</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK46" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK48" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">48</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK50" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">50</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047MLK52" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_milk_6.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">52</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK42" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK44" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">44</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK46" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK48" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">48</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK50" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047BLK52" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">52</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH42" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">42</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH44" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">44</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH46" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">46</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH48" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">48</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH50" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">50</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2047ASH52" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2060</price>
+<old_price>2560</old_price>
+<price_promo>1960</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2047_ash_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2047</article>
+<name_ua>Демісезонна куртка-пуфер коротка на еко пуху зі знімним капюшоном</name_ua>
+<name_ru>Демисезонная куртка-пуфер короткая на эко пуху со съёмным капюшоном</name_ru>
+<description_ua>Коротка об'ємна куртка на весну та осінь, легка і майже не відчувається на плечах. Утеплювач еко пух щільністю 250.
+
+Капюшон знімається, тож куртку можна носити і з ним, і з відкритим коміром-стійкою. Кишені застібаються на блискавку, а по низу є затяжки, щоб підігнати об'єм на стегнах.
+
+Верх: тканина глорія.
+Розміри: 42, 44, 46, 48, 50, 52.
+Пошито в Харкові.</description_ua>
+<description_ru>Короткая объёмная куртка на весну и осень, лёгкая и почти не ощущается на плечах. Утеплитель эко пух плотностью 250.
+
+Капюшон снимается, поэтому куртку можно носить и с ним, и с открытым воротником-стойкой. Карманы застёгиваются на молнию, а по низу есть затяжки, чтобы подогнать объём на бёдрах.
+
+Верх: ткань глория.
+Размеры: 42, 44, 46, 48, 50, 52.
+Пошито в Харькове.</description_ru>
+<param name="Колір">Попелястий</param>
+<param name="Розмір">52</param>
+<param name="Склад">верх: глорія; наповнювач: еко пух 250</param>
+<param name="Тканина">Глорія</param>
+<param name="Наповнювач">Еко пух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Знімний</param>
+<param name="Кишені">На блискавці</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.0</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
 </offer>
 </offers>
 </shop>
