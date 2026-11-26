@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 13:27">
+<yml_catalog date="2026-11-26 13:31">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -28405,6 +28405,166 @@
 <param name="Крій">Оверсайз</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS561NVY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>561</article>
+<name_ua>Велюровий спортивний костюм оверсайз з контрастними вставками: зіп-кофта і широкі штани</name_ua>
+<name_ru>Велюровый спортивный костюм оверсайз с контрастными вставками: зип-кофта и широкие брюки</name_ru>
+<description_ua>Велюровий костюм у спортивному стилі: контрастні смуги на рукавах і штанинах роблять його двоколірним. Найкраще поєднується з кедами чи кросівками.
+
+Кофта вільного крою застібається на блискавку. Штани широкі, на резинці. Внизу затяжки, тож штани можна носити як джогери або розпустити палаццо.
+
+Тканина: велюр.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Велюровый костюм в спортивном стиле: контрастные полосы на рукавах и штанинах делают его двухцветным. Лучше всего сочетается с кедами или кроссовками.
+
+Кофта свободного кроя застёгивается на молнию. Брюки широкие, на резинке. Внизу затяжки, поэтому брюки можно носить как джоггеры или распустить палаццо.
+
+Ткань: велюр.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на резинці, затяжки внизу</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS561NVY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_navy_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>561</article>
+<name_ua>Велюровий спортивний костюм оверсайз з контрастними вставками: зіп-кофта і широкі штани</name_ua>
+<name_ru>Велюровый спортивный костюм оверсайз с контрастными вставками: зип-кофта и широкие брюки</name_ru>
+<description_ua>Велюровий костюм у спортивному стилі: контрастні смуги на рукавах і штанинах роблять його двоколірним. Найкраще поєднується з кедами чи кросівками.
+
+Кофта вільного крою застібається на блискавку. Штани широкі, на резинці. Внизу затяжки, тож штани можна носити як джогери або розпустити палаццо.
+
+Тканина: велюр.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Велюровый костюм в спортивном стиле: контрастные полосы на рукавах и штанинах делают его двухцветным. Лучше всего сочетается с кедами или кроссовками.
+
+Кофта свободного кроя застёгивается на молнию. Брюки широкие, на резинке. Внизу затяжки, поэтому брюки можно носить как джоггеры или распустить палаццо.
+
+Ткань: велюр.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на резинці, затяжки внизу</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS561MLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>561</article>
+<name_ua>Велюровий спортивний костюм оверсайз з контрастними вставками: зіп-кофта і широкі штани</name_ua>
+<name_ru>Велюровый спортивный костюм оверсайз с контрастными вставками: зип-кофта и широкие брюки</name_ru>
+<description_ua>Велюровий костюм у спортивному стилі: контрастні смуги на рукавах і штанинах роблять його двоколірним. Найкраще поєднується з кедами чи кросівками.
+
+Кофта вільного крою застібається на блискавку. Штани широкі, на резинці. Внизу затяжки, тож штани можна носити як джогери або розпустити палаццо.
+
+Тканина: велюр.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Велюровый костюм в спортивном стиле: контрастные полосы на рукавах и штанинах делают его двухцветным. Лучше всего сочетается с кедами или кроссовками.
+
+Кофта свободного кроя застёгивается на молнию. Брюки широкие, на резинке. Внизу затяжки, поэтому брюки можно носить как джоггеры или распустить палаццо.
+
+Ткань: велюр.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на резинці, затяжки внизу</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS561MLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1650</price>
+<old_price>2150</old_price>
+<price_promo>1550</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/561_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>561</article>
+<name_ua>Велюровий спортивний костюм оверсайз з контрастними вставками: зіп-кофта і широкі штани</name_ua>
+<name_ru>Велюровый спортивный костюм оверсайз с контрастными вставками: зип-кофта и широкие брюки</name_ru>
+<description_ua>Велюровий костюм у спортивному стилі: контрастні смуги на рукавах і штанинах роблять його двоколірним. Найкраще поєднується з кедами чи кросівками.
+
+Кофта вільного крою застібається на блискавку. Штани широкі, на резинці. Внизу затяжки, тож штани можна носити як джогери або розпустити палаццо.
+
+Тканина: велюр.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Велюровый костюм в спортивном стиле: контрастные полосы на рукавах и штанинах делают его двухцветным. Лучше всего сочетается с кедами или кроссовками.
+
+Кофта свободного кроя застёгивается на молнию. Брюки широкие, на резинке. Внизу затяжки, поэтому брюки можно носить как джоггеры или распустить палаццо.
+
+Ткань: велюр.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">велюр</param>
+<param name="Тканина">Велюр</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Штани">Широкі, на резинці, затяжки внизу</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
 </offer>
 </offers>
