@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:43">
+<yml_catalog date="2026-11-26 12:46">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -22010,6 +22010,85 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS385PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>385</article>
+<name_ua>Тепла махрова піжама з принтом великі сердечка: кофта і штани, турецька махра</name_ua>
+<name_ru>Тёплая махровая пижама с принтом большие сердечки: кофта и брюки, турецкая махра</name_ru>
+<description_ua>Пухнаста піжама для холодних вечорів удома: в ній тепло навіть без пледа. Великі білі сердечка розкидані по всій кофті й штанах.
+
+Кофта вільна, з довгими рукавами і круглим вирізом. Штани прямі, внизу зібрані на манжети, тож не волочаться по підлозі.
+
+Тканина: турецька махра.
+Розмір: 42-46.</description_ua>
+<description_ru>Пушистая пижама для холодных вечеров дома: в ней тепло даже без пледа. Крупные белые сердечки рассыпаны по всей кофте и брюкам.
+
+Кофта свободная, с длинными рукавами и круглым вырезом. Брюки прямые, внизу собраны на манжеты, так что не волочатся по полу.
+
+Ткань: турецкая махра.
+Размер: 42-46.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Рукав">Довгий</param>
+<param name="Візерунок">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
+</offer>
+<offer id="VS385BLU4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1410</price>
+<old_price>1910</old_price>
+<price_promo>1310</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_blue_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_blue_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_blue_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/385_blue_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>385</article>
+<name_ua>Тепла махрова піжама з принтом великі сердечка: кофта і штани, турецька махра</name_ua>
+<name_ru>Тёплая махровая пижама с принтом большие сердечки: кофта и брюки, турецкая махра</name_ru>
+<description_ua>Пухнаста піжама для холодних вечорів удома: в ній тепло навіть без пледа. Великі білі сердечка розкидані по всій кофті й штанах.
+
+Кофта вільна, з довгими рукавами і круглим вирізом. Штани прямі, внизу зібрані на манжети, тож не волочаться по підлозі.
+
+Тканина: турецька махра.
+Розмір: 42-46.</description_ua>
+<description_ru>Пушистая пижама для холодных вечеров дома: в ней тепло даже без пледа. Крупные белые сердечки рассыпаны по всей кофте и брюкам.
+
+Кофта свободная, с длинными рукавами и круглым вырезом. Брюки прямые, внизу собраны на манжеты, так что не волочатся по полу.
+
+Ткань: турецкая махра.
+Размер: 42-46.</description_ru>
+<param name="Колір">Блакитний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">махра</param>
+<param name="Тканина">Махра</param>
+<param name="Країна виробництва тканини">Туреччина</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Рукав">Довгий</param>
+<param name="Візерунок">Сердечка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.7</param>
+<param name="Габарити в упаковці, см">35х30х10</param>
 </offer>
 </offers>
 </shop>
