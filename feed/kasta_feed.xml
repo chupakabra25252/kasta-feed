@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:38">
+<yml_catalog date="2026-11-26 12:41">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -21764,6 +21764,211 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.9</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS1357CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1030</price>
+<old_price>1530</old_price>
+<price_promo>930</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_chocolate_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_chocolate_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1357</article>
+<name_ua>Флісова кофта оверсайз на блискавці з коміром-стійкою та кишенями на блискавках</name_ua>
+<name_ru>Флисовая кофта оверсайз на молнии с воротником-стойкой и карманами на молниях</name_ru>
+<description_ua>Тепла фліска вільного крою, яку зручно вдягати поверх футболки чи гольфа. Застібається на блискавку до самого верху: висока стійка прикриває шию, коли дме вітер.
+
+Кишені теж на блискавках, тож телефон чи ключі не випадуть. На рукавах манжети, а по низу куліса: можна присобрати кофту на стегнах або залишити прямою.
+
+Тканина: двосторонній фліс, м'який з обох боків.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Тёплая флиска свободного кроя, которую удобно надевать поверх футболки или гольфа. Застёгивается на молнию до самого верха: высокая стойка прикрывает шею, когда дует ветер.
+
+Карманы тоже на молниях, так что телефон или ключи не выпадут. На рукавах манжеты, а по низу кулиса: можно присобрать кофту на бёдрах или оставить прямой.
+
+Ткань: двусторонний флис, мягкий с обеих сторон.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1357BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1030</price>
+<old_price>1530</old_price>
+<price_promo>930</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_black_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1357</article>
+<name_ua>Флісова кофта оверсайз на блискавці з коміром-стійкою та кишенями на блискавках</name_ua>
+<name_ru>Флисовая кофта оверсайз на молнии с воротником-стойкой и карманами на молниях</name_ru>
+<description_ua>Тепла фліска вільного крою, яку зручно вдягати поверх футболки чи гольфа. Застібається на блискавку до самого верху: висока стійка прикриває шию, коли дме вітер.
+
+Кишені теж на блискавках, тож телефон чи ключі не випадуть. На рукавах манжети, а по низу куліса: можна присобрати кофту на стегнах або залишити прямою.
+
+Тканина: двосторонній фліс, м'який з обох боків.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Тёплая флиска свободного кроя, которую удобно надевать поверх футболки или гольфа. Застёгивается на молнию до самого верха: высокая стойка прикрывает шею, когда дует ветер.
+
+Карманы тоже на молниях, так что телефон или ключи не выпадут. На рукавах манжеты, а по низу кулиса: можно присобрать кофту на бёдрах или оставить прямой.
+
+Ткань: двусторонний флис, мягкий с обеих сторон.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1357MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1030</price>
+<old_price>1530</old_price>
+<price_promo>930</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_milk_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_milk_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1357</article>
+<name_ua>Флісова кофта оверсайз на блискавці з коміром-стійкою та кишенями на блискавках</name_ua>
+<name_ru>Флисовая кофта оверсайз на молнии с воротником-стойкой и карманами на молниях</name_ru>
+<description_ua>Тепла фліска вільного крою, яку зручно вдягати поверх футболки чи гольфа. Застібається на блискавку до самого верху: висока стійка прикриває шию, коли дме вітер.
+
+Кишені теж на блискавках, тож телефон чи ключі не випадуть. На рукавах манжети, а по низу куліса: можна присобрати кофту на стегнах або залишити прямою.
+
+Тканина: двосторонній фліс, м'який з обох боків.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Тёплая флиска свободного кроя, которую удобно надевать поверх футболки или гольфа. Застёгивается на молнию до самого верха: высокая стойка прикрывает шею, когда дует ветер.
+
+Карманы тоже на молниях, так что телефон или ключи не выпадут. На рукавах манжеты, а по низу кулиса: можно присобрать кофту на бёдрах или оставить прямой.
+
+Ткань: двусторонний флис, мягкий с обеих сторон.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1357RED4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1030</price>
+<old_price>1530</old_price>
+<price_promo>930</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_red_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_red_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_red_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_red_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_red_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1357</article>
+<name_ua>Флісова кофта оверсайз на блискавці з коміром-стійкою та кишенями на блискавках</name_ua>
+<name_ru>Флисовая кофта оверсайз на молнии с воротником-стойкой и карманами на молниях</name_ru>
+<description_ua>Тепла фліска вільного крою, яку зручно вдягати поверх футболки чи гольфа. Застібається на блискавку до самого верху: висока стійка прикриває шию, коли дме вітер.
+
+Кишені теж на блискавках, тож телефон чи ключі не випадуть. На рукавах манжети, а по низу куліса: можна присобрати кофту на стегнах або залишити прямою.
+
+Тканина: двосторонній фліс, м'який з обох боків.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Тёплая флиска свободного кроя, которую удобно надевать поверх футболки или гольфа. Застёгивается на молнию до самого верха: высокая стойка прикрывает шею, когда дует ветер.
+
+Карманы тоже на молниях, так что телефон или ключи не выпадут. На рукавах манжеты, а по низу кулиса: можно присобрать кофту на бёдрах или оставить прямой.
+
+Ткань: двусторонний флис, мягкий с обеих сторон.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Червоний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS1357PNK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1030</price>
+<old_price>1530</old_price>
+<price_promo>930</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_pink_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_pink_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_pink_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_pink_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/1357_pink_5.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>1357</article>
+<name_ua>Флісова кофта оверсайз на блискавці з коміром-стійкою та кишенями на блискавках</name_ua>
+<name_ru>Флисовая кофта оверсайз на молнии с воротником-стойкой и карманами на молниях</name_ru>
+<description_ua>Тепла фліска вільного крою, яку зручно вдягати поверх футболки чи гольфа. Застібається на блискавку до самого верху: висока стійка прикриває шию, коли дме вітер.
+
+Кишені теж на блискавках, тож телефон чи ключі не випадуть. На рукавах манжети, а по низу куліса: можна присобрати кофту на стегнах або залишити прямою.
+
+Тканина: двосторонній фліс, м'який з обох боків.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Тёплая флиска свободного кроя, которую удобно надевать поверх футболки или гольфа. Застёгивается на молнию до самого верха: высокая стойка прикрывает шею, когда дует ветер.
+
+Карманы тоже на молниях, так что телефон или ключи не выпадут. На рукавах манжеты, а по низу кулиса: можно присобрать кофту на бёдрах или оставить прямой.
+
+Ткань: двусторонний флис, мягкий с обеих сторон.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Рожевий</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">двосторонній фліс</param>
+<param name="Тканина">Двосторонній фліс</param>
+<param name="Застібка">Блискавка</param>
+<param name="Комір">Стійка</param>
+<param name="Рукав">Довгий</param>
+<param name="Кишені">Є</param>
+<param name="Крій">Оверсайз</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
