@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:52">
+<yml_catalog date="2026-11-26 13:02">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -23103,6 +23103,294 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.0</param>
 <param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS782b773BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773GRY4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_grey_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773GRY4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_grey_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Сірий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773GRF4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_graphite_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773GRF4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_graphite_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_graphite_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Графітовий</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_chocolate_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
+</offer>
+<offer id="VS782b773CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1160</price>
+<old_price>1660</old_price>
+<price_promo>1060</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/782b773_chocolate_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>782b773</article>
+<name_ua>Штани кльош з ангори в рубчик з високою посадкою і широким поясом на блискавці</name_ua>
+<name_ru>Брюки клёш из ангоры в рубчик с высокой посадкой и широким поясом на молнии</name_ru>
+<description_ua>Ангора в рубчик м'яка, тягнеться і щільно сідає по фігурі від талії до колін, а нижче штанини розходяться кльошем. Через це ноги здаються довшими, особливо з кросівками чи черевиками на платформі.
+
+Посадка висока, широкий пояс застібається спереду на блискавку.
+
+Тканина: ангора рубчик.
+Розміри: 42-44, 46-48.</description_ua>
+<description_ru>Ангора в рубчик мягкая, тянется и плотно садится по фигуре от талии до колен, а ниже штанины расходятся клёшем. Из-за этого ноги кажутся длиннее, особенно с кроссовками или ботинками на платформе.
+
+Посадка высокая, широкий пояс застёгивается спереди на молнию.
+
+Ткань: ангора рубчик.
+Размеры: 42-44, 46-48.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Посадка">Висока</param>
+<param name="Застібка">Блискавка</param>
+<param name="Фасон">Кльош</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.5</param>
+<param name="Габарити в упаковці, см">35х25х5</param>
 </offer>
 </offers>
 </shop>
