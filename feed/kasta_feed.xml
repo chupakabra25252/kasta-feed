@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 19:41">
+<yml_catalog date="2026-11-27 19:48">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -28736,6 +28736,446 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.6</param>
 <param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS2052BLKS" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">S</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052BLKM" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">M</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052BLKL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">L</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052BLKXL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">XL</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052MLKS" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">S</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052MLKM" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">M</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052MLKL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">L</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052MLKXL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_milk_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">XL</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052CHOS" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">S</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052CHOM" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">M</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052CHOL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">L</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS2052CHOXL" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2440</price>
+<old_price>2940</old_price>
+<price_promo>2340</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/2052_chocolate_3.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>2052</article>
+<name_ua>Жіноча зимова куртка з мембранної тканини на екопуху з капюшоном і кулісою на талії</name_ua>
+<name_ru>Женская зимняя куртка из мембранной ткани на экопуху с капюшоном и кулиской на талии</name_ru>
+<description_ua>Верх з мембранної тканини не пропускає вітер, а екопух щільністю 250 тримає тепло і при цьому не робить куртку важкою.
+
+На талії куліска: її можна затягнути, щоб підкреслити силует, або залишити вільною. Капюшон великий і об'ємний, комір високий. Застібка на блискавку, поверх неї планка на кнопках. Спереду дві великі накладні кишені з клапанами, рукави на манжетах.
+
+Тканина: мембранна. Наповнювач: екопух, щільність 250. Сезон: зима.</description_ua>
+<description_ru>Верх из мембранной ткани не пропускает ветер, а экопух плотностью 250 держит тепло и при этом не делает куртку тяжелой.
+
+На талии кулиска: ее можно затянуть, чтобы подчеркнуть силуэт, или оставить свободной. Капюшон большой и объемный, воротник высокий. Застежка на молнию, поверх нее планка на кнопках. Спереди два больших накладных кармана с клапанами, рукава на манжетах.
+
+Ткань: мембранная. Наполнитель: экопух, плотность 250. Сезон: зима.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">XL</param>
+<param name="Склад">мембранна тканина; наповнювач: екопух 250</param>
+<param name="Тканина">Мембранна тканина</param>
+<param name="Наповнювач">Екопух</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.1</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
 </offer>
 </offers>
 </shop>
