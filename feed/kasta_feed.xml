@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 19:55">
+<yml_catalog date="2026-11-27 20:06">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -29760,6 +29760,194 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">1.2</param>
 <param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS314BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>314</article>
+<name_ua>Костюм з рубчика на флісі з приталеною кофтою на металевій блискавці і прямими штанами з розрізами</name_ua>
+<name_ru>Костюм из рубчика на флисе с приталенной кофтой на металлической молнии и прямыми брюками с разрезами</name_ru>
+<description_ua>Кофта скроєна так, що щільно сідає на талії і візуально робить її тоншою. Вона з капюшоном і застібається на металеву блискавку.
+
+Штани з високою посадкою на шнурку, прямого крою, внизу збоку невеликі розрізи. Рубчик на флісі гріє і не скочується.
+
+Заміри 42-44 / 46-48:
+кофта — об'єм грудей 80-86 / 88-96 см, талія в обхваті 68 / 76 см, довжина по спині 51 / 52 см, рукав 60 / 61 см;
+штани — талія в обхваті 66 / 76 см (добре тягнеться), стегна в обхваті 100 / 108 см, довжина від пояса 108 / 109 см, внутрішній шов 78 / 79 см.
+
+Тканина: рубчик на флісі.</description_ua>
+<description_ru>Кофта скроена так, что плотно садится по талии и визуально делает ее тоньше. Она с капюшоном и застегивается на металлическую молнию.
+
+Брюки с высокой посадкой на шнурке, прямого кроя, внизу сбоку небольшие разрезы. Рубчик на флисе греет и не скатывается.
+
+Замеры 42-44 / 46-48:
+кофта — объем груди 80-86 / 88-96 см, талия в обхвате 68 / 76 см, длина по спине 51 / 52 см, рукав 60 / 61 см;
+брюки — талия в обхвате 66 / 76 см (хорошо тянется), бедра в обхвате 100 / 108 см, длина от пояса 108 / 109 см, внутренний шов 78 / 79 см.
+
+Ткань: рубчик на флисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">рубчик на флісі</param>
+<param name="Тканина">Рубчик на флісі</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS314BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_black_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>314</article>
+<name_ua>Костюм з рубчика на флісі з приталеною кофтою на металевій блискавці і прямими штанами з розрізами</name_ua>
+<name_ru>Костюм из рубчика на флисе с приталенной кофтой на металлической молнии и прямыми брюками с разрезами</name_ru>
+<description_ua>Кофта скроєна так, що щільно сідає на талії і візуально робить її тоншою. Вона з капюшоном і застібається на металеву блискавку.
+
+Штани з високою посадкою на шнурку, прямого крою, внизу збоку невеликі розрізи. Рубчик на флісі гріє і не скочується.
+
+Заміри 42-44 / 46-48:
+кофта — об'єм грудей 80-86 / 88-96 см, талія в обхваті 68 / 76 см, довжина по спині 51 / 52 см, рукав 60 / 61 см;
+штани — талія в обхваті 66 / 76 см (добре тягнеться), стегна в обхваті 100 / 108 см, довжина від пояса 108 / 109 см, внутрішній шов 78 / 79 см.
+
+Тканина: рубчик на флісі.</description_ua>
+<description_ru>Кофта скроена так, что плотно садится по талии и визуально делает ее тоньше. Она с капюшоном и застегивается на металлическую молнию.
+
+Брюки с высокой посадкой на шнурке, прямого кроя, внизу сбоку небольшие разрезы. Рубчик на флисе греет и не скатывается.
+
+Замеры 42-44 / 46-48:
+кофта — объем груди 80-86 / 88-96 см, талия в обхвате 68 / 76 см, длина по спине 51 / 52 см, рукав 60 / 61 см;
+брюки — талия в обхвате 66 / 76 см (хорошо тянется), бедра в обхвате 100 / 108 см, длина от пояса 108 / 109 см, внутренний шов 78 / 79 см.
+
+Ткань: рубчик на флисе.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">рубчик на флісі</param>
+<param name="Тканина">Рубчик на флісі</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS314MOC4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>314</article>
+<name_ua>Костюм з рубчика на флісі з приталеною кофтою на металевій блискавці і прямими штанами з розрізами</name_ua>
+<name_ru>Костюм из рубчика на флисе с приталенной кофтой на металлической молнии и прямыми брюками с разрезами</name_ru>
+<description_ua>Кофта скроєна так, що щільно сідає на талії і візуально робить її тоншою. Вона з капюшоном і застібається на металеву блискавку.
+
+Штани з високою посадкою на шнурку, прямого крою, внизу збоку невеликі розрізи. Рубчик на флісі гріє і не скочується.
+
+Заміри 42-44 / 46-48:
+кофта — об'єм грудей 80-86 / 88-96 см, талія в обхваті 68 / 76 см, довжина по спині 51 / 52 см, рукав 60 / 61 см;
+штани — талія в обхваті 66 / 76 см (добре тягнеться), стегна в обхваті 100 / 108 см, довжина від пояса 108 / 109 см, внутрішній шов 78 / 79 см.
+
+Тканина: рубчик на флісі.</description_ua>
+<description_ru>Кофта скроена так, что плотно садится по талии и визуально делает ее тоньше. Она с капюшоном и застегивается на металлическую молнию.
+
+Брюки с высокой посадкой на шнурке, прямого кроя, внизу сбоку небольшие разрезы. Рубчик на флисе греет и не скатывается.
+
+Замеры 42-44 / 46-48:
+кофта — объем груди 80-86 / 88-96 см, талия в обхвате 68 / 76 см, длина по спине 51 / 52 см, рукав 60 / 61 см;
+брюки — талия в обхвате 66 / 76 см (хорошо тянется), бедра в обхвате 100 / 108 см, длина от пояса 108 / 109 см, внутренний шов 78 / 79 см.
+
+Ткань: рубчик на флисе.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">рубчик на флісі</param>
+<param name="Тканина">Рубчик на флісі</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS314MOC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1420</price>
+<old_price>1920</old_price>
+<price_promo>1320</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/314_mocha_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>314</article>
+<name_ua>Костюм з рубчика на флісі з приталеною кофтою на металевій блискавці і прямими штанами з розрізами</name_ua>
+<name_ru>Костюм из рубчика на флисе с приталенной кофтой на металлической молнии и прямыми брюками с разрезами</name_ru>
+<description_ua>Кофта скроєна так, що щільно сідає на талії і візуально робить її тоншою. Вона з капюшоном і застібається на металеву блискавку.
+
+Штани з високою посадкою на шнурку, прямого крою, внизу збоку невеликі розрізи. Рубчик на флісі гріє і не скочується.
+
+Заміри 42-44 / 46-48:
+кофта — об'єм грудей 80-86 / 88-96 см, талія в обхваті 68 / 76 см, довжина по спині 51 / 52 см, рукав 60 / 61 см;
+штани — талія в обхваті 66 / 76 см (добре тягнеться), стегна в обхваті 100 / 108 см, довжина від пояса 108 / 109 см, внутрішній шов 78 / 79 см.
+
+Тканина: рубчик на флісі.</description_ua>
+<description_ru>Кофта скроена так, что плотно садится по талии и визуально делает ее тоньше. Она с капюшоном и застегивается на металлическую молнию.
+
+Брюки с высокой посадкой на шнурке, прямого кроя, внизу сбоку небольшие разрезы. Рубчик на флисе греет и не скатывается.
+
+Замеры 42-44 / 46-48:
+кофта — объем груди 80-86 / 88-96 см, талия в обхвате 68 / 76 см, длина по спине 51 / 52 см, рукав 60 / 61 см;
+брюки — талия в обхвате 66 / 76 см (хорошо тянется), бедра в обхвате 100 / 108 см, длина от пояса 108 / 109 см, внутренний шов 78 / 79 см.
+
+Ткань: рубчик на флисе.</description_ru>
+<param name="Колір">Мокко</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">рубчик на флісі</param>
+<param name="Тканина">Рубчик на флісі</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
 </offer>
 </offers>
 </shop>
