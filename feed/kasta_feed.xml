@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 19:50">
+<yml_catalog date="2026-11-27 19:52">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -29488,6 +29488,258 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.4</param>
 <param name="Габарити в упаковці, см">30х25х5</param>
+</offer>
+<offer id="VS10100BKB4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з бежевим</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS10100BKB4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з бежевим</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS10100BKB5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackbeige_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з бежевим</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS10100BKC4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з шоколадним</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS10100BKC4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з шоколадним</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
+</offer>
+<offer id="VS10100BKC5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>2050</price>
+<old_price>2550</old_price>
+<price_promo>1950</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_4.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_5.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_6.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/10100_blackchoc_7.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>10100</article>
+<name_ua>Двостороння зимова куртка з лакової плащівки на силіконі 200 з капюшоном і поясом</name_ua>
+<name_ru>Двусторонняя зимняя куртка из лаковой плащевки на силиконе 200 с капюшоном и поясом</name_ru>
+<description_ua>Одна куртка — два кольори: з одного боку вона чорна, з іншого світла, тож її легко підлаштувати під будь-який образ. Пояс так само двосторонній.
+
+Верх з плащівки лаке з легким блиском, усередині силікон 200, якого вистачає на зиму. Модель подовжена, з глибоким капюшоном, застібається на блискавку, є кишені. З поясом куртка підкреслює талію, без нього сидить вільно.
+
+Тканина: плащівка лаке. Наповнювач: силікон 200. Сезон: зима.
+Розміри: 42-44, 46-48, 50-52.</description_ua>
+<description_ru>Одна куртка — два цвета: с одной стороны она черная, с другой светлая, так что ее легко подстроить под любой образ. Пояс тоже двусторонний.
+
+Верх из плащевки лаке с легким блеском, внутри силикон 200, которого хватает на зиму. Модель удлиненная, с глубоким капюшоном, застегивается на молнию, есть карманы. С поясом куртка подчеркивает талию, без него сидит свободно.
+
+Ткань: плащевка лаке. Наполнитель: силикон 200. Сезон: зима.
+Размеры: 42-44, 46-48, 50-52.</description_ru>
+<param name="Колір">Чорний з шоколадним</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">плащівка лаке; наповнювач: силікон 200</param>
+<param name="Тканина">Плащова тканина</param>
+<param name="Наповнювач">Силікон</param>
+<param name="Застібка">Блискавка</param>
+<param name="Капюшон">Є</param>
+<param name="Кишені">Є</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">1.2</param>
+<param name="Габарити в упаковці, см">45х35х15</param>
 </offer>
 </offers>
 </shop>
