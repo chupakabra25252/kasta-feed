@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 20:11">
+<yml_catalog date="2026-11-27 20:14">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -30629,6 +30629,258 @@
 <param name="Комплектація">Кофта, штани</param>
 <param name="Застібка">Блискавка</param>
 <param name="Комір">Стійка</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420BLK4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420BLK4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420BLK5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_black_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420CHO4244" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-44</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420CHO4648" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">46-48</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.8</param>
+<param name="Габарити в упаковці, см">35х30х8</param>
+</offer>
+<offer id="VS420CHO5052" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1390</price>
+<old_price>1890</old_price>
+<price_promo>1290</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_2.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_3.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/420_chocolate_4.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>420</article>
+<name_ua>Теплий костюм з ангори в рубчик з вільною кофтою з горловиною та штанами палаццо</name_ua>
+<name_ru>Теплый костюм из ангоры в рубчик со свободной кофтой с горловиной и брюками палаццо</name_ru>
+<description_ua>Ангора в рубчик м'яка й тепла, а вільний крій робить костюм легким на вигляд. Кофта оверсайз з високою горловиною і довгими рукавами, трохи подовжена ззаду.
+
+Штани палаццо широкі від стегна, пояс на резинці, тож сидять зручно і нічого не тисне.
+
+Заміри (42-44 / 46-48 / 50-52):
+кофта — груди 100 / 106 / 112 см, довжина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+штани — талія 60-70 / 66-76 / 72-82 см, стегна 100 / 106 / 112 см, довжина 104 см.
+
+Тканина: ангора рубчик.</description_ua>
+<description_ru>Ангора в рубчик мягкая и теплая, а свободный крой делает костюм легким на вид. Кофта оверсайз с высокой горловиной и длинными рукавами, немного удлинена сзади.
+
+Брюки палаццо широкие от бедра, пояс на резинке, так что сидят удобно и ничего не давит.
+
+Замеры (42-44 / 46-48 / 50-52):
+кофта — грудь 100 / 106 / 112 см, длина 57 / 58 / 59 см, рукав 69 / 70 / 71 см;
+брюки — талия 60-70 / 66-76 / 72-82 см, бедра 100 / 106 / 112 см, длина 104 см.
+
+Ткань: ангора рубчик.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">50-52</param>
+<param name="Склад">ангора рубчик</param>
+<param name="Тканина">Ангора рубчик</param>
+<param name="Комплектація">Кофта, штани</param>
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">35х30х8</param>
