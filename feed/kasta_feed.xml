@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 13:31">
+<yml_catalog date="2026-11-27 19:41">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -28566,6 +28566,176 @@
 <param name="Країна виробництва">Україна</param>
 <param name="Вага в упаковці, кг">0.8</param>
 <param name="Габарити в упаковці, см">40х30х10</param>
+</offer>
+<offer id="VS396BLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_black_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_black_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>396</article>
+<name_ua>Широкі штани джогери оверсайз з тринитки на флісі з високим поясом</name_ua>
+<name_ru>Широкие брюки джоггеры оверсайз из трехнитки на флисе с высоким поясом</name_ru>
+<description_ua>Тепла тринитка з флісом всередині, вільний широкий крій і високий м'який пояс, який можна носити підвернутим. На поясі шнурок для регулювання, з боків кишені.
+
+Низи штанин теж на шнурку: затягніть їх, і вийдуть об'ємні джогери, або залиште прямими. Добре поєднуються з худі, світшотами й кросівками.
+
+Тканина: тринитка на флісі.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Теплая трехнитка с флисом внутри, свободный широкий крой и высокий мягкий пояс, который можно носить подвернутым. На поясе шнурок для регулировки, по бокам карманы.
+
+Низы штанин тоже на шнурке: затяните их, и получатся объемные джоггеры, или оставьте прямыми. Хорошо сочетаются с худи, свитшотами и кроссовками.
+
+Ткань: трехнитка на флисе.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Чорний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Посадка">Висока</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS396CHO4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_chocolate_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_chocolate_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>396</article>
+<name_ua>Широкі штани джогери оверсайз з тринитки на флісі з високим поясом</name_ua>
+<name_ru>Широкие брюки джоггеры оверсайз из трехнитки на флисе с высоким поясом</name_ru>
+<description_ua>Тепла тринитка з флісом всередині, вільний широкий крій і високий м'який пояс, який можна носити підвернутим. На поясі шнурок для регулювання, з боків кишені.
+
+Низи штанин теж на шнурку: затягніть їх, і вийдуть об'ємні джогери, або залиште прямими. Добре поєднуються з худі, світшотами й кросівками.
+
+Тканина: тринитка на флісі.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Теплая трехнитка с флисом внутри, свободный широкий крой и высокий мягкий пояс, который можно носить подвернутым. На поясе шнурок для регулировки, по бокам карманы.
+
+Низы штанин тоже на шнурке: затяните их, и получатся объемные джоггеры, или оставьте прямыми. Хорошо сочетаются с худи, свитшотами и кроссовками.
+
+Ткань: трехнитка на флисе.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Шоколадний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Посадка">Висока</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS396GRY4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_grey_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_grey_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>396</article>
+<name_ua>Широкі штани джогери оверсайз з тринитки на флісі з високим поясом</name_ua>
+<name_ru>Широкие брюки джоггеры оверсайз из трехнитки на флисе с высоким поясом</name_ru>
+<description_ua>Тепла тринитка з флісом всередині, вільний широкий крій і високий м'який пояс, який можна носити підвернутим. На поясі шнурок для регулювання, з боків кишені.
+
+Низи штанин теж на шнурку: затягніть їх, і вийдуть об'ємні джогери, або залиште прямими. Добре поєднуються з худі, світшотами й кросівками.
+
+Тканина: тринитка на флісі.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Теплая трехнитка с флисом внутри, свободный широкий крой и высокий мягкий пояс, который можно носить подвернутым. На поясе шнурок для регулировки, по бокам карманы.
+
+Низы штанин тоже на шнурке: затяните их, и получатся объемные джоггеры, или оставьте прямыми. Хорошо сочетаются с худи, свитшотами и кроссовками.
+
+Ткань: трехнитка на флисе.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Сірий меланж</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Посадка">Висока</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS396MLK4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_milk_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_milk_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>396</article>
+<name_ua>Широкі штани джогери оверсайз з тринитки на флісі з високим поясом</name_ua>
+<name_ru>Широкие брюки джоггеры оверсайз из трехнитки на флисе с высоким поясом</name_ru>
+<description_ua>Тепла тринитка з флісом всередині, вільний широкий крій і високий м'який пояс, який можна носити підвернутим. На поясі шнурок для регулювання, з боків кишені.
+
+Низи штанин теж на шнурку: затягніть їх, і вийдуть об'ємні джогери, або залиште прямими. Добре поєднуються з худі, світшотами й кросівками.
+
+Тканина: тринитка на флісі.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Теплая трехнитка с флисом внутри, свободный широкий крой и высокий мягкий пояс, который можно носить подвернутым. На поясе шнурок для регулировки, по бокам карманы.
+
+Низы штанин тоже на шнурке: затяните их, и получатся объемные джоггеры, или оставьте прямыми. Хорошо сочетаются с худи, свитшотами и кроссовками.
+
+Ткань: трехнитка на флисе.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Молочний</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Посадка">Висока</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
+</offer>
+<offer id="VS396NVY4246" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<stock_quantity>20</stock_quantity>
+<price>1220</price>
+<old_price>1720</old_price>
+<price_promo>1120</price_promo>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_navy_1.jpg</picture>
+<picture>https://chupakabra25252.github.io/kasta-feed/img/396_navy_2.jpg</picture>
+<vendor>queensleep_7km</vendor>
+<article>396</article>
+<name_ua>Широкі штани джогери оверсайз з тринитки на флісі з високим поясом</name_ua>
+<name_ru>Широкие брюки джоггеры оверсайз из трехнитки на флисе с высоким поясом</name_ru>
+<description_ua>Тепла тринитка з флісом всередині, вільний широкий крій і високий м'який пояс, який можна носити підвернутим. На поясі шнурок для регулювання, з боків кишені.
+
+Низи штанин теж на шнурку: затягніть їх, і вийдуть об'ємні джогери, або залиште прямими. Добре поєднуються з худі, світшотами й кросівками.
+
+Тканина: тринитка на флісі.
+Розмір: 42-46, крій оверсайз.</description_ua>
+<description_ru>Теплая трехнитка с флисом внутри, свободный широкий крой и высокий мягкий пояс, который можно носить подвернутым. На поясе шнурок для регулировки, по бокам карманы.
+
+Низы штанин тоже на шнурке: затяните их, и получатся объемные джоггеры, или оставьте прямыми. Хорошо сочетаются с худи, свитшотами и кроссовками.
+
+Ткань: трехнитка на флисе.
+Размер: 42-46, крой оверсайз.</description_ru>
+<param name="Колір">Темно-синій</param>
+<param name="Розмір">42-46</param>
+<param name="Склад">тринитка на флісі</param>
+<param name="Тканина">Тринитка на флісі</param>
+<param name="Посадка">Висока</param>
+<param name="Країна виробництва">Україна</param>
+<param name="Вага в упаковці, кг">0.6</param>
+<param name="Габарити в упаковці, см">35х25х6</param>
 </offer>
 </offers>
 </shop>
